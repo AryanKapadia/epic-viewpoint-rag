@@ -1,0 +1,76 @@
+[
+  {
+    "perspective_id": "p1",
+    "perspective_number": 1,
+    "cluster_id": "c0",
+    "label": "Rent for Cost and Flexibility",
+    "confidence": "Confident",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bank First",
+      "Empower",
+      "First Citizens",
+      "Today's Homeowner",
+      "Vision Retirement",
+      "Zachos Real Estate"
+    ],
+    "source_count": 6,
+    "summary": "Renting is often more financially advantageous than buying a home, particularly in high-cost areas and when interest rates are elevated. It offers lower upfront costs and greater flexibility, making it suitable for those uncertain about their long-term location. However, renting does not build equity, which can be a disadvantage over time.",
+    "key_reasons": [
+      "cash_flow",
+      "mobility",
+      "housing_market"
+    ],
+    "conditions": [
+      "High interest rates",
+      "Soaring home prices"
+    ],
+    "caveats": [
+      "Renting does not build equity",
+      "Rising rents in some markets"
+    ]
+  },
+  {
+    "perspective_id": "p2",
+    "perspective_number": 2,
+    "cluster_id": "c1",
+    "label": "Buy for Long-Term Wealth",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bank First",
+      "DefinitiveCalc",
+      "Directions Home Loan",
+      "Empower",
+      "First Citizens",
+      "Monarch",
+      "Mortgage Calculator",
+      "Today's Homeowner",
+      "Vision Retirement",
+      "Zachos Real Estate"
+    ],
+    "source_count": 10,
+    "summary": "Buying a home is generally favored over renting for those who plan to stay in the property for at least five years, as it offers the potential for building equity and financial stability. Homeownership allows for predictable housing costs through fixed-rate mortgages and can be a strong long-term investment despite current high interest rates. However, it requires financial readiness to handle upfront costs and ongoing responsibilities.",
+    "key_reasons": [
+      "equity_building",
+      "time_horizon",
+      "financial_stability"
+    ],
+    "conditions": [
+      "You plan to stay in the home for at least five years.",
+      "You have the financial means to cover the upfront costs and ongoing expenses."
+    ],
+    "caveats": [
+      "Homeownership comes with significant responsibilities and risks.",
+      "Market downturns can shrink your home's value."
+    ]
+  }
+]

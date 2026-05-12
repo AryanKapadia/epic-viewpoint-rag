@@ -1,0 +1,95 @@
+[
+  {
+    "cluster_id": "c0",
+    "label": "Roth IRA for Future Tax Benefits",
+    "summary": "Contributing to a Roth IRA is advantageous if you are currently in a low tax bracket and expect your income and tax rate to rise in the future. This allows you to pay taxes now at a lower rate and benefit from tax-free growth and withdrawals in retirement. It is also beneficial for those early in their careers or with more assets in traditional accounts, as it provides tax diversification and benefits heirs.",
+    "key_reasons": [
+      "tax-free growth and withdrawals",
+      "future income and tax rate expectations",
+      "tax diversification"
+    ],
+    "conditions": [
+      "Currently in a low tax bracket",
+      "Expect to be in a higher tax bracket later"
+    ],
+    "caveats": [
+      "Future income may rise, affecting tax bracket",
+      "Tax rates are hard to predict due to changes in the law"
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Advisorpedia",
+      "CNBC",
+      "Empower",
+      "T. Rowe Price",
+      "White Coat Investor"
+    ],
+    "source_count": 5
+  },
+  {
+    "cluster_id": "c1",
+    "label": "Roth IRA for Tax-Free Growth",
+    "summary": "Contributing to a Roth IRA is advantageous due to its tax-free growth and withdrawal benefits. It allows after-tax contributions, with earnings growing tax-free and withdrawals being tax-free in retirement. This is particularly beneficial for younger investors or those expecting to be in higher tax brackets later.",
+    "key_reasons": [
+      "tax",
+      "withdrawal_rules",
+      "time_horizon"
+    ],
+    "conditions": [
+      "Adjusted Gross Income is below phase out ranges",
+      "You are young"
+    ],
+    "caveats": [
+      "Full contributions are limited by income",
+      "Roth IRAs have a comparatively low annual contribution limit."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Advisorpedia",
+      "Bankers Life",
+      "CNBC",
+      "Fidelity"
+    ],
+    "source_count": 4
+  },
+  {
+    "cluster_id": "c2",
+    "label": "Traditional 401k for Immediate Tax Benefits",
+    "summary": "The central claim is that contributing to a traditional 401(k) offers immediate tax benefits by reducing current taxable income. This approach is particularly beneficial for those in peak earning years or needing to lower their taxable income now. It also allows for higher contribution limits compared to a Roth IRA.",
+    "key_reasons": [
+      "tax",
+      "income_level",
+      "contribution_limits"
+    ],
+    "conditions": [
+      "You need to reduce your taxable income this year.",
+      "In peak earning years"
+    ],
+    "caveats": [
+      "Withdrawals from a traditional 401(k) will be taxed as ordinary income.",
+      "May not be beneficial if you expect your tax rate to be lower in retirement."
+    ],
+    "confidence_label": "Confident",
+    "source_types": [
+      "brand"
+    ],
+    "source_names": [
+      "Bankers Life",
+      "Empower",
+      "Fidelity",
+      "T. Rowe Price",
+      "Vanguard"
+    ],
+    "source_count": 5
+  }
+]

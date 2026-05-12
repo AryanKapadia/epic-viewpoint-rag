@@ -1,0 +1,107 @@
+[
+  {
+    "cluster_id": "c0",
+    "label": "Rent for Cost and Flexibility",
+    "summary": "Renting is often more financially sensible than buying a home, especially in high-cost areas and during periods of high interest rates. It offers lower upfront costs and greater flexibility, making it ideal for those uncertain about their long-term location or financial situation. While renting does not build equity, it can be cheaper than homeownership in many major metro areas.",
+    "key_reasons": [
+      "mobility",
+      "cash_flow",
+      "housing_market"
+    ],
+    "conditions": [
+      "High interest rates",
+      "You value flexibility and lower upfront costs."
+    ],
+    "caveats": [
+      "Renting does not build equity, which can be a long-term financial disadvantage.",
+      "Rising rents in some housing markets can make buying more attractive in the long run."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bank First",
+      "Bankrate",
+      "Discount Property Investor",
+      "Empower",
+      "First Citizens",
+      "MIG",
+      "Today's Homeowner",
+      "Vision Retirement",
+      "Yahoo Finance",
+      "Zachos Real Estate"
+    ],
+    "source_count": 10
+  },
+  {
+    "cluster_id": "c1",
+    "label": "Buy for Financial Security",
+    "summary": "The central claim is that buying a home is a proven path to lasting financial security, despite the significant upfront costs and long-term commitments involved. Homeownership can lead to greater wealth accumulation compared to renting, as mortgage payments and property value increases contribute to net worth. However, the financial stability of homeownership is contingent on factors such as creditworthiness and location.",
+    "key_reasons": [
+      "cash_flow",
+      "equity_building",
+      "maintenance_cost"
+    ],
+    "conditions": [
+      "Home prices are expected to continue climbing, which could impact savings.",
+      "Strong credit, low debt, and adequate savings can help buyers qualify for better mortgage terms."
+    ],
+    "caveats": [
+      "The significant increase in existing home sales is anticipated, with some forecasts predicting a double-digit percentage jump.",
+      "Renting may appear more affordable in the short term."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "First Citizens",
+      "Today's Homeowner",
+      "Yahoo Finance"
+    ],
+    "source_count": 3
+  },
+  {
+    "cluster_id": "c2",
+    "label": "Buy for Long-Term Wealth",
+    "summary": "Buying a home is generally better than renting if you plan to stay for at least five years, as it allows for equity building and long-term financial stability. Homeownership offers the potential for wealth growth through equity and fixed housing costs, despite high upfront expenses and market fluctuations.",
+    "key_reasons": [
+      "equity_building",
+      "time_horizon",
+      "stability"
+    ],
+    "conditions": [
+      "You plan to stay in the home for at least five years.",
+      "You have the financial means to cover the upfront costs and ongoing expenses."
+    ],
+    "caveats": [
+      "Homeownership comes with significant responsibilities and risks.",
+      "High prices and elevated mortgage rates make buying a challenge in many areas."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bank First",
+      "Bankrate",
+      "DefinitiveCalc",
+      "Directions Home Loan",
+      "Discount Property Investor",
+      "Empower",
+      "MIG",
+      "Monarch",
+      "Mortgage Calculator",
+      "Mortgage Info",
+      "Vision Retirement",
+      "Zachos Real Estate"
+    ],
+    "source_count": 12
+  }
+]

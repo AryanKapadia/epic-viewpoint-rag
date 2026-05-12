@@ -1,0 +1,65 @@
+[
+  {
+    "cluster_id": "c0",
+    "label": "Rent for Cost Efficiency",
+    "summary": "Renting is often more financially viable than buying a home, especially in high-cost areas with current high interest rates and home prices. It offers flexibility and lower upfront costs, making it appealing for those uncertain about their long-term location. However, renting does not build equity, which can be a disadvantage over time.",
+    "key_reasons": [
+      "interest_rate",
+      "cash_flow",
+      "mobility"
+    ],
+    "conditions": [
+      "High interest rates",
+      "Soaring home prices"
+    ],
+    "caveats": [
+      "Homeownership may still be beneficial in some markets",
+      "Rent payments do not build equity"
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Empower",
+      "Today's Homeowner",
+      "Vision Retirement",
+      "Zachos Real Estate"
+    ],
+    "source_count": 4
+  },
+  {
+    "cluster_id": "c1",
+    "label": "Buy for Long-Term Wealth",
+    "summary": "Buying a home is generally favored for those seeking long-term financial stability and wealth-building through home equity. It is particularly advantageous if you plan to stay in the home for several years and have the financial means to manage upfront and ongoing costs. However, the decision is complex due to market conditions and potential risks.",
+    "key_reasons": [
+      "equity_building",
+      "time_horizon",
+      "maintenance_cost"
+    ],
+    "conditions": [
+      "You plan to stay in the home for at least five years.",
+      "You have the financial means to cover the upfront costs and ongoing expenses."
+    ],
+    "caveats": [
+      "Homeownership comes with significant responsibilities and risks.",
+      "Market downturns can shrink your home's value."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Empower",
+      "Monarch",
+      "Today's Homeowner",
+      "Vision Retirement",
+      "Zachos Real Estate"
+    ],
+    "source_count": 5
+  }
+]

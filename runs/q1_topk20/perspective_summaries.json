@@ -1,0 +1,185 @@
+[
+  {
+    "cluster_id": "c0",
+    "label": "Prioritize High-Interest Debt",
+    "summary": "The central claim is to prioritize paying off high-interest debt before investing, as it offers a guaranteed return that is hard to match with investments. This approach is particularly suitable for those with a strong aversion to debt or a low risk tolerance, especially if they are nearing retirement. Paying off debt can provide psychological relief and financial security.",
+    "key_reasons": [
+      "interest_rate",
+      "psychology",
+      "risk_tolerance"
+    ],
+    "conditions": [
+      "If your debt is at 8% or higher.",
+      "If you have a strong aversion to debt."
+    ],
+    "caveats": [
+      "Not all debts are equal; consider the interest rates.",
+      "Ensure you are not neglecting tax-advantaged investment opportunities."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "credentialed"
+    ],
+    "source_names": [
+      "Whitecoatinvestor"
+    ],
+    "source_count": 1
+  },
+  {
+    "cluster_id": "c1",
+    "label": "Balanced Approach: Debt and Investment",
+    "summary": "When uncertain about whether to pay off student loans or start investing, consider splitting your income between both. This approach allows you to make progress on both fronts, though it may not maximize either outcome. Additionally, prioritize obtaining any employer match before making further financial decisions.",
+    "key_reasons": [
+      "psychology",
+      "retirement_match"
+    ],
+    "conditions": [
+      "If you have disposable income available.",
+      "If you are uncertain about your financial priorities."
+    ],
+    "caveats": [
+      "This approach may not maximize either outcome.",
+      "Ensure you are still making progress on both fronts."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "credentialed"
+    ],
+    "source_names": [
+      "Whitecoatinvestor"
+    ],
+    "source_count": 1
+  },
+  {
+    "cluster_id": "c2",
+    "label": "Balanced Approach: Debt and Investment",
+    "summary": "The central perspective suggests that it is possible to pay off student loans while also investing and saving for retirement. By understanding the impact of loan payments on savings and investments, individuals can manage both simultaneously. Investing in retirement funds like a 401(k) or IRA is recommended alongside debt repayment.",
+    "key_reasons": [
+      "liquidity",
+      "retirement_match",
+      "interest_rate"
+    ],
+    "conditions": [
+      "You have the financial capacity to do both.",
+      "If you're earning a high salary and can afford it."
+    ],
+    "caveats": [
+      "This may not be feasible for everyone depending on their financial situation.",
+      "715 a month is a damned ball and chain unless it's your mortgage."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "community",
+      "financial_media"
+    ],
+    "source_names": [
+      "Nerdwallet",
+      "Reddit_bogleheads",
+      "Truist"
+    ],
+    "source_count": 3
+  },
+  {
+    "cluster_id": "c3",
+    "label": "High-Interest Debt First",
+    "summary": "The central perspective argues that paying off student loans, especially those with high interest rates, should be prioritized over investing. This approach can save more money in the long run by reducing total interest payments and improving financial stability. The decision is particularly relevant when loan interest rates exceed potential investment returns.",
+    "key_reasons": [
+      "interest_rate",
+      "forgiveness",
+      "psychology"
+    ],
+    "conditions": [
+      "If your student loan interest rate is high.",
+      "If you have private student loans."
+    ],
+    "caveats": [
+      "Investing may yield higher returns in the long run.",
+      "Your unique tax liability, employer match benefit and student debt details may impact your decision."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "community",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bankrate",
+      "Collegefinance",
+      "Finstart",
+      "Huntingtonbank",
+      "Investopedia",
+      "Nerdwallet",
+      "Reddit"
+    ],
+    "source_count": 7
+  },
+  {
+    "cluster_id": "c4",
+    "label": "Invest Over Low-Interest Loans",
+    "summary": "The central perspective suggests prioritizing investing over paying off low-interest student loans. This approach is based on the potential for higher returns from investments compared to the savings from early loan repayment. It is particularly advantageous if the student loan interest rate is below 6% and if tax-advantaged accounts are available.",
+    "key_reasons": [
+      "investment_return",
+      "interest_rate",
+      "tax"
+    ],
+    "conditions": [
+      "If your student loan interest rate is below 6%.",
+      "If you have access to tax-sheltered accounts like a 401(k) or Roth IRA."
+    ],
+    "caveats": [
+      "Investing carries risks and is not guaranteed to yield higher returns.",
+      "Consider the psychological benefits of being debt-free."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Cnbc",
+      "Collegefinance",
+      "Finstart",
+      "Hatcheditorial",
+      "Huntingtonbank",
+      "Investopedia",
+      "Johnhancock",
+      "Nerdwallet",
+      "Reddit",
+      "Reddit_bogleheads",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 11
+  },
+  {
+    "cluster_id": "c5",
+    "label": "Debt Freedom and Peace of Mind",
+    "summary": "Paying off student loans is prioritized for achieving peace of mind and financial security. It minimizes debt and builds net worth, offering a sense of freedom from financial burdens. While investing is beneficial, eliminating debt is considered a stronger and more immediate financial priority.",
+    "key_reasons": [
+      "risk_tolerance",
+      "psychology",
+      "interest_rate"
+    ],
+    "conditions": [],
+    "caveats": [
+      "Job loss could lead to inability to make payments, increasing loan balance.",
+      "Investing in the market carries inherent risks.",
+      "Investing can be considered if your budget allows for it.",
+      "The effectiveness of paying down debt may vary based on individual financial situations."
+    ],
+    "confidence_label": "Confident",
+    "source_types": [
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Hatcheditorial",
+      "Reddit",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 3
+  }
+]

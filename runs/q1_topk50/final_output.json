@@ -1,0 +1,208 @@
+[
+  {
+    "perspective_id": "p1",
+    "perspective_number": 1,
+    "cluster_id": "c0",
+    "label": "High-Interest Debt First",
+    "confidence": "Confident",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "BankRate",
+      "CollegeFinance",
+      "DonovanBrooks",
+      "NerdWallet",
+      "RamseySolutions",
+      "TheStreet",
+      "WhiteCoatInvestor"
+    ],
+    "source_count": 7,
+    "summary": "The central perspective is to prioritize paying off student loans, especially those with high interest rates, before investing. This approach is seen as a guaranteed investment with a better return than many market options. It also frees up income for future wealth accumulation and reduces financial burden.",
+    "key_reasons": [
+      "interest_rate",
+      "psychology",
+      "investment_return"
+    ],
+    "conditions": [
+      "If your debt is at 8% or higher.",
+      "If your student loan interest rate is higher than 6%."
+    ],
+    "caveats": [
+      "Not all debts are equal; consider the interest rates.",
+      "This could lead to missing out on employer matching contributions and compounded growth from investments."
+    ]
+  },
+  {
+    "perspective_id": "p2",
+    "perspective_number": 2,
+    "cluster_id": "c1",
+    "label": "Debt First: High Interest Priority",
+    "confidence": "Confident",
+    "source_types": [
+      "community",
+      "financial_media"
+    ],
+    "source_names": [
+      "HatchEditorial",
+      "reddit"
+    ],
+    "source_count": 2,
+    "summary": "The central perspective is that paying off student loans should be prioritized over investing. This approach is particularly strong when dealing with high-interest debt, such as an 8.83% loan, which is considered expensive. Reducing debt can also help manage cash flow if financial liquidity is a concern.",
+    "key_reasons": [
+      "interest_rate",
+      "liquidity",
+      "tax"
+    ],
+    "conditions": [
+      "If you are struggling for cash flow."
+    ],
+    "caveats": [
+      "The decision can vary based on personal circumstances and preferences.",
+      "Investing HSA funds in something like FXAIX can average higher long term, but it’s not guaranteed and comes with market risk."
+    ]
+  },
+  {
+    "perspective_id": "p3",
+    "perspective_number": 3,
+    "cluster_id": "c2",
+    "label": "Balanced Approach: Debt and Investment",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "JohnHancock",
+      "NerdWallet",
+      "Truist",
+      "WhiteCoatInvestor",
+      "reddit_bogleheads"
+    ],
+    "source_count": 5,
+    "summary": "The central perspective suggests that it is possible to both pay off student loans and start investing simultaneously. This approach requires a solid financial foundation, strategic planning, and the ability to manage financial priorities effectively. It emphasizes the importance of not having to choose between the two, but rather balancing them for long-term financial health.",
+    "key_reasons": [
+      "psychology",
+      "liquidity",
+      "retirement_match"
+    ],
+    "conditions": [
+      "You have a solid financial foundation with money left over each month.",
+      "You have a strategy to balance both paying off loans and investing"
+    ],
+    "caveats": [
+      "This approach requires discipline and planning.",
+      "Managing your financial priorities is a balancing act."
+    ]
+  },
+  {
+    "perspective_id": "p4",
+    "perspective_number": 4,
+    "cluster_id": "c3",
+    "label": "Debt Freedom and Peace of Mind",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed"
+    ],
+    "source_names": [
+      "RamseySolutions",
+      "WhiteCoatInvestor",
+      "reddit"
+    ],
+    "source_count": 3,
+    "summary": "Paying off student loans is beneficial for achieving peace of mind and building net worth. It can also lead to significantly higher retirement savings by reducing interest payments and allowing for more effective future investments. This perspective emphasizes the psychological and financial benefits of eliminating debt.",
+    "key_reasons": [
+      "psychology",
+      "investment_return",
+      "liquidity"
+    ],
+    "conditions": [
+      "You can afford to increase your monthly payments to pay off debt faster.",
+      "You are starting with a significant amount of student loan debt."
+    ],
+    "caveats": [
+      "This is more of an emotional argument rather than a financial one.",
+      "This approach requires discipline and may involve temporary sacrifices."
+    ]
+  },
+  {
+    "perspective_id": "p5",
+    "perspective_number": 5,
+    "cluster_id": "c4",
+    "label": "High-Interest Debt First",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Finstart",
+      "HuntingtonBank",
+      "Investopedia",
+      "NerdWallet",
+      "WhiteCoatInvestor",
+      "reddit"
+    ],
+    "source_count": 6,
+    "summary": "The central perspective advocates for paying off student loans, especially if they have high interest rates, as this can save more money in the long run. This approach is particularly recommended for private loans, which often lack favorable repayment options. Paying off loans early can also improve financial stability and credit scores.",
+    "key_reasons": [
+      "interest_rate",
+      "forgiveness",
+      "psychology"
+    ],
+    "conditions": [
+      "If your loan interest rate is high",
+      "You have private student loans."
+    ],
+    "caveats": [
+      "It depends on your individual financial situation, goals, and the specifics of your loans and investment opportunities.",
+      "You may miss out on potential higher returns from investments."
+    ]
+  },
+  {
+    "perspective_id": "p6",
+    "perspective_number": 6,
+    "cluster_id": "c5",
+    "label": "Invest Over Low-Interest Loans",
+    "confidence": "Confident",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "CNBC",
+      "HuntingtonBank",
+      "Investopedia",
+      "NerdWallet",
+      "Truist",
+      "WhiteCoatInvestor",
+      "reddit",
+      "reddit_bogleheads"
+    ],
+    "source_count": 8,
+    "summary": "The central perspective advocates for investing spare cash rather than paying off low-interest student loans quickly. This approach is supported by the potential for higher returns from investments, especially in tax-advantaged accounts, and the benefits of employer retirement matches. It is suggested that maintaining low-interest loans can be financially advantageous in the long term.",
+    "key_reasons": [
+      "interest_rate",
+      "investment_return",
+      "tax"
+    ],
+    "conditions": [
+      "If your student loan interest rate is below 5%.",
+      "If you have access to tax-sheltered accounts like a 401(k) or IRA."
+    ],
+    "caveats": [
+      "Investing may lead to remaining in debt longer, which could be mentally taxing.",
+      "There is a risk of losses with investments."
+    ]
+  }
+]

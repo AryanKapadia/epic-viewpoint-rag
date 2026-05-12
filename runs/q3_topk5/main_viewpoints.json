@@ -1,0 +1,68 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c0",
+    "label": "Emergency Fund Before Debt",
+    "confidence": "Confident",
+    "mean_confidence": 0.5648733041766719,
+    "size": 5,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "brand"
+    ],
+    "source_names": [
+      "Centier Bank",
+      "Navy Federal",
+      "PNC",
+      "SoFi",
+      "UMB Blog"
+    ],
+    "source_count": 5,
+    "summary": "The central perspective argues for building an emergency fund before aggressively paying down credit card debt to ensure financial stability and avoid incurring more debt from unexpected expenses. Establishing a modest emergency fund provides a financial cushion and peace of mind, protecting against financial disruptions. This approach is particularly advisable if you lack any savings or face variable income and near-term costs.",
+    "key_reasons": [
+      "liquidity",
+      "risk_tolerance",
+      "job_stability"
+    ],
+    "conditions": [
+      "You have enough savings to cover necessary expenses.",
+      "If you don't have an emergency fund"
+    ],
+    "caveats": [
+      "Unexpected expenses can still arise, requiring careful planning.",
+      "Using savings to pay off debt can leave you without a financial cushion for emergencies."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c1",
+    "label": "High-Interest Debt First",
+    "confidence": "Confident",
+    "mean_confidence": 0.5508420217909957,
+    "size": 5,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "brand"
+    ],
+    "source_names": [
+      "Centier Bank",
+      "Navy Federal",
+      "PNC",
+      "UMB Blog"
+    ],
+    "source_count": 4,
+    "summary": "The central claim is that paying down high-interest credit card debt should be prioritized to save money in the long run. This approach is particularly beneficial when you have high-interest debt that costs more than potential savings earnings. It is suggested to focus on the highest interest or highest balance accounts first.",
+    "key_reasons": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "conditions": [
+      "You have high-interest credit card debt.",
+      "You can make larger payments towards your debt."
+    ],
+    "caveats": [
+      "Focusing solely on debt repayment may deplete your savings.",
+      "Be sure to keep paying all minimums on time."
+    ]
+  }
+]

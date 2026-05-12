@@ -1,0 +1,141 @@
+{
+  "input_file": "/Users/aryankapadia/Downloads/q1_corpus_final.xlsx",
+  "output_dir": "/Users/aryankapadia/Desktop/Sample_pipeline/epistemic-rag/prepared_team_corpus",
+  "total_rows": 103,
+  "original_query_counts": {
+    "q1": 22,
+    "q2": 20,
+    "q3": 21,
+    "q4": 21,
+    "q5": 19
+  },
+  "predicted_query_counts": {
+    "q1": 18,
+    "q3": 24,
+    "unknown": 4,
+    "q5": 15,
+    "q4": 20,
+    "q2": 22
+  },
+  "quality_decision_counts": {
+    "review": 1,
+    "keep": 96,
+    "drop": 6
+  },
+  "per_query_summary": [
+    {
+      "query_id": "q1",
+      "query_label": "Student loans vs investing",
+      "rows_ready": 18,
+      "rows_keep": 17,
+      "rows_review": 1,
+      "source_breakdown": {
+        "financial_media": 7,
+        "brand": 4,
+        "credentialed": 2,
+        "community": 5
+      }
+    },
+    {
+      "query_id": "q2",
+      "query_label": "Roth IRA vs traditional 401k",
+      "rows_ready": 22,
+      "rows_keep": 22,
+      "rows_review": 0,
+      "source_breakdown": {
+        "financial_media": 3,
+        "brand": 14,
+        "credentialed": 5
+      }
+    },
+    {
+      "query_id": "q3",
+      "query_label": "Emergency fund vs credit card debt",
+      "rows_ready": 23,
+      "rows_keep": 23,
+      "rows_review": 0,
+      "source_breakdown": {
+        "brand": 15,
+        "credentialed": 3,
+        "financial_media": 5
+      }
+    },
+    {
+      "query_id": "q4",
+      "query_label": "Buy vs rent",
+      "rows_ready": 20,
+      "rows_keep": 20,
+      "rows_review": 0,
+      "source_breakdown": {
+        "financial_media": 6,
+        "brand": 11,
+        "credentialed": 3
+      }
+    },
+    {
+      "query_id": "q5",
+      "query_label": "Index funds vs mortgage payoff",
+      "rows_ready": 12,
+      "rows_keep": 12,
+      "rows_review": 0,
+      "source_breakdown": {
+        "credentialed": 2,
+        "brand": 7,
+        "financial_media": 3
+      }
+    }
+  ],
+  "dropped_examples": [
+    {
+      "id": "q5_004",
+      "query_id": "q5",
+      "source_name": "Ameriprise",
+      "url": "https://www.ameriprise.com/financial-goals-priorities/personal-finance/should-you-pay-off-your-mortgage",
+      "quality_notes": "broken_page_text"
+    },
+    {
+      "id": "q5_011",
+      "query_id": "unknown",
+      "source_name": "Quora",
+      "url": "https://www.quora.com/Should-I-pay-off-my-mortgage-or-should-I-put-the-money-I-have-in-the-S-P-500-index-instead-for-the-long-term",
+      "quality_notes": "very_short_document;broken_page_text;blocked_page_text"
+    },
+    {
+      "id": "q5_013",
+      "query_id": "q5",
+      "source_name": "Reddit",
+      "url": "https://www.reddit.com/r/financialindependence/",
+      "quality_notes": "generic_subreddit_page"
+    },
+    {
+      "id": "q5_014",
+      "query_id": "unknown",
+      "source_name": "Reddit",
+      "url": "https://www.reddit.com/r/financialindependence/comments/ecn2hk/fire_flow_chart_version_42/",
+      "quality_notes": "generic_reference_page"
+    },
+    {
+      "id": "q5_015",
+      "query_id": "q5",
+      "source_name": "Reddit",
+      "url": "https://www.reddit.com/r/financialindependence/wiki/faq/",
+      "quality_notes": "generic_reference_page"
+    },
+    {
+      "id": "q3_021",
+      "query_id": "q3",
+      "source_name": "Reddit",
+      "url": "https://www.reddit.com/r/personalfinance/wiki/commontopics",
+      "quality_notes": "generic_reference_page"
+    }
+  ],
+  "review_examples": [
+    {
+      "id": "q1_001",
+      "query_id": "q1",
+      "source_name": "Investopedia",
+      "url": "",
+      "quality_notes": "missing_or_invalid_url"
+    }
+  ]
+}

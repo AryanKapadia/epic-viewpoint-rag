@@ -1,0 +1,14 @@
+streamlit
+openai
+pandas
+numpy
+scikit-learn
+tqdm
+openpyxl
+sentence-transformers
+python-dotenv
+nbformat
+rank-bm25
+matplotlib
+seaborn
+pypdf

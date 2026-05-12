@@ -1,0 +1,196 @@
+[
+  {
+    "cluster_id": "c0",
+    "label": "High-Interest Debt First",
+    "summary": "The central perspective advocates for prioritizing paying down high-interest credit card debt before building an emergency fund. This approach is supported by the high costs associated with credit card interest rates, which can significantly increase the total amount owed over time. While having a modest emergency fund is beneficial, the focus should be on reducing debt to improve cash flow and prevent further financial strain.",
+    "key_reasons": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "conditions": [
+      "You have high-interest debt.",
+      "You have a modest emergency fund."
+    ],
+    "caveats": [
+      "Building an emergency fund may provide a false sense of security",
+      "Using a credit card for emergencies can incur high interest but for a shorter period"
+    ],
+    "confidence_label": "Confident",
+    "source_types": [
+      "brand",
+      "financial_media"
+    ],
+    "source_names": [
+      "Alliant Credit Union",
+      "CNBC",
+      "Navy Federal",
+      "Northwestern Mutual"
+    ],
+    "source_count": 4
+  },
+  {
+    "cluster_id": "c1",
+    "label": "High-Interest Debt First",
+    "summary": "The central perspective advocates for prioritizing the repayment of high-interest credit card debt before building an emergency fund. This approach is supported by the potential to save money on interest and improve financial health. However, it acknowledges the risk of having limited savings for unexpected expenses.",
+    "key_reasons": [
+      "interest_rate",
+      "cash_flow",
+      "psychology"
+    ],
+    "conditions": [
+      "You have high-interest credit card debt.",
+      "You can make larger payments towards your debt."
+    ],
+    "caveats": [
+      "Focusing solely on debt repayment may deplete your savings.",
+      "This approach may lead to a lack of savings for unexpected expenses."
+    ],
+    "confidence_label": "Confident",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Ally",
+      "Centier Bank",
+      "Chase",
+      "Discover",
+      "Donovanbrooks",
+      "Nerdwallet",
+      "Ramseysolutions",
+      "Suze Orman",
+      "UMB Blog"
+    ],
+    "source_count": 9
+  },
+  {
+    "cluster_id": "c2",
+    "label": "Balance Savings and Debt Repayment",
+    "summary": "The central perspective advocates for simultaneously building a small emergency fund while paying down high-interest credit card debt. This approach helps manage risk and interest costs, ensuring liquidity for emergencies while reducing debt. It is not an either-or decision but a balanced strategy to achieve both financial goals.",
+    "key_reasons": [
+      "liquidity",
+      "cash_flow",
+      "interest_rate"
+    ],
+    "conditions": [
+      "You have no emergency fund yet.",
+      "You carry high-interest credit card debt."
+    ],
+    "caveats": [
+      "This may not always be the right solution.",
+      "Balancing both may require careful budgeting and financial discipline."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "financial_media"
+    ],
+    "source_names": [
+      "Ally",
+      "Bankrate",
+      "Centier Bank",
+      "LendingTree",
+      "Nerdwallet",
+      "PNC"
+    ],
+    "source_count": 6
+  },
+  {
+    "cluster_id": "c3",
+    "label": "Emergency Fund Before Debt",
+    "summary": "The central perspective advocates for building an emergency fund before aggressively paying down credit card debt. This approach ensures financial stability and provides a safety net against unexpected expenses, which can prevent further debt accumulation. Establishing even a modest emergency fund can offer psychological relief and better cash flow management.",
+    "key_reasons": [
+      "liquidity",
+      "risk_tolerance",
+      "psychology"
+    ],
+    "conditions": [
+      "You have no emergency fund set aside.",
+      "You have a stable income that allows for saving."
+    ],
+    "caveats": [
+      "Building an emergency fund may take time, during which credit card debt could accrue interest.",
+      "If you have high-interest debt, you may need to balance your approach."
+    ],
+    "confidence_label": "Confident",
+    "source_types": [
+      "brand",
+      "credentialed"
+    ],
+    "source_names": [
+      "Alliant Credit Union",
+      "Chase",
+      "Consumer Financial Protection Bureau",
+      "Discover",
+      "Donovanbrooks",
+      "Northwestern Mutual",
+      "PNC",
+      "SoFi",
+      "UMB Blog"
+    ],
+    "source_count": 9
+  },
+  {
+    "cluster_id": "c4",
+    "label": "Balance Savings and Debt",
+    "summary": "The central perspective advocates for balancing the building of an emergency fund with paying down credit card debt. This approach ensures liquidity for emergencies while managing debt obligations. It emphasizes the importance of maintaining cash flow and psychological peace of mind.",
+    "key_reasons": [
+      "liquidity",
+      "cash_flow",
+      "psychology"
+    ],
+    "conditions": [
+      "You have a plan to manage both savings and debt repayment.",
+      "You can adjust your budget accordingly."
+    ],
+    "caveats": [
+      "Sticking to a plan consistently is essential.",
+      "The approach may vary based on individual financial situations."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Alliant Credit Union",
+      "Bankrate",
+      "CNBC",
+      "Discover",
+      "Suze Orman"
+    ],
+    "source_count": 5
+  },
+  {
+    "cluster_id": "c5",
+    "label": "Emergency Fund Before Debt",
+    "summary": "The central claim is that building an emergency fund should take priority over paying down credit card debt. This approach provides a financial cushion to handle unexpected expenses, preventing the accumulation of new debt. It is particularly advisable if your income is unstable or you face near-term costs.",
+    "key_reasons": [
+      "liquidity",
+      "job_stability",
+      "risk_tolerance"
+    ],
+    "conditions": [
+      "Your income changes from month to month.",
+      "You face near-term costs (car repair, moving, medical copay)."
+    ],
+    "caveats": [
+      "Your debt rates are low (like many federal student loans in repayment).",
+      "You can still pay down your debts while saving"
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "brand",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bankrate",
+      "Centier Bank",
+      "LendingTree",
+      "Navy Federal"
+    ],
+    "source_count": 4
+  }
+]

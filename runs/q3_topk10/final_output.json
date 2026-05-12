@@ -1,0 +1,129 @@
+[
+  {
+    "perspective_id": "p1",
+    "perspective_number": 1,
+    "cluster_id": "c0",
+    "label": "High-Interest Debt First",
+    "confidence": "Confident",
+    "source_types": [
+      "brand"
+    ],
+    "source_names": [
+      "Centier Bank",
+      "Discover",
+      "Navy Federal",
+      "Northwestern Mutual",
+      "UMB Blog"
+    ],
+    "source_count": 5,
+    "summary": "Prioritizing the repayment of high-interest credit card debt is crucial for long-term financial health. This approach saves money by reducing the amount of interest paid over time. It is especially beneficial if you have high-interest debt and can allocate larger payments towards it.",
+    "key_reasons": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "conditions": [
+      "You have high-interest credit card debt.",
+      "You can make larger payments towards your debt."
+    ],
+    "caveats": [
+      "Focusing solely on debt repayment may deplete your savings.",
+      "It may be easier to pay off lower balance cards for psychological benefits."
+    ]
+  },
+  {
+    "perspective_id": "p2",
+    "perspective_number": 2,
+    "cluster_id": "c1",
+    "label": "Emergency Fund Before Debt",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed"
+    ],
+    "source_names": [
+      "Consumer Financial Protection Bureau",
+      "Discover",
+      "Northwestern Mutual",
+      "PNC",
+      "SoFi",
+      "UMB Blog"
+    ],
+    "source_count": 6,
+    "summary": "The central perspective advocates for building an emergency fund before aggressively paying down credit card debt. This approach ensures financial stability and provides a buffer against unexpected expenses, reducing the need to rely on credit. Establishing even a modest emergency fund can prevent future financial setbacks.",
+    "key_reasons": [
+      "liquidity",
+      "risk_tolerance",
+      "cash_flow"
+    ],
+    "conditions": [
+      "You have no emergency fund set aside.",
+      "You can consistently set aside money each month."
+    ],
+    "caveats": [
+      "If you have high-interest debt, you may need to balance your approach.",
+      "Building an emergency fund may take time and discipline."
+    ]
+  },
+  {
+    "perspective_id": "p3",
+    "perspective_number": 3,
+    "cluster_id": "c2",
+    "label": "Balance Savings and Debt Repayment",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bankrate",
+      "Centier Bank",
+      "Discover",
+      "PNC"
+    ],
+    "source_count": 4,
+    "summary": "The central perspective advocates for simultaneously building a small emergency fund while paying down high-interest credit card debt. This approach helps manage liquidity and cash flow, reducing financial risk and interest costs. It emphasizes the importance of finding a personal balance between saving and debt repayment.",
+    "key_reasons": [
+      "liquidity",
+      "cash_flow",
+      "psychology"
+    ],
+    "conditions": [
+      "You have no emergency fund yet.",
+      "You carry high-interest credit card debt."
+    ],
+    "caveats": [
+      "This may not always be the right solution.",
+      "Sticking to a plan consistently is essential."
+    ]
+  },
+  {
+    "perspective_id": "p4",
+    "perspective_number": 4,
+    "cluster_id": "c3",
+    "label": "Emergency Buffer First",
+    "confidence": "Confident",
+    "source_types": [
+      "brand",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bankrate",
+      "Centier Bank",
+      "Navy Federal"
+    ],
+    "source_count": 3,
+    "summary": "The central claim is that building an emergency fund should take priority over paying down credit card debt if you lack savings. Having a financial cushion can prevent you from incurring more debt when unexpected expenses arise. This approach is particularly important if your income is unstable or you anticipate near-term costs.",
+    "key_reasons": [
+      "liquidity",
+      "job_stability",
+      "risk_tolerance"
+    ],
+    "conditions": [
+      "Your income changes from month to month.",
+      "You face near-term costs (car repair, moving, medical copay)."
+    ],
+    "caveats": [
+      "Your debt rates are low (like many federal student loans in repayment)."
+    ]
+  }
+]

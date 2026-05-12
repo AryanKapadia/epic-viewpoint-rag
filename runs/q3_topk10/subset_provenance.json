@@ -1,0 +1,8 @@
+{
+  "query_id": "q3",
+  "target_top_k": 10,
+  "derived_from": "q3_topk20",
+  "retrieved_docs": 10,
+  "structured_arguments": 19,
+  "indexed_arguments": 19
+}

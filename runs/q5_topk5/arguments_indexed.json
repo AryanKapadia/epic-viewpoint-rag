@@ -1,0 +1,361 @@
+[
+  {
+    "id": "q5_002_a0",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_002",
+    "source_type": "brand",
+    "source_name": "Homestead Financial",
+    "url": "https://homesteadfinancial.com/personal-finance/should-i-pay-off-my-mortgage-early/",
+    "bm25_score": 9.536450181912679,
+    "retrieval_rank": 1,
+    "main_claim": "Financially speaking, it is best to invest in index funds rather than pay off your mortgage early.",
+    "supporting_text": "Historically, the stock market has yielded higher returns compared to mortgage interest rates. By investing in diversified portfolios, you can grow your wealth faster than the rate at which you'd save on mortgage interest.",
+    "conditions": [
+      "You must have a stable source of income that allows you to invest in a long-term strategy.",
+      "You should be able to ride out tough times and keep your money in your investments."
+    ],
+    "caveats": [
+      "There is a certain allure to paying off your mortgage early, which can provide a sense of security and peace of mind.",
+      "Real-life financial situations may vary, and personal circumstances should be considered."
+    ],
+    "reason_types": [
+      "investment_return",
+      "risk_tolerance",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 35,
+    "confidence_score": 0.7037640269954651,
+    "posture": "confident",
+    "h1_prob": 0.7037640269954651,
+    "h2_prob": 0.24616870774692243,
+    "h3_prob": 0.050067265257612334
+  },
+  {
+    "id": "q5_002_a1",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_002",
+    "source_type": "brand",
+    "source_name": "Homestead Financial",
+    "url": "https://homesteadfinancial.com/personal-finance/should-i-pay-off-my-mortgage-early/",
+    "bm25_score": 9.536450181912679,
+    "retrieval_rank": 1,
+    "main_claim": "Paying off your mortgage early can provide significant interest savings and peace of mind.",
+    "supporting_text": "By paying off your mortgage early, you can significantly reduce the amount of interest you'll pay over the life of the loan. Eliminating mortgage debt reduces your financial risk and provides a sense of security.",
+    "conditions": [
+      "You may prefer the emotional satisfaction of being debt-free.",
+      "You may have a lower risk tolerance and prefer the security of not having monthly payments."
+    ],
+    "caveats": [
+      "This approach may yield lower financial returns compared to investing in the stock market.",
+      "It may limit your liquidity compared to having investments."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology",
+      "liquidity"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 36,
+    "confidence_score": 0.01080205430204497,
+    "posture": "informational",
+    "h1_prob": 0.01080205430204497,
+    "h2_prob": 0.9845725795797798,
+    "h3_prob": 0.004625366118175367
+  },
+  {
+    "id": "q5_010_a0",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_010",
+    "source_type": "credentialed",
+    "source_name": "One Day in July",
+    "url": "https://www.onedayinjuly.com/should-i-pay-down-my-house-mortgage-or-invest-my-cash",
+    "bm25_score": 8.648300619292606,
+    "retrieval_rank": 2,
+    "main_claim": "It is typically better to invest your money rather than paying off your mortgage at a faster rate.",
+    "supporting_text": "For example, if you were to invest in an index fund that tracks the S&P 500, the S&P 500 has returned an average of 10+% annually over the last century. Considering that more than 82% of homeowners have mortgages with interest rates less than 5%, the vast majority of homeowners are likely to see better long term financial results from investing in a low fee S&P 500 index fund with a historic return of 8+% than reducing the duration of their mortgage with a less than 5% interest rate.",
+    "conditions": [
+      "Homeowners have mortgages with interest rates less than 5%.",
+      "Investing timeline is long enough to weather market volatility."
+    ],
+    "caveats": [
+      "The stock market is more volatile than the housing market.",
+      "Investors need to match their investment strategy with their risk tolerance."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "investment_return",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 92,
+    "confidence_score": 0.8709877402452972,
+    "posture": "confident",
+    "h1_prob": 0.8709877402452972,
+    "h2_prob": 0.02025937628180083,
+    "h3_prob": 0.1087528834729018
+  },
+  {
+    "id": "q5_010_a1",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_010",
+    "source_type": "credentialed",
+    "source_name": "One Day in July",
+    "url": "https://www.onedayinjuly.com/should-i-pay-down-my-house-mortgage-or-invest-my-cash",
+    "bm25_score": 8.648300619292606,
+    "retrieval_rank": 2,
+    "main_claim": "Homeowners with interest rates closer to 7% may benefit more from paying down their mortgage.",
+    "supporting_text": "If you are a new homeowner who mortgaged a home in 2022 or 2023, you may be saddled with interest rates closer to 7%. Homeowners with interest rates this high may not reap enough benefit from market investing and might better put that extra cash to work by reducing their mortgage payments or duration.",
+    "conditions": [
+      "Homeowners have mortgages with interest rates closer to 7%."
+    ],
+    "caveats": [
+      "Refinancing when interest rates fall may also be an important strategy to leverage."
+    ],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 54,
+    "confidence_score": 0.9294457807191701,
+    "posture": "confident",
+    "h1_prob": 0.9294457807191701,
+    "h2_prob": 0.05268723975068272,
+    "h3_prob": 0.017866979530147074
+  },
+  {
+    "id": "q5_010_a2",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_010",
+    "source_type": "credentialed",
+    "source_name": "One Day in July",
+    "url": "https://www.onedayinjuly.com/should-i-pay-down-my-house-mortgage-or-invest-my-cash",
+    "bm25_score": 8.648300619292606,
+    "retrieval_rank": 2,
+    "main_claim": "Some people may prefer to pay off their mortgage for peace of mind.",
+    "supporting_text": "For some, regardless of the math, paying off the mortgage can provide peace of mind. Until your mortgage is repaid, the bank technically owns your home, and that may not sit well with you.",
+    "conditions": [
+      "Individuals are debt averse."
+    ],
+    "caveats": [],
+    "reason_types": [
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 34,
+    "confidence_score": 0.6581484718919051,
+    "posture": "confident",
+    "h1_prob": 0.6581484718919051,
+    "h2_prob": 0.2836778288732358,
+    "h3_prob": 0.05817369923485917
+  },
+  {
+    "id": "q5_018_a0",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_018",
+    "source_type": "brand",
+    "source_name": "Wealthfront",
+    "url": "https://www.wealthfront.com/blog/ask-wealthfront-prepay-mortgage-or-invest/",
+    "bm25_score": 8.088640105171118,
+    "retrieval_rank": 3,
+    "main_claim": "Investing in index funds is generally recommended for building long-term wealth.",
+    "supporting_text": "At Wealthfront, we believe investing is key to building long-term wealth, but there can also be benefits to paying off your mortgage sooner. If you ultimately decide it makes sense to invest your savings instead of prepaying your mortgage, we suggest investing in a globally diversified portfolio of low-cost index funds like Wealthfront's Classic portfolio.",
+    "conditions": [
+      "You have extra cash available after covering emergency funds and significant known expenses.",
+      "You have already handled your high-interest debt."
+    ],
+    "caveats": [
+      "Expected returns from investing are not guaranteed.",
+      "You should compare your mortgage interest rate to your expected returns from investing."
+    ],
+    "reason_types": [
+      "investment_return",
+      "liquidity"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 58,
+    "confidence_score": 0.8856389906363343,
+    "posture": "confident",
+    "h1_prob": 0.8856389906363343,
+    "h2_prob": 0.1057270805082973,
+    "h3_prob": 0.008633928855368313
+  },
+  {
+    "id": "q5_018_a1",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_018",
+    "source_type": "brand",
+    "source_name": "Wealthfront",
+    "url": "https://www.wealthfront.com/blog/ask-wealthfront-prepay-mortgage-or-invest/",
+    "bm25_score": 8.088640105171118,
+    "retrieval_rank": 3,
+    "main_claim": "Paying off your mortgage early can be beneficial if your mortgage interest rate is higher than your expected investment returns.",
+    "supporting_text": "If your mortgage interest rate is 7% and your expected return from investing is still 5%, you might want to take the opposite approach and pre-pay your mortgage. That's because the amount you would save in interest is higher than what you'd expect to earn on that money if you invested it.",
+    "conditions": [
+      "You have confirmed you do have extra cash.",
+      "You have already handled your high-interest debt."
+    ],
+    "caveats": [
+      "You should consider the tax implications of mortgage prepayment.",
+      "Prepayment penalties may apply."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "tax"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 20,
+    "supporting_word_count": 55,
+    "confidence_score": 0.5929573450585969,
+    "posture": "conditional",
+    "h1_prob": 0.5929573450585969,
+    "h2_prob": 0.4025927270057051,
+    "h3_prob": 0.00444992793569799
+  },
+  {
+    "id": "q5_005_a0",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_005",
+    "source_type": "financial_media",
+    "source_name": "Bankrate",
+    "url": "https://www.bankrate.com/mortgages/pay-off-mortgage-or-invest/",
+    "bm25_score": 7.811250768753811,
+    "retrieval_rank": 4,
+    "main_claim": "Investing in index funds might yield a more significant return than paying off your mortgage early.",
+    "supporting_text": "However, putting available funds into investments instead might yield a more significant return and make you more money. If your investment returns outpace the national average mortgage interest rate, consider keeping your current mortgage and accelerating your investments.",
+    "conditions": [
+      "Your mortgage interest rate is less than the expected return on investments.",
+      "You have sufficient emergency savings."
+    ],
+    "caveats": [
+      "Investing in the stock market is volatile, and there are no guarantees.",
+      "You still have to make your mortgage payment."
+    ],
+    "reason_types": [
+      "investment_return",
+      "risk_tolerance",
+      "liquidity"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 38,
+    "confidence_score": 0.35684028959346126,
+    "posture": "conditional",
+    "h1_prob": 0.35684028959346126,
+    "h2_prob": 0.6218348969087152,
+    "h3_prob": 0.02132481349782348
+  },
+  {
+    "id": "q5_005_a1",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_005",
+    "source_type": "financial_media",
+    "source_name": "Bankrate",
+    "url": "https://www.bankrate.com/mortgages/pay-off-mortgage-or-invest/",
+    "bm25_score": 7.811250768753811,
+    "retrieval_rank": 4,
+    "main_claim": "Paying off your mortgage early can save you a hefty amount of interest over time.",
+    "supporting_text": "Using extra cash to pay off your mortgage loan early can save homeowners a hefty amount of interest over time. The sooner you pay off your mortgage, the less interest you'll pay overall.",
+    "conditions": [
+      "You have high-interest obligations to pay down first.",
+      "You prefer to eliminate debt for peace of mind."
+    ],
+    "caveats": [
+      "Putting all your excess cash into your mortgage means tying it up in an illiquid asset.",
+      "You'll lose the ability to take the mortgage interest deduction on your taxes."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 34,
+    "confidence_score": 0.4069743589149679,
+    "posture": "conditional",
+    "h1_prob": 0.4069743589149679,
+    "h2_prob": 0.3324302568873024,
+    "h3_prob": 0.2605953841977298
+  },
+  {
+    "id": "q5_001_a0",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_001",
+    "source_type": "credentialed",
+    "source_name": "A Wealth of Common Sense",
+    "url": "https://awealthofcommonsense.com/2026/02/early-mortgage-payments-or-invest-in-the-stock-market/",
+    "bm25_score": 7.005841870845429,
+    "retrieval_rank": 5,
+    "main_claim": "Investing in index funds is generally preferable to paying off a mortgage with a rate of 6.375%.",
+    "supporting_text": "I can't accept paying off debt at such a low borrowing rate when inflation is 3%. It makes zero sense, feelings be damned. The biggest factor beyond the interest rate is your age. You're only 30 years old. You have many years of compounding ahead of you.",
+    "conditions": [
+      "Mortgage rate is under 7%",
+      "Homeowner is young with a long time horizon for compounding"
+    ],
+    "caveats": [
+      "Stock market returns aren't guaranteed to be as high in the future as they were in the past",
+      "Homeowners may not stay in the same house for the life of the loan"
+    ],
+    "reason_types": [
+      "interest_rate",
+      "time_horizon"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 49,
+    "confidence_score": 0.9753253442827442,
+    "posture": "confident",
+    "h1_prob": 0.9753253442827442,
+    "h2_prob": 0.013130379730458393,
+    "h3_prob": 0.011544275986797413
+  },
+  {
+    "id": "q5_001_a1",
+    "query_id": "q5",
+    "query": "Should I invest in index funds or pay off my mortgage early?",
+    "source_doc_id": "q5_001",
+    "source_type": "credentialed",
+    "source_name": "A Wealth of Common Sense",
+    "url": "https://awealthofcommonsense.com/2026/02/early-mortgage-payments-or-invest-in-the-stock-market/",
+    "bm25_score": 7.005841870845429,
+    "retrieval_rank": 5,
+    "main_claim": "Consider making extra mortgage payments while still investing in the stock market.",
+    "supporting_text": "If you do decide to make extra mortgage payments, don't completely shut off your investments in the stock market. No one regrets putting money into the stock market and letting it compound for multiple decades either.",
+    "conditions": [
+      "Homeowner prefers some debt repayment",
+      "Homeowner wants to maintain investment in the stock market"
+    ],
+    "caveats": [
+      "Decisions are always personal",
+      "There are strong opinions on both sides of the debt repayment versus investing debate"
+    ],
+    "reason_types": [
+      "psychology",
+      "liquidity"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 37,
+    "confidence_score": 0.7058617386732692,
+    "posture": "confident",
+    "h1_prob": 0.7058617386732692,
+    "h2_prob": 0.2927210731356953,
+    "h3_prob": 0.0014171881910354778
+  }
+]

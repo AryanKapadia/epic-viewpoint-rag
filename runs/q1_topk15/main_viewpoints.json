@@ -1,0 +1,106 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c0",
+    "label": "High-Interest Debt First",
+    "confidence": "Conditional",
+    "mean_confidence": 0.7452758178822696,
+    "size": 5,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bankrate",
+      "Nerdwallet",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 3,
+    "summary": "The central perspective advocates for prioritizing the repayment of student loans, especially those with high interest rates, before investing. This approach is seen as a guaranteed investment, as it reduces the burden of debt and can be more beneficial than uncertain investment returns. Additionally, it aligns with a conservative financial strategy, particularly for those with a low risk tolerance or a strong aversion to debt.",
+    "key_reasons": [
+      "interest_rate",
+      "psychology",
+      "risk_tolerance"
+    ],
+    "conditions": [
+      "If your debt is at 8% or higher.",
+      "If you are close to retirement."
+    ],
+    "caveats": [
+      "Ensure you are not neglecting tax-advantaged investment opportunities.",
+      "Your financial situation may change, affecting your risk tolerance."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c3",
+    "label": "Invest Over Low-Interest Loans",
+    "confidence": "Conditional",
+    "mean_confidence": 0.5379008728163662,
+    "size": 14,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Cnbc",
+      "Finstart",
+      "Hatcheditorial",
+      "Huntingtonbank",
+      "Investopedia",
+      "Johnhancock",
+      "Nerdwallet",
+      "Reddit",
+      "Reddit_bogleheads",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 10,
+    "summary": "The central perspective suggests prioritizing investing over paying off low-interest student loans. This approach is based on the potential for higher returns from investments compared to the savings from loan repayment, especially when interest rates are below 6%. Tax advantages and employer retirement matches further support this strategy.",
+    "key_reasons": [
+      "investment_return",
+      "interest_rate",
+      "tax"
+    ],
+    "conditions": [
+      "If your student loan interest rate is below 6%.",
+      "If you have access to tax-sheltered accounts like a 401(k) or Roth IRA."
+    ],
+    "caveats": [
+      "Investing carries risks and is not guaranteed to yield higher returns.",
+      "Consider your current tax bracket and how it affects your decision."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 3,
+    "cluster_id": "c1",
+    "label": "Balanced Approach: Debt and Investment",
+    "confidence": "Conditional",
+    "mean_confidence": 0.7238391811617214,
+    "size": 3,
+    "dominant_direction": "hybrid",
+    "source_types": [
+      "credentialed"
+    ],
+    "source_names": [
+      "Whitecoatinvestor"
+    ],
+    "source_count": 1,
+    "summary": "When uncertain about whether to pay off student loans or start investing, consider splitting your income between both options. This approach allows you to make progress on both fronts, though it may not maximize either outcome. Prioritize obtaining any employer match before deciding on further financial actions.",
+    "key_reasons": [
+      "psychology",
+      "retirement_match"
+    ],
+    "conditions": [
+      "If you have disposable income available.",
+      "If you are uncertain about your financial priorities."
+    ],
+    "caveats": [
+      "This approach may not maximize either outcome.",
+      "Ensure you are still making progress on both fronts."
+    ]
+  }
+]

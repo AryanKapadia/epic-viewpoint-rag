@@ -1,0 +1,103 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c0",
+    "label": "Roth IRA for Future Growth",
+    "confidence": "Conditional",
+    "mean_confidence": 0.6637821555876959,
+    "size": 5,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Advisorpedia",
+      "CNBC",
+      "RITA"
+    ],
+    "source_count": 3,
+    "summary": "Contributing to a Roth IRA is advantageous if you are in a low tax bracket, early in your career, or desire more control over your investments. It allows for tax-free growth and withdrawals, making it a strategic choice for those expecting income growth or lacking employer-sponsored Roth options.",
+    "key_reasons": [
+      "tax",
+      "income_level",
+      "retirement_rules"
+    ],
+    "conditions": [
+      "Current tax bracket is 0, 10, or 15%",
+      "Early in career with expected income growth"
+    ],
+    "caveats": [
+      "Future income may increase, leading to a higher tax bracket.",
+      "Roth IRAs have income eligibility limits"
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c2",
+    "label": "Traditional 401k for Tax Deferral",
+    "confidence": "Conditional",
+    "mean_confidence": 0.5562997826294932,
+    "size": 3,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Advisorpedia",
+      "T. Rowe Price",
+      "Yahoo Finance"
+    ],
+    "source_count": 3,
+    "summary": "Contributing to a traditional 401k may be advantageous if you are in your peak earning years or expect lower taxable income in retirement. This option allows for tax deferral on contributions, potentially reducing your current tax burden. However, withdrawals in retirement will be taxed.",
+    "key_reasons": [
+      "tax",
+      "income_level",
+      "liquidity"
+    ],
+    "conditions": [
+      "You are in your peak earning years.",
+      "You expect your taxable income to be lower in retirement."
+    ],
+    "caveats": [
+      "You will have to pay taxes on withdrawals in retirement.",
+      "Higher income earners may benefit more from traditional pre-tax 401k contributions."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 3,
+    "cluster_id": "c3",
+    "label": "Strategic Use of Both Accounts",
+    "confidence": "Conditional",
+    "mean_confidence": 0.5371471630996376,
+    "size": 5,
+    "dominant_direction": "hybrid",
+    "source_types": [
+      "brand",
+      "credentialed"
+    ],
+    "source_names": [
+      "Advisorpedia",
+      "Fidelity",
+      "Vanguard",
+      "White Coat Investor"
+    ],
+    "source_count": 4,
+    "summary": "Contributing to both a Roth IRA and a 401(k) can maximize retirement savings and offer tax advantages. Prioritizing a 401(k) for the employer match and then contributing to a Roth IRA for tax-free withdrawals is a balanced approach. This strategy provides tax diversification and flexibility in retirement.",
+    "key_reasons": [
+      "employer_match",
+      "tax",
+      "retirement_rules"
+    ],
+    "conditions": [
+      "You can have both a Roth IRA and a 401(k).",
+      "You must meet the income requirements to contribute to a Roth IRA."
+    ],
+    "caveats": [
+      "High earners making catch-up contributions to a 401(k) may be forced into making Roth catch-up contributions.",
+      "Eligibility for Roth IRA contributions may be limited."
+    ]
+  }
+]

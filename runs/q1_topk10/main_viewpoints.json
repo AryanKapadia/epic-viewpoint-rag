@@ -1,0 +1,105 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c1",
+    "label": "High-Interest Debt First",
+    "confidence": "Conditional",
+    "mean_confidence": 0.5889165957926047,
+    "size": 4,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Finstart",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 2,
+    "summary": "The central perspective is to prioritize paying off student loans, especially if they have high-interest rates, before investing. This approach is recommended if your debt interest rate is 8% or higher, or if you have a strong aversion to debt. It is also suitable for conservative investors or those close to retirement.",
+    "key_reasons": [
+      "interest_rate",
+      "psychology",
+      "risk_tolerance"
+    ],
+    "conditions": [
+      "If your debt is at 8% or higher.",
+      "If you have a strong aversion to debt."
+    ],
+    "caveats": [
+      "Ensure you are not neglecting tax-advantaged investment opportunities.",
+      "Consider the potential returns of investments versus the certainty of paying off debt."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c2",
+    "label": "Invest Over Low-Interest Loans",
+    "confidence": "Conditional",
+    "mean_confidence": 0.5596752294618191,
+    "size": 8,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Cnbc",
+      "Finstart",
+      "Hatcheditorial",
+      "Reddit",
+      "Reddit_bogleheads",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 6,
+    "summary": "The central perspective advocates for investing spare cash rather than accelerating student loan repayment, especially when loans have low interest rates. This approach leverages potential higher returns from investments and tax advantages from retirement accounts. It emphasizes the financial benefits of investing over paying off low-interest debt.",
+    "key_reasons": [
+      "interest_rate",
+      "investment_return",
+      "tax"
+    ],
+    "conditions": [
+      "If your student loan interest rate is below 5%.",
+      "If you have access to tax-sheltered accounts like a 401(k) or Roth IRA."
+    ],
+    "caveats": [
+      "Investing carries risks, and market performance can vary.",
+      "Having debt can be a psychological burden, which may influence your decision."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 3,
+    "cluster_id": "c0",
+    "label": "Balanced Approach: Debt and Investment",
+    "confidence": "Conditional",
+    "mean_confidence": 0.7144825479404547,
+    "size": 5,
+    "dominant_direction": "hybrid",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed"
+    ],
+    "source_names": [
+      "Reddit_bogleheads",
+      "Truist",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 3,
+    "summary": "The central perspective suggests splitting your income between paying off student loans and investing if you're unsure about which to prioritize. This approach allows you to make progress on both fronts without having to choose one over the other. Prioritizing an employer match is also recommended before deciding on debt repayment or investment.",
+    "key_reasons": [
+      "psychology",
+      "retirement_match",
+      "interest_rate"
+    ],
+    "conditions": [
+      "If you have disposable income available.",
+      "If you are uncertain about your financial priorities."
+    ],
+    "caveats": [
+      "This approach may not maximize either outcome.",
+      "Ensure you are still making progress on both fronts."
+    ]
+  }
+]

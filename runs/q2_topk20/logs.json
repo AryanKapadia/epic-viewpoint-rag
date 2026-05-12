@@ -1,0 +1,35 @@
+{
+  "dropped_understructured_arguments": [
+    "Dropped weak structured argument for q2_007_a0",
+    "Dropped weak structured argument for q2_007_a1",
+    "Dropped weak structured argument for q2_007_a2",
+    "Dropped weak structured argument for q2_022_a1",
+    "Dropped weak structured argument for q2_022_a3",
+    "Dropped weak structured argument for q2_022_a4",
+    "Dropped weak structured argument for q2_006_a0",
+    "Dropped weak structured argument for q2_006_a1",
+    "Dropped weak structured argument for q2_006_a2",
+    "Dropped weak structured argument for q2_016_a0",
+    "Dropped weak structured argument for q2_016_a1",
+    "Dropped weak structured argument for q2_011_a0",
+    "Dropped weak structured argument for q2_014_a0",
+    "Dropped weak structured argument for q2_014_a1",
+    "Dropped weak structured argument for q2_014_a2",
+    "Dropped weak structured argument for q2_014_a3",
+    "Dropped weak structured argument for q2_014_a4",
+    "Dropped weak structured argument for q2_014_a5",
+    "Dropped weak structured argument for q2_013_a1",
+    "Dropped weak structured argument for q2_020_a0",
+    "Dropped weak structured argument for q2_020_a1",
+    "Dropped weak structured argument for q2_012_a2",
+    "Dropped weak structured argument for q2_002_a0",
+    "Dropped weak structured argument for q2_002_a1",
+    "Dropped weak structured argument for q2_017_a0",
+    "Dropped weak structured argument for q2_017_a1",
+    "Dropped weak structured argument for q2_015_a0",
+    "Dropped weak structured argument for q2_015_a1"
+  ],
+  "empty_structured_extractions": [
+    "No arguments extracted for q2_010"
+  ]
+}

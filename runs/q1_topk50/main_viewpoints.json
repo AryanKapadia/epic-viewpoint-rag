@@ -1,0 +1,117 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c0",
+    "label": "High-Interest Debt First",
+    "confidence": "Confident",
+    "mean_confidence": 0.8327900086230001,
+    "size": 8,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "BankRate",
+      "CollegeFinance",
+      "DonovanBrooks",
+      "NerdWallet",
+      "RamseySolutions",
+      "TheStreet",
+      "WhiteCoatInvestor"
+    ],
+    "source_count": 7,
+    "summary": "The central perspective is to prioritize paying off student loans, especially those with high interest rates, before investing. This approach is seen as a guaranteed investment with a better return than many market options. It also frees up income for future wealth accumulation and reduces financial burden.",
+    "key_reasons": [
+      "interest_rate",
+      "psychology",
+      "investment_return"
+    ],
+    "conditions": [
+      "If your debt is at 8% or higher.",
+      "If your student loan interest rate is higher than 6%."
+    ],
+    "caveats": [
+      "Not all debts are equal; consider the interest rates.",
+      "This could lead to missing out on employer matching contributions and compounded growth from investments."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c5",
+    "label": "Invest Over Low-Interest Loans",
+    "confidence": "Confident",
+    "mean_confidence": 0.5331701996578223,
+    "size": 10,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "CNBC",
+      "HuntingtonBank",
+      "Investopedia",
+      "NerdWallet",
+      "Truist",
+      "WhiteCoatInvestor",
+      "reddit",
+      "reddit_bogleheads"
+    ],
+    "source_count": 8,
+    "summary": "The central perspective advocates for investing spare cash rather than paying off low-interest student loans quickly. This approach is supported by the potential for higher returns from investments, especially in tax-advantaged accounts, and the benefits of employer retirement matches. It is suggested that maintaining low-interest loans can be financially advantageous in the long term.",
+    "key_reasons": [
+      "interest_rate",
+      "investment_return",
+      "tax"
+    ],
+    "conditions": [
+      "If your student loan interest rate is below 5%.",
+      "If you have access to tax-sheltered accounts like a 401(k) or IRA."
+    ],
+    "caveats": [
+      "Investing may lead to remaining in debt longer, which could be mentally taxing.",
+      "There is a risk of losses with investments."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 3,
+    "cluster_id": "c2",
+    "label": "Balanced Approach: Debt and Investment",
+    "confidence": "Conditional",
+    "mean_confidence": 0.6430358576687766,
+    "size": 8,
+    "dominant_direction": "hybrid",
+    "source_types": [
+      "brand",
+      "community",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "JohnHancock",
+      "NerdWallet",
+      "Truist",
+      "WhiteCoatInvestor",
+      "reddit_bogleheads"
+    ],
+    "source_count": 5,
+    "summary": "The central perspective suggests that it is possible to both pay off student loans and start investing simultaneously. This approach requires a solid financial foundation, strategic planning, and the ability to manage financial priorities effectively. It emphasizes the importance of not having to choose between the two, but rather balancing them for long-term financial health.",
+    "key_reasons": [
+      "psychology",
+      "liquidity",
+      "retirement_match"
+    ],
+    "conditions": [
+      "You have a solid financial foundation with money left over each month.",
+      "You have a strategy to balance both paying off loans and investing"
+    ],
+    "caveats": [
+      "This approach requires discipline and planning.",
+      "Managing your financial priorities is a balancing act."
+    ]
+  }
+]

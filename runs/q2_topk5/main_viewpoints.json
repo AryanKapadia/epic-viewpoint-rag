@@ -1,0 +1,98 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c0",
+    "label": "Roth for Early Career Growth",
+    "confidence": "Conditional",
+    "mean_confidence": 0.703475676689804,
+    "size": 4,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "credentialed"
+    ],
+    "source_names": [
+      "Advisorpedia",
+      "White Coat Investor"
+    ],
+    "source_count": 2,
+    "summary": "Contributing to a Roth IRA is advantageous if you are in a lower tax bracket or early in your career with expected income growth. This allows for tax-free growth and withdrawals in retirement, especially if tax rates increase. It is also beneficial if you save more than 20% of your income.",
+    "key_reasons": [
+      "tax",
+      "income_level",
+      "time_horizon"
+    ],
+    "conditions": [
+      "Current tax bracket is 0, 10, or 15%",
+      "Early in career with expected income growth"
+    ],
+    "caveats": [
+      "Future income may rise, affecting tax bracket",
+      "Life changes may affect income and contribution strategy"
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c2",
+    "label": "Traditional 401k for Immediate Tax Relief",
+    "confidence": "Conditional",
+    "mean_confidence": 0.6056861327490571,
+    "size": 3,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "brand"
+    ],
+    "source_names": [
+      "Bankers Life",
+      "T. Rowe Price"
+    ],
+    "source_count": 2,
+    "summary": "Contributing to a traditional 401(k) offers immediate tax benefits by using pre-tax dollars, which can reduce your taxable income. This approach is particularly advantageous if you are in your peak earning years or expect lower taxable income in retirement. However, withdrawals will be taxed as ordinary income, and the account's value may fluctuate with investment performance.",
+    "key_reasons": [
+      "tax",
+      "income_level",
+      "employer_match"
+    ],
+    "conditions": [
+      "In peak earning years",
+      "Expect lower taxable income in retirement"
+    ],
+    "caveats": [
+      "Withdrawals from a traditional 401(k) will be taxed as ordinary income.",
+      "The value of your 401(k) may fluctuate based on investment earnings."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 3,
+    "cluster_id": "c1",
+    "label": "Roth IRA for Tax-Free Growth",
+    "confidence": "Conditional",
+    "mean_confidence": 0.679368862876699,
+    "size": 4,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "brand",
+      "credentialed"
+    ],
+    "source_names": [
+      "Advisorpedia",
+      "Bankers Life",
+      "T. Rowe Price",
+      "White Coat Investor"
+    ],
+    "source_count": 4,
+    "summary": "Contributing to a Roth IRA is advantageous due to its tax-free growth and withdrawal benefits. It is particularly beneficial for those with income below certain thresholds and for individuals concerned about tax implications for heirs. Roth IRAs provide a hedge against future tax law changes.",
+    "key_reasons": [
+      "tax",
+      "withdrawal_rules",
+      "income_level"
+    ],
+    "conditions": [
+      "Adjusted Gross Income is below phase out ranges",
+      "Have more assets in traditional accounts"
+    ],
+    "caveats": [
+      "Full contributions are limited by income",
+      "The Roth IRA doesn't offer any current-year tax benefits."
+    ]
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "id": "q3_004_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_004",
+    "source_type": "brand",
+    "source_name": "UMB Blog",
+    "url": "https://blog.umb.com/credit-card-debt-vs-emergency-funds/",
+    "bm25_score": 12.62792073750128,
+    "retrieval_rank": 1,
+    "main_claim": "It is important to build an emergency fund to ensure financial stability and avoid using credit for unexpected expenses.",
+    "supporting_text": "Emergency funds have several benefits - most notably the financial stability they provide. If you have enough saved in your emergency fund, you will have more confidence when you encounter surprise expenses. Additionally, emergency funds will help you avoid using credit or loans to cover costs and can give you more flexibility in how and when you make payments.",
+    "conditions": [
+      "You have enough savings to cover necessary expenses.",
+      "You can consistently set aside money each month."
+    ],
+    "caveats": [
+      "Unexpected expenses can still arise, requiring careful planning.",
+      "Building an emergency fund may take time and discipline."
+    ],
+    "reason_types": [
+      "liquidity",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 19,
+    "supporting_word_count": 58
+  },
+  {
+    "id": "q3_004_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_004",
+    "source_type": "brand",
+    "source_name": "UMB Blog",
+    "url": "https://blog.umb.com/credit-card-debt-vs-emergency-funds/",
+    "bm25_score": 12.62792073750128,
+    "retrieval_rank": 1,
+    "main_claim": "Paying down high-interest credit card debt should be prioritized to save money in the long run.",
+    "supporting_text": "Most financial experts agree that the best practice is to pay down the balance on the highest interest card first, which may be able to save you more money in the long run. The faster you can tackle your highest interest card, the less interest and fees you accrue.",
+    "conditions": [
+      "You have high-interest credit card debt.",
+      "You can make larger payments towards your debt."
+    ],
+    "caveats": [
+      "Focusing solely on debt repayment may deplete your savings.",
+      "It may be easier to pay off lower balance cards for psychological benefits."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 49
+  },
+  {
+    "id": "q3_022_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_022",
+    "source_type": "brand",
+    "source_name": "SoFi",
+    "url": "https://www.sofi.com/learn/content/using-savings-to-pay-debt/",
+    "bm25_score": 12.282160023517527,
+    "retrieval_rank": 2,
+    "main_claim": "It may make sense to prioritize building an emergency fund before aggressively paying down debt.",
+    "supporting_text": "Without savings, you're vulnerable to any financial disruption, which could force you into more debt. Establishing a modest emergency fund - say $500 to $1,000 to start - can prevent future financial setbacks and give you some breathing room.",
+    "conditions": [
+      "If you don't have an emergency fund",
+      "If your debt isn't urgent or costly"
+    ],
+    "caveats": [
+      "Using savings to pay off debt can leave you without a financial cushion for emergencies.",
+      "If unexpected expenses arise, you may need to rely on high-interest credit again."
+    ],
+    "reason_types": [
+      "liquidity",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 39
+  },
+  {
+    "id": "q3_009_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_009",
+    "source_type": "brand",
+    "source_name": "Centier Bank",
+    "url": "https://www.centier.com/resources/articles/article-details/should-i-pay-off-debt-or-save-first",
+    "bm25_score": 12.196064990222247,
+    "retrieval_rank": 3,
+    "main_claim": "Start with both: build a small cushion, then target high-interest debt, then grow savings.",
+    "supporting_text": "This path lowers risk and interest costs at the same time. Saving builds a cushion for emergencies and future goals. You do not want to pay down a credit card one week and then swipe it again the next because a flat tire wiped you out.",
+    "conditions": [
+      "You have no emergency fund yet.",
+      "You carry high-interest credit card debt."
+    ],
+    "caveats": [
+      "This may not always be the right solution.",
+      "In some scenarios, it can be better to pay off debt before you save to reduce interest accrual."
+    ],
+    "reason_types": [
+      "liquidity",
+      "interest_rate",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 46
+  },
+  {
+    "id": "q3_009_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_009",
+    "source_type": "brand",
+    "source_name": "Centier Bank",
+    "url": "https://www.centier.com/resources/articles/article-details/should-i-pay-off-debt-or-save-first",
+    "bm25_score": 12.196064990222247,
+    "retrieval_rank": 3,
+    "main_claim": "Paying off debt first may be beneficial when you carry high-interest credit card debt.",
+    "supporting_text": "High-interest debt costs you more than most savings accounts will earn. When you knock out those balances, you gain room in your budget and can allocate that money towards other debt or save for a goal.",
+    "conditions": [
+      "Your debts keep you from meeting basic needs.",
+      "You already have a small emergency fund set aside."
+    ],
+    "caveats": [
+      "Be sure to keep paying all minimums on time.",
+      "You may want to consider putting your extra money toward the highest-interest or highest balance account first."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q3_009_a2",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_009",
+    "source_type": "brand",
+    "source_name": "Centier Bank",
+    "url": "https://www.centier.com/resources/articles/article-details/should-i-pay-off-debt-or-save-first",
+    "bm25_score": 12.196064990222247,
+    "retrieval_rank": 3,
+    "main_claim": "It might be better to save before you pay off your debt if you have no emergency fund yet.",
+    "supporting_text": "Savings can protect you from new debt when life happens. Even a small cushion can keep you from putting surprise costs on a card.",
+    "conditions": [
+      "Your income changes from month to month.",
+      "You face near-term costs (car repair, moving, medical copay)."
+    ],
+    "caveats": [
+      "Your debt rates are low (like many federal student loans in repayment)."
+    ],
+    "reason_types": [
+      "liquidity",
+      "job_stability",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 19,
+    "supporting_word_count": 24
+  },
+  {
+    "id": "q3_020_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_020",
+    "source_type": "brand",
+    "source_name": "PNC",
+    "url": "https://www.pnc.com/insights/personal-finance/save/save-or-pay-debt.html",
+    "bm25_score": 12.047328185117896,
+    "retrieval_rank": 4,
+    "main_claim": "An emergency fund should be established before aggressively paying off debt to protect against unexpected expenses.",
+    "supporting_text": "Having an emergency fund is critical in the event you get hit with unexpected expenses - for example, you suddenly need to replace your computer, have your car repaired, or pay for emergency medical care. Having cash on hand for unexpected circumstances can help you avoid borrowing money and incurring potentially costly debt.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "liquidity",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 52
+  },
+  {
+    "id": "q3_020_a2",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_020",
+    "source_type": "brand",
+    "source_name": "PNC",
+    "url": "https://www.pnc.com/insights/personal-finance/save/save-or-pay-debt.html",
+    "bm25_score": 12.047328185117896,
+    "retrieval_rank": 4,
+    "main_claim": "You need to do both, finding the balance that's right for you.",
+    "supporting_text": "The answer to the question 'Should I save or pay off debt?' is yes. You need to do both, finding the balance that's right for you.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 27
+  },
+  {
+    "id": "q3_018_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_018",
+    "source_type": "brand",
+    "source_name": "Navy Federal",
+    "url": "https://www.navyfederal.org/makingcents/savings-budgeting/debt-vs-savings.html",
+    "bm25_score": 11.91565702876441,
+    "retrieval_rank": 5,
+    "main_claim": "Before you accelerate your debt payoff, make sure you have emergency savings.",
+    "supporting_text": "It always helps your peace of mind to have a financial cushion set aside in case of unexpected expenses. So, if you lose your job or need a car repair, you're prepared with emergency savings.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "liquidity",
+      "job_stability"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 36
+  },
+  {
+    "id": "q3_018_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_018",
+    "source_type": "brand",
+    "source_name": "Navy Federal",
+    "url": "https://www.navyfederal.org/makingcents/savings-budgeting/debt-vs-savings.html",
+    "bm25_score": 11.91565702876441,
+    "retrieval_rank": 5,
+    "main_claim": "Once you've established an emergency fund and started to save money for retirement, the next step is debt management.",
+    "supporting_text": "The right answer depends on your circumstances and financial goals. If you have an emergency fund, you can focus on paying down debt.",
+    "conditions": [
+      "You have an emergency fund."
+    ],
+    "caveats": [],
+    "reason_types": [
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 20,
+    "supporting_word_count": 23
+  },
+  {
+    "id": "q3_008_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_008",
+    "source_type": "financial_media",
+    "source_name": "Bankrate",
+    "url": "https://www.bankrate.com/banking/savings/these-guidelines-will-help-you-decide-whether-to-pay-down-debt-or-save/",
+    "bm25_score": 11.866633896983098,
+    "retrieval_rank": 6,
+    "main_claim": "It's often important to strike a balance between building an emergency fund and paying down credit card debt.",
+    "supporting_text": "Building up a savings account helps ensure you'll be able to afford emergency expenses without going further into debt. However, while it's important to focus on paying down debt, it can be equally important to devote money to emergency savings.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "liquidity",
+      "cash_flow"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 19,
+    "supporting_word_count": 42
+  },
+  {
+    "id": "q3_008_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_008",
+    "source_type": "financial_media",
+    "source_name": "Bankrate",
+    "url": "https://www.bankrate.com/banking/savings/these-guidelines-will-help-you-decide-whether-to-pay-down-debt-or-save/",
+    "bm25_score": 11.866633896983098,
+    "retrieval_rank": 6,
+    "main_claim": "If you don't have any savings, focusing solely on paying debt can backfire when unexpected needs or costs come up.",
+    "supporting_text": "In the absence of such savings, you could simply wind up adding to your credit card debt to pay for an unexpected expense. 'If you don't have any savings, focusing solely on paying debt can backfire when unexpected needs or costs come up,' Pearl Planning's Joy says.",
+    "conditions": [
+      "no emergency savings"
+    ],
+    "caveats": [],
+    "reason_types": [
+      "liquidity",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 21,
+    "supporting_word_count": 49
+  },
+  {
+    "id": "q3_008_a3",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_008",
+    "source_type": "financial_media",
+    "source_name": "Bankrate",
+    "url": "https://www.bankrate.com/banking/savings/these-guidelines-will-help-you-decide-whether-to-pay-down-debt-or-save/",
+    "bm25_score": 11.866633896983098,
+    "retrieval_rank": 6,
+    "main_claim": "You can, and should, focus on both saving money and paying off debt at the same time.",
+    "supporting_text": "The choice of debt repayment or savings is not an either-or proposition. Automate savings right off the top through payroll deduction and direct deposit, then use take-home pay to maximize the debt repayment effort.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "liquidity",
+      "cash_flow"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 36
+  },
+  {
+    "id": "q3_014_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_014",
+    "source_type": "brand",
+    "source_name": "Discover",
+    "url": "https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/",
+    "bm25_score": 11.613646489594698,
+    "retrieval_rank": 7,
+    "main_claim": "Building an emergency fund is important even if you have debt to pay down.",
+    "supporting_text": "An emergency fund could help you overcome sudden financial challenges. Whether budget pressures stem from higher costs, a job loss, or an unexpected expense, they can appear without warning. Saving in advance of such events is critical, even as you pay down debt.",
+    "conditions": [
+      "You may have manageable debt.",
+      "You can allocate part of your budget to savings."
+    ],
+    "caveats": [
+      "Fewer than half of Americans have enough savings to cover three months of expenses.",
+      "Without emergency savings, you might be forced to tap credit cards or other high-interest loans."
+    ],
+    "reason_types": [
+      "liquidity",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 43
+  },
+  {
+    "id": "q3_014_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_014",
+    "source_type": "brand",
+    "source_name": "Discover",
+    "url": "https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/",
+    "bm25_score": 11.613646489594698,
+    "retrieval_rank": 7,
+    "main_claim": "Paying down high-interest debt is crucial for improving financial health.",
+    "supporting_text": "Even if you're keeping up with monthly payments, chipping away at higher-interest debt can go a long way toward improving your financial health. Having manageable debt lets you focus on a long-term savings plan.",
+    "conditions": [
+      "You have high-interest debt.",
+      "You can prioritize debt repayment in your budget."
+    ],
+    "caveats": [
+      "The best method for paying off debt depends on your personal situation.",
+      "Paying debt over a longer period may result in more interest paid."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 11,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q3_014_a2",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_014",
+    "source_type": "brand",
+    "source_name": "Discover",
+    "url": "https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/",
+    "bm25_score": 11.613646489594698,
+    "retrieval_rank": 7,
+    "main_claim": "You can balance building an emergency fund and paying off debt.",
+    "supporting_text": "If you're ready to tackle debt, then paying it down might be your top priority. If your debt feels more manageable, you may be able to rework your budget to prioritize your emergency savings.",
+    "conditions": [
+      "You have a plan to manage both savings and debt repayment.",
+      "You can adjust your budget accordingly."
+    ],
+    "caveats": [
+      "Sticking to a plan consistently is essential.",
+      "The approach may vary based on individual financial situations."
+    ],
+    "reason_types": [
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 11,
+    "supporting_word_count": 35
+  },
+  {
+    "id": "q3_013_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_013",
+    "source_type": "credentialed",
+    "source_name": "Consumer Financial Protection Bureau",
+    "url": "https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/",
+    "bm25_score": 11.502096484368264,
+    "retrieval_rank": 8,
+    "main_claim": "Building an emergency fund is essential to protect yourself from unexpected financial emergencies.",
+    "supporting_text": "Setting up a dedicated savings or emergency fund is one essential way to protect yourself, and it's one of the first steps you can take to start saving. By putting money aside—even a small amount—for these unplanned expenses, you're able to recover quicker and get back on track towards reaching your larger savings goals.",
+    "conditions": [
+      "If you have a consistent income.",
+      "If you can manage your cash flow effectively."
+    ],
+    "caveats": [
+      "Without savings, a financial shock—even minor—could set you back.",
+      "Relying on credit cards or loans can lead to debt that's generally harder to pay off."
+    ],
+    "reason_types": [
+      "liquidity",
+      "cash_flow",
+      "job_stability"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 58
+  },
+  {
+    "id": "q3_019_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_019",
+    "source_type": "brand",
+    "source_name": "Northwestern Mutual",
+    "url": "https://www.northwesternmutual.com/life-and-money/should-you-pay-off-debt-or-build-an-emergency-fund/",
+    "bm25_score": 11.485171989909722,
+    "retrieval_rank": 9,
+    "main_claim": "You should prioritize building an emergency fund before aggressively paying down debt.",
+    "supporting_text": "If you need to build your emergency fund from scratch, then your first goal should be to save one month's worth of living expenses. This amount should give you some breathing room and allow you to cover a minor emergency. Imagine if you begin aggressively paying down your debt, but you have nothing set aside for emergencies. If an emergency does strike, how will you pay for it?",
+    "conditions": [
+      "You have no emergency fund set aside.",
+      "You are facing potential unexpected expenses."
+    ],
+    "caveats": [
+      "If you have high-interest debt, you may need to balance your approach.",
+      "Every situation is different, and some may prioritize debt repayment."
+    ],
+    "reason_types": [
+      "liquidity",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 69
+  },
+  {
+    "id": "q3_019_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_019",
+    "source_type": "brand",
+    "source_name": "Northwestern Mutual",
+    "url": "https://www.northwesternmutual.com/life-and-money/should-you-pay-off-debt-or-build-an-emergency-fund/",
+    "bm25_score": 11.485171989909722,
+    "retrieval_rank": 9,
+    "main_claim": "Individuals with a lot of high-interest debt may want to prioritize paying down that debt once they've got a modest emergency fund set aside.",
+    "supporting_text": "Credit cards and some personal loans can carry double-digit interest rates that make it easy for your debt to build up. The Fed has also begun raising interest rates, which will impact the cost of borrowing.",
+    "conditions": [
+      "You have high-interest debt.",
+      "You have a modest emergency fund."
+    ],
+    "caveats": [
+      "If your debts are primarily 'good debts' like a mortgage, it may make more sense to focus on building your emergency fund first."
+    ],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 26,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q3_006_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_006",
+    "source_type": "brand",
+    "source_name": "Alliant Credit Union",
+    "url": "https://www.alliantcreditunion.org/money-mentor/should-you-grow-emergency-savings-or-pay-off-debt-first",
+    "bm25_score": 11.068463785815855,
+    "retrieval_rank": 11,
+    "main_claim": "It is important to have an emergency savings fund to avoid detrimental impacts on your credit score due to collections or high-interest credit card debt.",
+    "supporting_text": "Having even a small nest egg saved can spare you from a detrimental impact on your credit score due to collections or help you avoid the burden of interest charges from credit card debt. Just one quick trip to the hospital could severely damage your credit score if your credit limit isn't high.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "liquidity",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 26,
+    "supporting_word_count": 54
+  },
+  {
+    "id": "q3_006_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_006",
+    "source_type": "brand",
+    "source_name": "Alliant Credit Union",
+    "url": "https://www.alliantcreditunion.org/money-mentor/should-you-grow-emergency-savings-or-pay-off-debt-first",
+    "bm25_score": 11.068463785815855,
+    "retrieval_rank": 11,
+    "main_claim": "Focus on paying down high-interest credit card debt before aggressively replenishing your emergency fund.",
+    "supporting_text": "Suze Orman suggests having 8-12 months of emergency savings before aggressively paying off debt. However, she recommends focusing on credit card debt first, as it can damage your credit score and is harder to pay down quickly.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 38
+  },
+  {
+    "id": "q3_006_a2",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_006",
+    "source_type": "brand",
+    "source_name": "Alliant Credit Union",
+    "url": "https://www.alliantcreditunion.org/money-mentor/should-you-grow-emergency-savings-or-pay-off-debt-first",
+    "bm25_score": 11.068463785815855,
+    "retrieval_rank": 11,
+    "main_claim": "You should aim to balance both rebuilding your emergency savings and managing credit card debt.",
+    "supporting_text": "Ideally, as you've been setting aside money each month in your emergency savings account, you've paid the minimum payment on your credit cards. This approach allows you to work on both fronts without neglecting either.",
+    "conditions": [],
+    "caveats": [
+      "This process cannot be done overnight."
+    ],
+    "reason_types": [
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q3_002_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_002",
+    "source_type": "credentialed",
+    "source_name": "Donovanbrooks",
+    "url": "https://www.donovanbrooks.com/blog/11-things-dave-ramsey-has-wrong",
+    "bm25_score": 10.885999262792392,
+    "retrieval_rank": 12,
+    "main_claim": "Individuals should prioritize building an emergency fund before paying down credit card debt.",
+    "supporting_text": "Having an emergency fund provides a financial safety net that can prevent individuals from accruing more debt in the future. It allows for better cash flow management and reduces the psychological burden of financial uncertainty.",
+    "conditions": [
+      "If the individual does not have any savings to cover unexpected expenses.",
+      "If the individual has a stable income that allows for saving."
+    ],
+    "caveats": [
+      "Building an emergency fund may take time, during which credit card debt could accrue interest.",
+      "Not all individuals may have the same level of job stability, which could affect their ability to save."
+    ],
+    "reason_types": [
+      "liquidity",
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 35
+  },
+  {
+    "id": "q3_002_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_002",
+    "source_type": "credentialed",
+    "source_name": "Donovanbrooks",
+    "url": "https://www.donovanbrooks.com/blog/11-things-dave-ramsey-has-wrong",
+    "bm25_score": 10.885999262792392,
+    "retrieval_rank": 12,
+    "main_claim": "Paying down credit card debt first can be beneficial due to high interest rates.",
+    "supporting_text": "Credit card debt often comes with high interest rates, which can lead to significant financial strain over time. By focusing on paying down this debt, individuals can reduce the total interest paid and improve their overall financial health.",
+    "conditions": [
+      "If the individual has high-interest credit card debt that is causing financial stress.",
+      "If the individual can manage their cash flow without an emergency fund."
+    ],
+    "caveats": [
+      "This approach may lead to a lack of savings for unexpected expenses.",
+      "Individuals may face psychological stress if they do not have a financial safety net."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 38
+  },
+  {
+    "id": "q3_016_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_016",
+    "source_type": "brand",
+    "source_name": "LendingTree",
+    "url": "https://www.lendingtree.com/debt-consolidation/emergency-fund-or-pay-off-debt/",
+    "bm25_score": 10.738017821007404,
+    "retrieval_rank": 13,
+    "main_claim": "If your income isn't stable, it's wise to start saving first so you have a safety net in place.",
+    "supporting_text": "Building a small emergency fund first can help you manage unexpected expenses like car repairs or medical bills while still addressing your debts. You should aim for a savings goal of $500 to $1,000.",
+    "conditions": [
+      "income isn't stable"
+    ],
+    "caveats": [
+      "you can still pay down your debts while saving",
+      "focus on high-interest debts to avoid extra costs"
+    ],
+    "reason_types": [
+      "job_stability",
+      "liquidity"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 21,
+    "supporting_word_count": 35
+  },
+  {
+    "id": "q3_016_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_016",
+    "source_type": "brand",
+    "source_name": "LendingTree",
+    "url": "https://www.lendingtree.com/debt-consolidation/emergency-fund-or-pay-off-debt/",
+    "bm25_score": 10.738017821007404,
+    "retrieval_rank": 13,
+    "main_claim": "Prioritize your high-interest debt while building savings.",
+    "supporting_text": "You can continue contributing to savings while paying down debt. Once the high-interest debt is repaid, you can tackle other debts and save more.",
+    "conditions": [
+      "you have high-interest debt"
+    ],
+    "caveats": [
+      "this approach may take longer to see results",
+      "requires discipline to manage both savings and debt payments"
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 25
+  },
+  {
+    "id": "q3_010_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_010",
+    "source_type": "brand",
+    "source_name": "Chase",
+    "url": "https://www.chase.com/personal/credit-cards/education/build-credit/saving-or-paying-off-debt-first",
+    "bm25_score": 10.645730881535224,
+    "retrieval_rank": 14,
+    "main_claim": "You may want to prioritize paying off debts while making small steps towards savings.",
+    "supporting_text": "If you're looking to improve your credit, you may want to prioritize paying off debts while making small steps towards savings. Paying off credit card debt can help improve your score.",
+    "conditions": [
+      "You have credit card debt.",
+      "You are feeling stressed about how much debt you have left to pay off."
+    ],
+    "caveats": [
+      "Paying off debt first could make it more difficult to build up significant savings.",
+      "You may need to adjust your budget and cut expenditures to help pay off debt."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q3_010_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_010",
+    "source_type": "brand",
+    "source_name": "Chase",
+    "url": "https://www.chase.com/personal/credit-cards/education/build-credit/saving-or-paying-off-debt-first",
+    "bm25_score": 10.645730881535224,
+    "retrieval_rank": 14,
+    "main_claim": "Establishing a modest emergency fund can be a priority that may be even more important than tackling debt.",
+    "supporting_text": "If you don't have any savings, establishing a modest emergency fund can be a priority that may be even more important than tackling debt in any meaningful way. Having an emergency fund is often essential for being able to handle life's obstacles.",
+    "conditions": [
+      "You have little to no savings.",
+      "You want to be prepared for unforeseen situations."
+    ],
+    "caveats": [
+      "If your debt continues to accumulate interest fees, saving instead of paying off debt could make the process of paying off your debt a longer, more laborious venture."
+    ],
+    "reason_types": [
+      "liquidity",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 44
+  },
+  {
+    "id": "q3_007_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_007",
+    "source_type": "brand",
+    "source_name": "Ally",
+    "url": "https://www.ally.com/stories/debt/pay-off-debt-or-save/",
+    "bm25_score": 10.164006006032206,
+    "retrieval_rank": 15,
+    "main_claim": "Paying down credit card debt first can alleviate emotional stress and improve your credit score.",
+    "supporting_text": "Debt reduction not only frees up your financial resources but also alleviates the emotional stress associated with financial obligations. Moreover, it can improve your credit score, leading to better loan terms and financial opportunities in the future.",
+    "conditions": [
+      "You have high-interest credit card debt.",
+      "You are experiencing financial stress due to debt."
+    ],
+    "caveats": [
+      "Focusing solely on debt repayment may leave you vulnerable to unexpected expenses.",
+      "Improving credit score takes time and may not provide immediate benefits."
+    ],
+    "reason_types": [
+      "psychology",
+      "interest_rate"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q3_007_a2",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_007",
+    "source_type": "brand",
+    "source_name": "Ally",
+    "url": "https://www.ally.com/stories/debt/pay-off-debt-or-save/",
+    "bm25_score": 10.164006006032206,
+    "retrieval_rank": 15,
+    "main_claim": "Ideally, you would do both: pay off debt while building savings.",
+    "supporting_text": "While not easy, it's not impossible to pay off debt while still saving. These strategies can help you manage both.",
+    "conditions": [
+      "You have a stable income that allows for both saving and debt repayment.",
+      "You can prioritize your financial goals effectively."
+    ],
+    "caveats": [
+      "Balancing both may require careful budgeting and financial discipline.",
+      "Not everyone may have the capacity to do both simultaneously."
+    ],
+    "reason_types": [
+      "cash_flow",
+      "job_stability"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 11,
+    "supporting_word_count": 21
+  },
+  {
+    "id": "q3_003_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_003",
+    "source_type": "financial_media",
+    "source_name": "Nerdwallet",
+    "url": "https://www.nerdwallet.com/finance/learn/pay-off-loans-or-save",
+    "bm25_score": 10.150183021764395,
+    "retrieval_rank": 16,
+    "main_claim": "Try to do a little bit of both.",
+    "supporting_text": "Ideally, you can try to put some money toward paying off the debt and some toward savings, so you’re working toward both financial goals at the same time. This could involve dividing the amount you can save each month in two.",
+    "conditions": [
+      "You have the ability to allocate funds to both savings and debt repayment."
+    ],
+    "caveats": [
+      "The decision is individual and unique to each person."
+    ],
+    "reason_types": [
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 42
+  },
+  {
+    "id": "q3_003_a2",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_003",
+    "source_type": "financial_media",
+    "source_name": "Nerdwallet",
+    "url": "https://www.nerdwallet.com/finance/learn/pay-off-loans-or-save",
+    "bm25_score": 10.150183021764395,
+    "retrieval_rank": 16,
+    "main_claim": "If you’re carrying high-interest credit card debt, prioritize paying it off early.",
+    "supporting_text": "Jessica Smith, CFP, suggests that paying off debt early can keep you from spending what you should save. If you’re just going to spend it, then the more optimal thing is to pay off the debt.",
+    "conditions": [
+      "You have high-interest credit card debt."
+    ],
+    "caveats": [
+      "This may not apply if the debt is not causing significant financial strain."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q3_012_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_012",
+    "source_type": "financial_media",
+    "source_name": "CNBC",
+    "url": "https://www.cnbc.com/select/pay-off-credit-card-debt-or-save-for-emergency-fund/",
+    "bm25_score": 10.135145972359133,
+    "retrieval_rank": 17,
+    "main_claim": "It is better to pay down credit card debt first rather than build an emergency fund.",
+    "supporting_text": "Sallie Krawcheck argues that focusing all your extra cash on credit card debt will save you more in the long run, as credit cards charge high interest rates. For instance, carrying a balance of $6,194 at a 15.78% interest rate could cost you $1,812 in interest over three years, totaling $8,006 to pay off the debt.",
+    "conditions": [
+      "If you have high-interest credit card debt",
+      "If you are concerned about the cost of interest accumulating on unpaid debt"
+    ],
+    "caveats": [
+      "Building an emergency fund may provide a false sense of security",
+      "Using a credit card for emergencies can incur high interest but for a shorter period"
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 60
+  },
+  {
+    "id": "q3_011_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_011",
+    "source_type": "financial_media",
+    "source_name": "CNBC",
+    "url": "https://www.cnbc.com/select/how-to-build-emergency-fund-while-in-debt/",
+    "bm25_score": 9.715546249963957,
+    "retrieval_rank": 18,
+    "main_claim": "You should prioritize paying down credit card debt over building an emergency fund.",
+    "supporting_text": "When you have debt, saving up several thousand dollars for an emergency fund can feel impossible. Prolonging your debt payoff could cost you thousands in interest charges, depending on the size of your credit card balance and APR. Credit card interest rates currently average about 16.43% APR, whereas you'll likely earn less than 1% APY in a high-yield savings account.",
+    "conditions": [],
+    "caveats": [
+      "If you have available credit, it can serve as a form of emergency money, but it is an expensive option.",
+      "You should consider your support systems and resources before deciding how much to save."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 63
+  },
+  {
+    "id": "q3_011_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_011",
+    "source_type": "financial_media",
+    "source_name": "CNBC",
+    "url": "https://www.cnbc.com/select/how-to-build-emergency-fund-while-in-debt/",
+    "bm25_score": 9.715546249963957,
+    "retrieval_rank": 18,
+    "main_claim": "Having a small emergency fund can help ease your worries while you pay off debt.",
+    "supporting_text": "It's smart to prepare for the worst-case scenario but don't let your fears inflate the amount you think you need to have in your emergency fund before you can get started on the road to debt freedom. A recent report suggests that $2,467 is the magic number to cover yourself in a pinch.",
+    "conditions": [
+      "You should assess your current financial situation and support systems."
+    ],
+    "caveats": [
+      "Don't let the need for a large emergency fund delay your debt repayment."
+    ],
+    "reason_types": [
+      "psychology",
+      "liquidity"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 57
+  },
+  {
+    "id": "q3_001_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_001",
+    "source_type": "brand",
+    "source_name": "Ramseysolutions",
+    "url": "https://www.ramseysolutions.com/debt/pay-off-debt-before-retirement",
+    "bm25_score": 9.487229479894356,
+    "retrieval_rank": 19,
+    "main_claim": "You should pay off your debt before you start saving or investing for your future.",
+    "supporting_text": "If you’ve got any debt (other than your mortgage), your goal is to pay it all off before you start saving or investing for your future. The best thing you can do for your financial future is ditch your debt so you can free up your income and start building wealth faster.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 53
+  },
+  {
+    "id": "q3_023_a0",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_023",
+    "source_type": "credentialed",
+    "source_name": "Suze Orman",
+    "url": "https://www.suzeorman.com/blog/savings-v-paying-off-credit-card-debt-whats-the-right-move/",
+    "bm25_score": 9.347364263877893,
+    "retrieval_rank": 20,
+    "main_claim": "You need to make it your top priority to get credit card debt paid off ASAP.",
+    "supporting_text": "From a purely financial standpoint, it makes plenty of sense to pay off the credit card debt. The average interest rate these days is around 15%. Meanwhile, money you have in a savings account at a federally insured bank or credit union is likely not earning even 1%. So using the low-earning savings to pay off the high cost credit card debt is a smart financial move.",
+    "conditions": [],
+    "caveats": [
+      "Money decisions are never purely financial; emotions play a big role.",
+      "Dipping into your emergency fund may make you somewhat uncomfortable."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 68
+  },
+  {
+    "id": "q3_023_a1",
+    "query_id": "q3",
+    "query": "Should I build an emergency fund or pay down credit card debt first?",
+    "source_doc_id": "q3_023",
+    "source_type": "credentialed",
+    "source_name": "Suze Orman",
+    "url": "https://www.suzeorman.com/blog/savings-v-paying-off-credit-card-debt-whats-the-right-move/",
+    "bm25_score": 9.347364263877893,
+    "retrieval_rank": 20,
+    "main_claim": "Consider dipping into your emergency fund each month to make up the difference in payments needed to pay off credit card debt.",
+    "supporting_text": "If you are still coming up short, I want you to consider dipping into your emergency fund each month to make up the difference. I realize that may make you somewhat uncomfortable, but I am not suggesting you empty out your savings in one big withdrawal.",
+    "conditions": [
+      "You should still have some money in savings while working to pay off the credit card balance."
+    ],
+    "caveats": [
+      "This approach may cause discomfort."
+    ],
+    "reason_types": [
+      "liquidity",
+      "cash_flow",
+      "psychology"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 22,
+    "supporting_word_count": 46
+  }
+]

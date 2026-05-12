@@ -1,0 +1,12 @@
+{
+  "step_1_load_and_clean_v2": 0.07,
+  "step_2_bm25_retrieval_v3": 0.01,
+  "step_3_structured_extraction_v4": 141.33,
+  "step_4_posture_scoring_v3": 4.72,
+  "step_5_claim_embeddings_v3": 2.18,
+  "step_6_epic_v4_discovery": 0.01,
+  "step_7_intrinsic_eval_v4": 0.01,
+  "step_8_summarization_v4": 7.02,
+  "step_9_final_output_v4": 0.0,
+  "step_10_main_viewpoint_selection_v4": 0.0
+}

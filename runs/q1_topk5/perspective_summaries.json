@@ -1,0 +1,59 @@
+[
+  {
+    "cluster_id": "c0",
+    "label": "Balanced Approach: Debt and Investment",
+    "summary": "When uncertain about whether to pay off student loans or start investing, consider splitting your income between both options. This approach allows you to make progress on both fronts, though it may not maximize either outcome. Your personal risk profile and financial situation should guide your decision.",
+    "key_reasons": [
+      "psychology",
+      "risk_tolerance",
+      "interest_rate"
+    ],
+    "conditions": [
+      "If you have disposable income available.",
+      "If you are uncertain about your financial priorities."
+    ],
+    "caveats": [
+      "This approach may not maximize either outcome.",
+      "Ensure you are still making progress on both fronts."
+    ],
+    "confidence_label": "Conditional",
+    "source_types": [
+      "community",
+      "credentialed"
+    ],
+    "source_names": [
+      "Reddit_bogleheads",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 2
+  },
+  {
+    "cluster_id": "c1",
+    "label": "Invest Over Low-Interest Loans",
+    "summary": "The central perspective is to invest spare cash rather than paying off low-interest student loans faster than necessary. This approach is supported by the potential for higher returns from investments and the benefits of tax-advantaged accounts.",
+    "key_reasons": [
+      "interest_rate",
+      "tax",
+      "investment_return"
+    ],
+    "conditions": [
+      "If you have access to tax-sheltered accounts like a 401(k) or Roth IRA.",
+      "If your loans have low interest rates."
+    ],
+    "caveats": [
+      "Consider your current tax bracket and how it affects your decision.",
+      "Don't ignore the psychological benefits of being debt-free."
+    ],
+    "confidence_label": "Confident",
+    "source_types": [
+      "community",
+      "credentialed"
+    ],
+    "source_names": [
+      "Reddit",
+      "Reddit_bogleheads",
+      "Whitecoatinvestor"
+    ],
+    "source_count": 3
+  }
+]

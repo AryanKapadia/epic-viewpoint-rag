@@ -1,0 +1,127 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c1",
+    "label": "Buy for Long-Term Wealth",
+    "confidence": "Conditional",
+    "mean_confidence": 0.5439881761322796,
+    "size": 4,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Calculator.net",
+      "First Citizens",
+      "Today's Homeowner",
+      "Yahoo Finance"
+    ],
+    "source_count": 4,
+    "summary": "Buying a home is often seen as a path to long-term financial security, despite the significant upfront costs and ongoing financial commitments. Homeownership can build equity and provide tax incentives, making it a more stable financial choice compared to renting. However, the high costs of maintenance and the impact of interest rates must be considered.",
+    "key_reasons": [
+      "equity_building",
+      "interest_rate",
+      "maintenance_cost"
+    ],
+    "conditions": [
+      "Home prices are expected to continue climbing, which could impact savings.",
+      "Strong credit, low debt, and adequate savings can help buyers qualify for better mortgage terms."
+    ],
+    "caveats": [
+      "Renting may appear more affordable in the short term.",
+      "High interest rates and home prices make it harder for many would-be buyers to afford a real estate purchase."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c0",
+    "label": "Rent for Flexibility and Cost Savings",
+    "confidence": "Confident",
+    "mean_confidence": 0.620878682909467,
+    "size": 14,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "AmeriSave",
+      "Bank First",
+      "Bankrate",
+      "Calculator.net",
+      "Discount Property Investor",
+      "Empower",
+      "First Citizens",
+      "MIG",
+      "NerdWallet",
+      "Today's Homeowner",
+      "Vision Retirement",
+      "Yahoo Finance",
+      "Zachos Real Estate"
+    ],
+    "source_count": 13,
+    "summary": "Renting is often more financially advantageous than buying a home, particularly in the current climate of high interest rates and soaring home prices. It offers lower upfront costs and greater flexibility, making it suitable for those who prioritize mobility or have uncertain futures. While renting may not build equity, it can be cheaper in many major metro areas.",
+    "key_reasons": [
+      "mobility",
+      "cash_flow",
+      "housing_market"
+    ],
+    "conditions": [
+      "High interest rates",
+      "Soaring home prices"
+    ],
+    "caveats": [
+      "Renting does not build equity",
+      "Rising rent costs in competitive markets"
+    ]
+  },
+  {
+    "main_viewpoint_rank": 3,
+    "cluster_id": "c2",
+    "label": "Buy for Long-Term Wealth",
+    "confidence": "Conditional",
+    "mean_confidence": 0.525225875177482,
+    "size": 16,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "AmeriSave",
+      "Bank First",
+      "Bankrate",
+      "Calculator.net",
+      "DefinitiveCalc",
+      "Directions Home Loan",
+      "Discount Property Investor",
+      "Empower",
+      "MIG",
+      "Monarch",
+      "Mortgage Calculator",
+      "Mortgage Info",
+      "The Mortgage Reports",
+      "Vision Retirement",
+      "Zachos Real Estate"
+    ],
+    "source_count": 15,
+    "summary": "Buying a home is generally better than renting if you plan to stay for at least 5 years. It offers long-term financial stability and wealth building through equity. Despite high upfront costs and market fluctuations, homeownership can lock in stable housing costs and provide a valuable asset over time.",
+    "key_reasons": [
+      "equity_building",
+      "time_horizon",
+      "cash_flow"
+    ],
+    "conditions": [
+      "You plan to stay in the home for at least five years.",
+      "You have the financial means to cover the upfront costs and ongoing expenses."
+    ],
+    "caveats": [
+      "Homeownership comes with significant responsibilities and risks.",
+      "High prices and elevated mortgage rates make 2026 a challenging buying environment."
+    ]
+  }
+]

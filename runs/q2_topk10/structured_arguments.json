@@ -1,0 +1,450 @@
+[
+  {
+    "id": "q2_004_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_004",
+    "source_type": "credentialed",
+    "source_name": "Advisorpedia",
+    "url": "https://www.advisorpedia.com/viewpoints/answer-these-5-crucial-questions-before-you-choose-a-roth-or-traditional-401k",
+    "bm25_score": 13.043650233011464,
+    "retrieval_rank": 1,
+    "main_claim": "If you are in the 0, 10, or 15% tax bracket, it is likely you would benefit from contributing to your company's Roth 401k.",
+    "supporting_text": "At these income levels, it is likely that your income will grow over time and you will be in a higher tax bracket at some point in the future. There is also the potential that these very low tax rates increase in the future, so taking advantage of paying taxes on these funds now at a very low rate, allowing the funds to grow tax free, and making tax free withdrawals in retirement is likely a good bet.",
+    "conditions": [
+      "Current tax bracket is 0, 10, or 15%"
+    ],
+    "caveats": [
+      "Future income may increase, leading to a higher tax bracket.",
+      "Tax rates may increase in the future."
+    ],
+    "reason_types": [
+      "tax"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 25,
+    "supporting_word_count": 78
+  },
+  {
+    "id": "q2_004_a1",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_004",
+    "source_type": "credentialed",
+    "source_name": "Advisorpedia",
+    "url": "https://www.advisorpedia.com/viewpoints/answer-these-5-crucial-questions-before-you-choose-a-roth-or-traditional-401k",
+    "bm25_score": 13.043650233011464,
+    "retrieval_rank": 1,
+    "main_claim": "If you are in the 25% tax bracket or higher, a closer analysis of tax benefits is needed before deciding.",
+    "supporting_text": "At these tax rates, you want to do a closer analysis of what other tax benefits you might be missing out on by pulling that money into taxation now. For example, the capital gains tax rate for taxpayers in the 0, 10, and 15% brackets is 0%.",
+    "conditions": [
+      "Current tax bracket is 25% or higher"
+    ],
+    "caveats": [
+      "Higher income earners may benefit more from traditional pre-tax 401k contributions."
+    ],
+    "reason_types": [
+      "tax",
+      "income_level"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 20,
+    "supporting_word_count": 47
+  },
+  {
+    "id": "q2_004_a2",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_004",
+    "source_type": "credentialed",
+    "source_name": "Advisorpedia",
+    "url": "https://www.advisorpedia.com/viewpoints/answer-these-5-crucial-questions-before-you-choose-a-roth-or-traditional-401k",
+    "bm25_score": 13.043650233011464,
+    "retrieval_rank": 1,
+    "main_claim": "If you are just getting started in your career and expect your income to grow, this is likely the time to take advantage of the Roth 401k option.",
+    "supporting_text": "The earlier you can get started making contributions, the longer those funds have to grow tax free. When your income rises, you can split your contributions between traditional and Roth, adjusting more to traditional for the tax benefit as your income rises.",
+    "conditions": [
+      "Early in career with expected income growth"
+    ],
+    "caveats": [
+      "Life changes may affect income and contribution strategy."
+    ],
+    "reason_types": [
+      "income_level",
+      "time_horizon"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 28,
+    "supporting_word_count": 42
+  },
+  {
+    "id": "q2_004_a3",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_004",
+    "source_type": "credentialed",
+    "source_name": "Advisorpedia",
+    "url": "https://www.advisorpedia.com/viewpoints/answer-these-5-crucial-questions-before-you-choose-a-roth-or-traditional-401k",
+    "bm25_score": 13.043650233011464,
+    "retrieval_rank": 1,
+    "main_claim": "Contributing to a Roth IRA is beneficial as it allows for tax-free growth and withdrawals.",
+    "supporting_text": "The Roth IRA is the gold standard of retirement savings accounts. Contributions go in after-tax, earnings grow tax free, and withdrawals are completely tax free in retirement.",
+    "conditions": [
+      "Adjusted Gross Income is below the phase out ranges"
+    ],
+    "caveats": [
+      "Full contributions are limited by income phase out ranges."
+    ],
+    "reason_types": [
+      "tax",
+      "withdrawal_rules"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 28
+  },
+  {
+    "id": "q2_004_a4",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_004",
+    "source_type": "credentialed",
+    "source_name": "Advisorpedia",
+    "url": "https://www.advisorpedia.com/viewpoints/answer-these-5-crucial-questions-before-you-choose-a-roth-or-traditional-401k",
+    "bm25_score": 13.043650233011464,
+    "retrieval_rank": 1,
+    "main_claim": "Building an appropriate emergency fund and taxable savings is important alongside retirement contributions.",
+    "supporting_text": "Retirement is of course not the only goal you are saving for. Saving in your 401k is great and we encourage our clients to max out their contributions to the best of their ability.",
+    "conditions": [
+      "Competing financial goals exist"
+    ],
+    "caveats": [
+      "401k funds are not easily accessible prior to age 59½."
+    ],
+    "reason_types": [
+      "liquidity"
+    ],
+    "coarse_direction": "unclear",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 34
+  },
+  {
+    "id": "q2_007_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_007",
+    "source_type": "financial_media",
+    "source_name": "CBS News",
+    "url": "https://www.cbsnews.com/news/are-roth-iras-and-401ks-better-because-tax-rates-will-increase-dont-count-on-it",
+    "bm25_score": 11.666925713631255,
+    "retrieval_rank": 2,
+    "main_claim": "If you'll be in a higher tax bracket in retirement compared to now, you'll have more money to spend in retirement if you contribute to a Roth 401k.",
+    "supporting_text": "If you're in the same tax bracket now and in retirement, there's no difference in the after-tax amount you have to spend in your retirement between the traditional and Roth 401k. If you'll be in a higher tax bracket in retirement compared to now, you'll have more money to spend in retirement if you contribute to a Roth 401k.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "tax"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 30,
+    "supporting_word_count": 64
+  },
+  {
+    "id": "q2_021_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_021",
+    "source_type": "brand",
+    "source_name": "T. Rowe Price",
+    "url": "https://www.troweprice.com/personal-investing/resources/insights/what-you-need-know-deciding-between-roth-and-traditional.html",
+    "bm25_score": 10.137617267568949,
+    "retrieval_rank": 3,
+    "main_claim": "If you're in a low tax bracket now and expect to be in a higher bracket later, you may want to consider a Roth.",
+    "supporting_text": "Roth IRAs are best for lower earning years, or if your tax rate will remain the same or increase in retirement. Contributing to a Roth account means you pay taxes now, but qualified distributions are tax-free in retirement.",
+    "conditions": [
+      "You are currently in a lower tax bracket.",
+      "You expect your tax rate to increase in the future."
+    ],
+    "caveats": [
+      "Tax rates are hard to predict due to changes in the law.",
+      "Your future income levels may vary."
+    ],
+    "reason_types": [
+      "tax"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 25,
+    "supporting_word_count": 39
+  },
+  {
+    "id": "q2_005_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_005",
+    "source_type": "brand",
+    "source_name": "Bankers Life",
+    "url": "https://www.bankerslife.com/insights/personal-finance/traditional-ira-vs-roth-ira-vs-401k-a-simple-rundown/",
+    "bm25_score": 10.11810038414991,
+    "retrieval_rank": 4,
+    "main_claim": "Contributing to a Roth IRA allows for tax-free withdrawals in retirement.",
+    "supporting_text": "A Roth IRA allows you to contribute after-tax dollars. The money in your Roth IRA grows through annual contributions and investment appreciation, with annual contributions limited to $6,500 a year. Contributions and potential investment gains accumulate tax-free.",
+    "conditions": [
+      "You must earn income below a certain level ($153,000 for single tax filers, or less than $228,000 for those married and filing jointly)."
+    ],
+    "caveats": [
+      "The Roth IRA doesn't offer any current-year tax benefits.",
+      "Investments held in a Roth IRA usually don't guarantee performance, so your investments could fluctuate in value."
+    ],
+    "reason_types": [
+      "tax",
+      "income_level",
+      "withdrawal_rules"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q2_005_a1",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_005",
+    "source_type": "brand",
+    "source_name": "Bankers Life",
+    "url": "https://www.bankerslife.com/insights/personal-finance/traditional-ira-vs-roth-ira-vs-401k-a-simple-rundown/",
+    "bm25_score": 10.11810038414991,
+    "retrieval_rank": 4,
+    "main_claim": "Contributing to a traditional 401(k) provides immediate tax benefits.",
+    "supporting_text": "A traditional 401(k) is funded with pre-tax dollars, which means you won't pay taxes on it until you begin taking withdrawals. Your contributions may also be tax-deductible, helping give you immediate tax benefits.",
+    "conditions": [
+      "You can begin withdrawing from your 401(k) at age 59½, or if you meet other criteria dictated by the IRS."
+    ],
+    "caveats": [
+      "Withdrawals from a traditional 401(k) will be taxed as ordinary income.",
+      "Investments held in a 401(k) usually don't guarantee performance."
+    ],
+    "reason_types": [
+      "tax",
+      "withdrawal_rules"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 10,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q2_022_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_022",
+    "source_type": "credentialed",
+    "source_name": "White Coat Investor",
+    "url": "https://www.whitecoatinvestor.com/should-you-make-roth-or-traditional-401k-contributions/",
+    "bm25_score": 9.864617626254974,
+    "retrieval_rank": 5,
+    "main_claim": "Residents and military members should maximize Roth contributions.",
+    "supporting_text": "If you're a resident or military member, maximize Roth contributions. This is because they are likely in lower income years and can benefit from tax-free growth.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "income_level",
+      "tax"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 28
+  },
+  {
+    "id": "q2_022_a2",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_022",
+    "source_type": "credentialed",
+    "source_name": "White Coat Investor",
+    "url": "https://www.whitecoatinvestor.com/should-you-make-roth-or-traditional-401k-contributions/",
+    "bm25_score": 9.864617626254974,
+    "retrieval_rank": 5,
+    "main_claim": "If you save and invest more than 20% of your gross income, lean more toward Roth investments.",
+    "supporting_text": "If you save and invest more than 20% of your gross income, lean a little more toward Roth investments. This is because you may benefit from tax-free growth on a larger amount.",
+    "conditions": [],
+    "caveats": [
+      "If you save and invest less, use tax-deferred accounts preferentially."
+    ],
+    "reason_types": [
+      "income_level",
+      "tax"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 33
+  },
+  {
+    "id": "q2_011_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_011",
+    "source_type": "brand",
+    "source_name": "Fidelity",
+    "url": "https://www.fidelity.com/learning-center/smart-money/ira-vs-401k",
+    "bm25_score": 9.151730108265857,
+    "retrieval_rank": 8,
+    "main_claim": "You should consider contributing to a Roth IRA for tax-free growth and withdrawals in retirement.",
+    "supporting_text": "Roth retirement accounts, meanwhile, don't let you deduct your contributions from taxable income for the year in which they're made. Instead, you make after-tax contributions to a Roth IRA or 401(k), and your contributions and their potential earnings grow tax-free. Withdrawals can be made without incurring federal income taxes or penalties after age 59½, provided the 5-year aging rule has been met.",
+    "conditions": [
+      "You are eligible to contribute based on IRS income limits.",
+      "You are looking for tax-free withdrawals in retirement."
+    ],
+    "caveats": [
+      "If you are a high earner, you might not be able to contribute to a Roth IRA.",
+      "You need to meet the 5-year aging rule for tax-free withdrawals."
+    ],
+    "reason_types": [
+      "tax",
+      "income_level",
+      "withdrawal_rules"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 68
+  },
+  {
+    "id": "q2_011_a1",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_011",
+    "source_type": "brand",
+    "source_name": "Fidelity",
+    "url": "https://www.fidelity.com/learning-center/smart-money/ira-vs-401k",
+    "bm25_score": 9.151730108265857,
+    "retrieval_rank": 8,
+    "main_claim": "You should consider contributing to a traditional 401(k) for higher contribution limits and potential employer matching.",
+    "supporting_text": "401(k)s have vastly higher limits. For 2025, the 401(k) contribution limit is $23,500. This rises to $24,500 in 2026. If your employer offers a plan and you're eligible to participate, you can contribute to a traditional or Roth 401(k). One of the biggest benefits of workplace retirement plans, like 401(k)s, is that they allow your company to contribute to your retirement savings too.",
+    "conditions": [
+      "Your employer offers a 401(k) plan.",
+      "You want to maximize your retirement savings through higher contribution limits."
+    ],
+    "caveats": [
+      "You may not have access to a Roth 401(k) unless your employer specifically provides that account type.",
+      "Employer contributions may be subject to a vesting period."
+    ],
+    "reason_types": [
+      "employer_match",
+      "contribution_limits"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 72
+  },
+  {
+    "id": "q2_014_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_014",
+    "source_type": "brand",
+    "source_name": "Fidelity",
+    "url": "https://www.fidelity.com/viewpoints/retirement/spender-or-saver",
+    "bm25_score": 9.095203934857803,
+    "retrieval_rank": 9,
+    "main_claim": "Contributing to a Roth IRA may be beneficial if you believe your marginal tax rate will be higher in retirement than it is now.",
+    "supporting_text": "A Roth account may make sense because qualified withdrawals may be tax-free. This means you need to choose between paying taxes now or in retirement.",
+    "conditions": [
+      "If you believe your marginal tax rate will be significantly higher in retirement than it is now."
+    ],
+    "caveats": [
+      "If you have no idea what your future marginal tax rate will be.",
+      "The ability to contribute to a Roth IRA is phased out at higher incomes."
+    ],
+    "reason_types": [
+      "tax"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 24,
+    "supporting_word_count": 26
+  },
+  {
+    "id": "q2_013_a0",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_013",
+    "source_type": "brand",
+    "source_name": "Fidelity",
+    "url": "https://www.fidelity.com/learning-center/smart-money/roth-ira-vs-401k",
+    "bm25_score": 8.880159522847052,
+    "retrieval_rank": 10,
+    "main_claim": "You should consider contributing to a Roth IRA for tax-free withdrawals in retirement.",
+    "supporting_text": "A Roth IRA allows your money to grow tax-free, with potentially tax-free withdrawals in retirement if certain requirements are met. You can withdraw your contributions anytime without taxes or penalties, which provides flexibility.",
+    "conditions": [
+      "You have already paid taxes on the money you contribute.",
+      "Your income is below the IRS limits for contributions."
+    ],
+    "caveats": [
+      "Contributions to a Roth IRA do not reduce your taxable income for the year.",
+      "If you withdraw investment earnings before age 59½, you'll generally pay income taxes plus an additional 10% penalty."
+    ],
+    "reason_types": [
+      "tax",
+      "withdrawal_rules",
+      "income_level"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 35
+  },
+  {
+    "id": "q2_013_a1",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_013",
+    "source_type": "brand",
+    "source_name": "Fidelity",
+    "url": "https://www.fidelity.com/learning-center/smart-money/roth-ira-vs-401k",
+    "bm25_score": 8.880159522847052,
+    "retrieval_rank": 10,
+    "main_claim": "You should consider contributing to a traditional 401(k) to take advantage of employer matching contributions.",
+    "supporting_text": "Traditional 401(k) plans often come with employer matching, which can significantly boost your retirement savings. Contributions are made before paying taxes, reducing your taxable income for that year.",
+    "conditions": [
+      "Your employer offers a matching contribution.",
+      "You want to reduce your taxable income in the current year."
+    ],
+    "caveats": [
+      "You may face penalties and taxes on early withdrawals before age 59½.",
+      "You generally need to start taking required minimum distributions (RMDs) at age 73."
+    ],
+    "reason_types": [
+      "employer_match",
+      "tax",
+      "retirement_rules"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 29
+  },
+  {
+    "id": "q2_013_a2",
+    "query_id": "q2",
+    "query": "Should I contribute to a Roth IRA or a traditional 401k?",
+    "source_doc_id": "q2_013",
+    "source_type": "brand",
+    "source_name": "Fidelity",
+    "url": "https://www.fidelity.com/learning-center/smart-money/roth-ira-vs-401k",
+    "bm25_score": 8.880159522847052,
+    "retrieval_rank": 10,
+    "main_claim": "Consider contributing to both a Roth IRA and a traditional 401(k) to maximize benefits.",
+    "supporting_text": "It's possible to be eligible to contribute to both a Roth IRA and a 401(k) and to make contributions to each at the same time. Prioritizing contributions to your 401(k) to capture the full employer match, then contributing to a Roth IRA can provide tax-free withdrawals in retirement.",
+    "conditions": [
+      "You are eligible for both account types.",
+      "You want to maximize your retirement savings."
+    ],
+    "caveats": [
+      "Annual contribution limits are separate for each account type.",
+      "High earners may face restrictions on Roth IRA contributions."
+    ],
+    "reason_types": [
+      "employer_match",
+      "tax",
+      "income_level"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 52
+  }
+]

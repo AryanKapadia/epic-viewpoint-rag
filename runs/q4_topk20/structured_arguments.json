@@ -1,0 +1,967 @@
+[
+  {
+    "id": "q4_007_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_007",
+    "source_type": "financial_media",
+    "source_name": "Today's Homeowner",
+    "url": "https://todayshomeowner.com/home-finances/guides/renting-vs-owning/",
+    "bm25_score": 10.420996388292114,
+    "retrieval_rank": 1,
+    "main_claim": "In some areas, long-term renting is cheaper than homeownership, especially given the current high interest rates and home prices.",
+    "supporting_text": "Long-term renting is cheaper than homeownership in 46 of the 97 major cities we researched. Renters will spend an average of $1.26 million over the course of 30 years, while homeowners will spend $1.30 million.",
+    "conditions": [
+      "High interest rates",
+      "Soaring home prices",
+      "Low inventory"
+    ],
+    "caveats": [
+      "Homeownership may still be beneficial in some markets",
+      "Homeowners may save in the long term if they stay in their homes"
+    ],
+    "reason_types": [
+      "interest_rate",
+      "housing_market",
+      "time_horizon"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 20,
+    "supporting_word_count": 38
+  },
+  {
+    "id": "q4_007_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_007",
+    "source_type": "financial_media",
+    "source_name": "Today's Homeowner",
+    "url": "https://todayshomeowner.com/home-finances/guides/renting-vs-owning/",
+    "bm25_score": 10.420996388292114,
+    "retrieval_rank": 1,
+    "main_claim": "Renting may be the better financial decision for many renters right now.",
+    "supporting_text": "69% of renters believe that renting is the best financial decision for them right now. Many renters feel that homeownership is currently out of reach due to financial concerns.",
+    "conditions": [
+      "Current financial situation of renters",
+      "High down payments required for homeownership"
+    ],
+    "caveats": [
+      "Aspiration to own a home may influence decisions",
+      "Not all renters may feel the same way"
+    ],
+    "reason_types": [
+      "cash_flow",
+      "equity_building"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 29
+  },
+  {
+    "id": "q4_007_a2",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_007",
+    "source_type": "financial_media",
+    "source_name": "Today's Homeowner",
+    "url": "https://todayshomeowner.com/home-finances/guides/renting-vs-owning/",
+    "bm25_score": 10.420996388292114,
+    "retrieval_rank": 1,
+    "main_claim": "Homeownership can provide financial stability but comes with significant costs.",
+    "supporting_text": "Homeownership comes with other significant costs which can make ownership less desirable. Homeowners can expect to pay up to $90,000 on average for home repairs over a 30-year period.",
+    "conditions": [
+      "Ability to afford maintenance and repair costs",
+      "Long-term commitment to the property"
+    ],
+    "caveats": [
+      "Homeownership may not be the right choice for everyone",
+      "Market conditions can vary widely"
+    ],
+    "reason_types": [
+      "maintenance_cost",
+      "time_horizon"
+    ],
+    "coarse_direction": "unclear",
+    "main_claim_word_count": 10,
+    "supporting_word_count": 31
+  },
+  {
+    "id": "q4_019_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_019",
+    "source_type": "credentialed",
+    "source_name": "Vision Retirement",
+    "url": "https://www.visionretirement.com/articles/home-buying/renting-vs-buying",
+    "bm25_score": 10.23866310260767,
+    "retrieval_rank": 2,
+    "main_claim": "Buying a home can provide long-term financial stability and the opportunity to build wealth through home equity.",
+    "supporting_text": "Buying provides a sense of permanence and the opportunity to grow wealth over time via home equity. A fixed-rate mortgage can lock in predictable payments, giving you long-term financial stability.",
+    "conditions": [
+      "You plan to stay in the home for at least five years.",
+      "You have the financial means to cover the upfront costs and ongoing expenses."
+    ],
+    "caveats": [
+      "Homeownership comes with significant responsibilities and risks.",
+      "Market downturns can shrink your home's value."
+    ],
+    "reason_types": [
+      "equity_building",
+      "time_horizon",
+      "maintenance_cost"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q4_019_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_019",
+    "source_type": "credentialed",
+    "source_name": "Vision Retirement",
+    "url": "https://www.visionretirement.com/articles/home-buying/renting-vs-buying",
+    "bm25_score": 10.23866310260767,
+    "retrieval_rank": 2,
+    "main_claim": "Renting is often a cheaper option than owning right now, especially in big cities.",
+    "supporting_text": "In fact, Bankrate found in 2024 that renting cost less than buying in all 50 of the country's largest metro areas. Median rent at the end of 2024 rang in at ~$1,695 while the monthly mortgage payment on a typical home was closer to $2,100.",
+    "conditions": [
+      "You value flexibility and lower upfront costs.",
+      "You are not ready to settle down."
+    ],
+    "caveats": [
+      "Rising rents in some housing markets can make buying more attractive in the long run.",
+      "Rent payments do not build equity."
+    ],
+    "reason_types": [
+      "cash_flow",
+      "mobility",
+      "housing_market"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 48
+  },
+  {
+    "id": "q4_020_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_020",
+    "source_type": "brand",
+    "source_name": "Zachos Real Estate",
+    "url": "https://zachosre.com/should-you-rent-or-buy-a-home-in-2026-an-honest-no-hype-breakdown/",
+    "bm25_score": 9.775241080537818,
+    "retrieval_rank": 3,
+    "main_claim": "Buying a home makes more sense if you're financially stable, plan to stay put for several years, and want to build equity and lock in your housing costs long-term.",
+    "supporting_text": "Buying allows you to build equity over time, lock in a fixed monthly payment that won't rise with market conditions, and establish long-term stability and control over your living space. Over a longer time horizon, homeownership typically builds wealth in a way that renting does not.",
+    "conditions": [
+      "You plan to stay in the home for at least three to five years.",
+      "You're financially stable with a solid down payment and emergency reserves."
+    ],
+    "caveats": [
+      "If there's a meaningful chance you'll move within two years, renting is generally the lower-risk choice.",
+      "You need to understand the full cost of ownership in your target market."
+    ],
+    "reason_types": [
+      "equity_building",
+      "time_horizon"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 31,
+    "supporting_word_count": 48
+  },
+  {
+    "id": "q4_020_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_020",
+    "source_type": "brand",
+    "source_name": "Zachos Real Estate",
+    "url": "https://zachosre.com/should-you-rent-or-buy-a-home-in-2026-an-honest-no-hype-breakdown/",
+    "bm25_score": 9.775241080537818,
+    "retrieval_rank": 3,
+    "main_claim": "Renting makes sense if you value mobility, aren't certain about your long-term location, or want to keep monthly costs lower and predictable.",
+    "supporting_text": "Renting preserves your ability to move. If your job situation changes, if you want to explore a different part of town or a different city, or if your living situation evolves, a rental can be exited at the end of a lease.",
+    "conditions": [
+      "You're not yet certain where you want to live long-term.",
+      "Your job situation could change in the next one to two years."
+    ],
+    "caveats": [
+      "Renting is often treated as the 'settling' option, which may undervalue its genuine advantages.",
+      "Renting may not build equity over time."
+    ],
+    "reason_types": [
+      "mobility",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 24,
+    "supporting_word_count": 42
+  },
+  {
+    "id": "q4_012_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_012",
+    "source_type": "brand",
+    "source_name": "Empower",
+    "url": "https://www.empower.com/the-currency/life/money/rent-vs-buy-2025-top-50-metros-news",
+    "bm25_score": 9.504928775871235,
+    "retrieval_rank": 4,
+    "main_claim": "Buying a home is cheaper than renting in 23 of the 50 largest metros, making it a viable option for many households.",
+    "supporting_text": "With mortgage rates back to 6% but home prices still elevated, many households are weighing whether it's cheaper to rent or buy. Analyzing Zillow rental and home prices in the 50 largest metro areas shows that buying is cheaper than renting in 23 cities, while renting costs less in 27 metros.",
+    "conditions": [
+      "Location plays a significant role in affordability.",
+      "Households need to consider how long they plan to stay in the home."
+    ],
+    "caveats": [
+      "The true cost of homeownership includes taxes, insurance, and maintenance, not just the monthly mortgage payment.",
+      "Mortgage rates above 5.5% represent a psychological tipping point for many homeowners."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "housing_market",
+      "time_horizon"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 22,
+    "supporting_word_count": 52
+  },
+  {
+    "id": "q4_012_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_012",
+    "source_type": "brand",
+    "source_name": "Empower",
+    "url": "https://www.empower.com/the-currency/life/money/rent-vs-buy-2025-top-50-metros-news",
+    "bm25_score": 9.504928775871235,
+    "retrieval_rank": 4,
+    "main_claim": "Renting may be more affordable in certain high-cost areas, making it a better choice for some individuals.",
+    "supporting_text": "In 27 of the 50 largest metros, renting costs less than buying, indicating that location significantly influences the rent vs. buy decision. For example, in San Jose, CA, the monthly mortgage payment is $7,500 compared to a median rent of $3,406, resulting in substantial savings for renters.",
+    "conditions": [
+      "High home prices and mortgage rates can make renting more attractive.",
+      "Individuals may prioritize flexibility and mobility."
+    ],
+    "caveats": [
+      "Renting does not build equity, which can be a long-term financial disadvantage.",
+      "Rising tenant insurance costs may affect overall affordability."
+    ],
+    "reason_types": [
+      "housing_market",
+      "mobility",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 49
+  },
+  {
+    "id": "q4_015_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_015",
+    "source_type": "brand",
+    "source_name": "Monarch",
+    "url": "https://www.monarch.com/blog/renting-versus-buying-pros-cons-and-considerations",
+    "bm25_score": 9.154430245126129,
+    "retrieval_rank": 5,
+    "main_claim": "Buying a home typically builds more wealth over a longer time horizon compared to renting.",
+    "supporting_text": "The financial calculus of buying is genuinely complex, but homeownership builds equity through both price appreciation and mortgage paydown. A 'forced savings' mechanism helps many people build wealth even without investing discipline.",
+    "conditions": [
+      "You plan to stay in the home for at least 5-7 years.",
+      "You have the financial readiness to handle the upfront costs and ongoing expenses."
+    ],
+    "caveats": [
+      "The math favors renting on a monthly basis in the majority of U.S. markets in 2026.",
+      "High prices and elevated mortgage rates make 2026 a challenging buying environment."
+    ],
+    "reason_types": [
+      "time_horizon",
+      "equity_building",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q4_001_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_001",
+    "source_type": "financial_media",
+    "source_name": "DefinitiveCalc",
+    "url": "https://definitivecalc.com/blog/rent-vs-buy-2026-analysis",
+    "bm25_score": 9.146926925791467,
+    "retrieval_rank": 6,
+    "main_claim": "Buying a home is generally better than renting if you plan to stay for 5 to 7 years.",
+    "supporting_text": "It takes time for home value growth to offset the high upfront costs of buying (such as closing costs and inspection fees). If you move sooner, you often walk away with less cash than you would have if you had rented.",
+    "conditions": [
+      "You plan to stay for 5 to 7 years.",
+      "Your monthly rent is significantly higher than a comparable mortgage."
+    ],
+    "caveats": [
+      "There are no guarantees regarding home appreciation.",
+      "If you move sooner than 5 years, you may not see positive equity gains."
+    ],
+    "reason_types": [
+      "time_horizon",
+      "equity_building"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 41
+  },
+  {
+    "id": "q4_016_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_016",
+    "source_type": "brand",
+    "source_name": "Mortgage Calculator",
+    "url": "https://www.mortgagecalculator.org/calculators/buy-vs-rent-calculator.php",
+    "bm25_score": 9.065631232556875,
+    "retrieval_rank": 7,
+    "main_claim": "Buying a home is generally better than renting due to the potential for building equity and stability in monthly payments.",
+    "supporting_text": "Conventional wisdom says that it's better to buy a home. Otherwise, you're just 'wasting money' on rent that you could be putting toward building equity in your home and shoring up an investment that can stay with you until you retire.",
+    "conditions": [
+      "You plan to stay in the area for at least five or six years.",
+      "You can afford the initial costs of buying a home."
+    ],
+    "caveats": [
+      "Home appreciation is not guaranteed and can vary based on property and location.",
+      "Owning a home comes with unpredictable maintenance costs."
+    ],
+    "reason_types": [
+      "equity_building",
+      "cash_flow",
+      "uncertainty"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 20,
+    "supporting_word_count": 43
+  },
+  {
+    "id": "q4_014_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_014",
+    "source_type": "credentialed",
+    "source_name": "Bank First",
+    "url": "https://www.ibankfirst.com/loans/is-it-better-to-rent-or-buy-when-interest-rates-are-high",
+    "bm25_score": 8.939298343225646,
+    "retrieval_rank": 8,
+    "main_claim": "Buying a home can be a better long-term investment despite high interest rates.",
+    "supporting_text": "By purchasing a home, a portion of your monthly mortgage payment goes toward building equity in your property, which can be a valuable financial asset over time. Real estate in desirable markets often appreciates in value, making it a strong long-term investment.",
+    "conditions": [
+      "If you plan to stay in the same area for five years or longer.",
+      "If you can manage the higher upfront costs and monthly payments."
+    ],
+    "caveats": [
+      "Higher monthly costs due to increased interest rates.",
+      "Financial risk if property values decline."
+    ],
+    "reason_types": [
+      "equity_building",
+      "time_horizon",
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 43
+  },
+  {
+    "id": "q4_014_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_014",
+    "source_type": "credentialed",
+    "source_name": "Bank First",
+    "url": "https://www.ibankfirst.com/loans/is-it-better-to-rent-or-buy-when-interest-rates-are-high",
+    "bm25_score": 8.939298343225646,
+    "retrieval_rank": 8,
+    "main_claim": "Renting may be more advantageous when interest rates are high.",
+    "supporting_text": "Renting often comes with lower upfront costs and allows you to avoid high monthly payments that could come with purchasing at higher interest rates. It also provides flexibility to relocate more easily.",
+    "conditions": [
+      "If you need flexibility or are not ready to commit.",
+      "If you anticipate moving for work or family reasons."
+    ],
+    "caveats": [
+      "Payments do not build equity.",
+      "Rising rent costs in competitive markets can be unpredictable."
+    ],
+    "reason_types": [
+      "mobility",
+      "cash_flow",
+      "uncertainty"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 10,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q4_002_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_002",
+    "source_type": "brand",
+    "source_name": "Directions Home Loan",
+    "url": "https://directionshomeloan.com/should-you-rent-or-buy-a-home-in-2026-pros-and-cons-to-consider/",
+    "bm25_score": 8.646186707131687,
+    "retrieval_rank": 9,
+    "main_claim": "Purchasing a home is typically the wiser financial choice if you plan to stay there for at least five years.",
+    "supporting_text": "Over that time, you build equity and spread out your closing costs. If you expect to move sooner, renting may be cheaper.",
+    "conditions": [
+      "You plan to stay in the property for at least five years."
+    ],
+    "caveats": [
+      "Selling within a short time frame can reduce your gains due to agent fees and other selling costs."
+    ],
+    "reason_types": [
+      "equity_building",
+      "time_horizon"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 20,
+    "supporting_word_count": 22
+  },
+  {
+    "id": "q4_002_a2",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_002",
+    "source_type": "brand",
+    "source_name": "Directions Home Loan",
+    "url": "https://directionshomeloan.com/should-you-rent-or-buy-a-home-in-2026-pros-and-cons-to-consider/",
+    "bm25_score": 8.646186707131687,
+    "retrieval_rank": 9,
+    "main_claim": "Buying a home offers stability, equity, and potential wealth growth.",
+    "supporting_text": "For many, it represents the American Dream and a long-term investment. Building home equity is a powerful financial advantage of homeownership.",
+    "conditions": [
+      "You have sufficient savings for the down payment and closing costs.",
+      "You can manage the monthly mortgage payments without financial strain."
+    ],
+    "caveats": [
+      "Buying involves higher upfront costs and ongoing responsibilities."
+    ],
+    "reason_types": [
+      "equity_building",
+      "cash_flow",
+      "maintenance_cost"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 10,
+    "supporting_word_count": 22
+  },
+  {
+    "id": "q4_013_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_013",
+    "source_type": "credentialed",
+    "source_name": "First Citizens",
+    "url": "https://www.firstcitizens.com/personal/insights/home/is-it-better-to-rent-or-buy-a-house",
+    "bm25_score": 8.615913520856907,
+    "retrieval_rank": 10,
+    "main_claim": "Homeownership remains the most proven path to lasting financial security for most Americans.",
+    "supporting_text": "Despite high prices and interest rates, homeownership still outperforms renting for creating lasting financial security. Homeowners are 43 times wealthier than renters, as every mortgage payment and every increase in your home's value adds directly to your net worth.",
+    "conditions": [
+      "Strong credit, low debt, and adequate savings can help buyers qualify for better mortgage terms.",
+      "Location drives many differences in costs."
+    ],
+    "caveats": [
+      "Renting may appear more affordable in the short term.",
+      "High interest rates and home prices make it harder for many would-be buyers to afford a real estate purchase."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "housing_market",
+      "equity_building"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q4_013_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_013",
+    "source_type": "credentialed",
+    "source_name": "First Citizens",
+    "url": "https://www.firstcitizens.com/personal/insights/home/is-it-better-to-rent-or-buy-a-house",
+    "bm25_score": 8.615913520856907,
+    "retrieval_rank": 10,
+    "main_claim": "Renting typically offers flexibility and lower upfront costs.",
+    "supporting_text": "Renting offers lower upfront costs and fewer maintenance responsibilities, but it doesn't build home equity. Across most of the US, it still costs less each month to rent than to buy.",
+    "conditions": [
+      "In 48 of the nation's 50 largest metro areas, rent is lower than a typical mortgage payment."
+    ],
+    "caveats": [
+      "This view doesn't account for the long-term trade-offs between renting and owning."
+    ],
+    "reason_types": [
+      "mobility",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q4_003_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_003",
+    "source_type": "financial_media",
+    "source_name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/renting-vs-buying-home-2026-182504647.html",
+    "bm25_score": 8.263551056392162,
+    "retrieval_rank": 11,
+    "main_claim": "Renting a home in 2026 is likely going to be cheaper than buying a home.",
+    "supporting_text": "According to Apartment List's December National Rent Report, national rent prices are down 1.1% year-over-year. This is likely due to the supply and demand factor easing up, thanks to a rise in vacancy rates that put renters in a stronger financial position.",
+    "conditions": [
+      "Current national average rent is around $1,631 for a one-bedroom apartment and $1,887 for a two-bedroom apartment.",
+      "Mortgage interest rates in the U.S. are expected to fall to around 6% in 2026."
+    ],
+    "caveats": [
+      "National average rent is still expected to increase in 2026.",
+      "Home prices are expected to continue climbing, though at a more moderate pace."
+    ],
+    "reason_types": [
+      "housing_market",
+      "interest_rate"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 46
+  },
+  {
+    "id": "q4_003_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_003",
+    "source_type": "financial_media",
+    "source_name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com/news/renting-vs-buying-home-2026-182504647.html",
+    "bm25_score": 8.263551056392162,
+    "retrieval_rank": 11,
+    "main_claim": "Buying a home may come with significant financial commitments and higher upfront costs.",
+    "supporting_text": "Owning a home often comes with higher upfront costs and long-term financial commitments. Mortgages themselves can bring on a scary amount of debt, especially when you factor in the interest rate.",
+    "conditions": [
+      "Home prices are expected to continue climbing, which could impact savings.",
+      "Rising rent payments and added fees can quickly change the affordability equation."
+    ],
+    "caveats": [
+      "The significant increase in existing home sales is anticipated, with some forecasts predicting a double-digit percentage jump."
+    ],
+    "reason_types": [
+      "cash_flow",
+      "equity_building"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q4_011_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_011",
+    "source_type": "brand",
+    "source_name": "Discount Property Investor",
+    "url": "https://www.discountpropertyinvestor.com/blog/renting-vs-buying-a-home-in-2026-beginner-s-guide",
+    "bm25_score": 8.254339850532544,
+    "retrieval_rank": 12,
+    "main_claim": "Buying a home is increasingly favorable for long-term wealth building as the housing market stabilizes.",
+    "supporting_text": "Owning a home remains one of the most reliable ways Americans build long-term wealth, and in 2026, the case for buying is strengthening as the market normalizes. Each mortgage payment builds equity through principal reduction and modest appreciation, and you gain stability with fixed payments on a 30-year loan.",
+    "conditions": [
+      "Staying in one place for five years or longer favors buying.",
+      "Market conditions are stabilizing with modest appreciation."
+    ],
+    "caveats": [
+      "Upfront costs remain steep, including down payment and closing fees.",
+      "Monthly payments are higher than what earlier buyers locked in."
+    ],
+    "reason_types": [
+      "equity_building",
+      "time_horizon",
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 51
+  },
+  {
+    "id": "q4_011_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_011",
+    "source_type": "brand",
+    "source_name": "Discount Property Investor",
+    "url": "https://www.discountpropertyinvestor.com/blog/renting-vs-buying-a-home-in-2026-beginner-s-guide",
+    "bm25_score": 8.254339850532544,
+    "retrieval_rank": 12,
+    "main_claim": "Renting offers flexibility and lower upfront costs, making it a smart short-term move for many.",
+    "supporting_text": "Renting still holds strong appeal, particularly when life feels unpredictable. The biggest advantages include the freedom to relocate easily for a new job or lifestyle change, far lower upfront costs since there's no down payment or closing fees involved.",
+    "conditions": [
+      "Life circumstances are uncertain or likely to change in the near term.",
+      "Shorter stays of less than five years usually favor renting."
+    ],
+    "caveats": [
+      "Renting does not build equity, and rent increases can add up over time.",
+      "Limited control over the property and potential for lease termination."
+    ],
+    "reason_types": [
+      "mobility",
+      "cash_flow",
+      "uncertainty"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q4_009_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_009",
+    "source_type": "financial_media",
+    "source_name": "Bankrate",
+    "url": "https://www.bankrate.com/mortgages/rent-or-buy-home-calculator/",
+    "bm25_score": 8.25197127525226,
+    "retrieval_rank": 13,
+    "main_claim": "Buying a home could be the right choice if you're ready to plant permanent roots and have enough money saved for a down payment and closing costs.",
+    "supporting_text": "Buying lets you start accumulating equity, helping you recoup the initial transaction costs and build wealth. Plus, it offers more long-term stability, and you don't have to worry about your landlord selling the property or raising your rent.",
+    "conditions": [
+      "You have enough money saved for a down payment and closing costs.",
+      "You are ready to plant permanent roots."
+    ],
+    "caveats": [
+      "You must pay homeowners insurance and property taxes.",
+      "You are responsible for maintenance and repairs.",
+      "There is potential to lose money if home values fall."
+    ],
+    "reason_types": [
+      "equity_building",
+      "time_horizon"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 28,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q4_009_a2",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_009",
+    "source_type": "financial_media",
+    "source_name": "Bankrate",
+    "url": "https://www.bankrate.com/mortgages/rent-or-buy-home-calculator/",
+    "bm25_score": 8.25197127525226,
+    "retrieval_rank": 13,
+    "main_claim": "Across the top 50 metro areas in the U.S., renting a home is cheaper than paying a mortgage right now.",
+    "supporting_text": "In some places, renting is a lot cheaper. For example, in the Denver metro area, the average monthly mortgage payment is $3,787, while the average monthly rent is $1,927.",
+    "conditions": [
+      "You are located in a metro area where renting is significantly cheaper than buying."
+    ],
+    "caveats": [
+      "The difference in costs may not be as stark in all areas."
+    ],
+    "reason_types": [
+      "housing_market",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 21,
+    "supporting_word_count": 31
+  },
+  {
+    "id": "q4_004_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_004",
+    "source_type": "brand",
+    "source_name": "MIG",
+    "url": "https://migonline.com/blog/2026/01/01/renting-vs-buying-in-2026-analyzing-the-long-term-financial-impact/",
+    "bm25_score": 8.006962936593322,
+    "retrieval_rank": 14,
+    "main_claim": "Buying a home is a powerful strategy for building long-term wealth, especially as markets stabilize in 2026.",
+    "supporting_text": "Homeownership offers a major financial advantage that renting can't match: equity. With each mortgage payment, a portion of the principal reduces your loan balance and increases your ownership stake. Additionally, if home values appreciate over time, that equity growth can significantly compound wealth.",
+    "conditions": [
+      "Planning to stay in one place for a long time",
+      "Desiring stability and control over housing costs"
+    ],
+    "caveats": [
+      "High home prices and elevated mortgage rates make buying a challenge in many areas",
+      "Renting may be more affordable month-to-month in high-cost markets"
+    ],
+    "reason_types": [
+      "equity_building",
+      "time_horizon",
+      "housing_market"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 44
+  },
+  {
+    "id": "q4_004_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_004",
+    "source_type": "brand",
+    "source_name": "MIG",
+    "url": "https://migonline.com/blog/2026/01/01/renting-vs-buying-in-2026-analyzing-the-long-term-financial-impact/",
+    "bm25_score": 8.006962936593322,
+    "retrieval_rank": 14,
+    "main_claim": "Renting can be financially sensible for those focused on short-term flexibility.",
+    "supporting_text": "Renting provides flexibility - ideal for those not ready to stay in one place or take on long-term financial obligations. In many large U.S. metros, average mortgage payments remain higher than typical rents.",
+    "conditions": [
+      "Not ready to commit to long-term financial obligations",
+      "Desiring mobility for work or personal reasons"
+    ],
+    "caveats": [
+      "Renters do not build ownership in a property",
+      "Renting may cost thousands over several years with no asset accumulation"
+    ],
+    "reason_types": [
+      "mobility",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 34
+  },
+  {
+    "id": "q4_005_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_005",
+    "source_type": "brand",
+    "source_name": "Mortgage Info",
+    "url": "https://mortgage-info.com/blog/rent-vs-buy-2026-analysis-calculator",
+    "bm25_score": 7.935655398422194,
+    "retrieval_rank": 15,
+    "main_claim": "Buying a home is generally better than renting if you plan to stay for 5 or more years.",
+    "supporting_text": "After 5 years, buying saves $47,000-$127,000 vs. renting in most markets. The net wealth after 5 years from buying is +$141,700 equity, while renting results in $0 equity.",
+    "conditions": [
+      "You plan to stay for 5+ years",
+      "You have stable income and employment"
+    ],
+    "caveats": [
+      "In extreme price-to-rent ratio markets like San Francisco or New York, renting may be more favorable",
+      "If you have unstable income or high-interest debt, renting may be better"
+    ],
+    "reason_types": [
+      "time_horizon",
+      "equity_building"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q4_010_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_010",
+    "source_type": "brand",
+    "source_name": "Calculator.net",
+    "url": "https://www.calculator.net/rent-vs-buy-calculator.html",
+    "bm25_score": 7.933929845400703,
+    "retrieval_rank": 16,
+    "main_claim": "Buying a home is cheaper if you stay for 4.5 years or longer; otherwise, renting is cheaper.",
+    "supporting_text": "The Rent vs. Buy Calculator indicates that the average cost of buying a home becomes lower than renting if the homeowner stays for at least 4.5 years. For shorter stays, renting is the more economical option.",
+    "conditions": [
+      "Staying for 4.5 years or longer",
+      "Staying for less than 4.5 years"
+    ],
+    "caveats": [
+      "The calculator's results are estimates based on input values and cannot predict the future.",
+      "Home markets vary widely across different regions."
+    ],
+    "reason_types": [
+      "time_horizon",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q4_010_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_010",
+    "source_type": "brand",
+    "source_name": "Calculator.net",
+    "url": "https://www.calculator.net/rent-vs-buy-calculator.html",
+    "bm25_score": 7.933929845400703,
+    "retrieval_rank": 16,
+    "main_claim": "Homeownership can provide tax incentives and build equity.",
+    "supporting_text": "Homeownership is often associated with tax benefits, and many believe that mortgages build equity over time. However, the actual appreciation rate of homes can be low, and costs associated with homeownership can offset these benefits.",
+    "conditions": [
+      "Homeownership provides tax incentives",
+      "Mortgages build equity"
+    ],
+    "caveats": [
+      "The average appreciation rate for home prices after adjusting for inflation is only 0.2%.",
+      "Homeownership includes significant one-time transaction costs and recurring maintenance costs."
+    ],
+    "reason_types": [
+      "equity_building",
+      "interest_rate",
+      "maintenance_cost"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 35
+  },
+  {
+    "id": "q4_010_a2",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_010",
+    "source_type": "brand",
+    "source_name": "Calculator.net",
+    "url": "https://www.calculator.net/rent-vs-buy-calculator.html",
+    "bm25_score": 7.933929845400703,
+    "retrieval_rank": 16,
+    "main_claim": "Renting offers flexibility and lower upfront costs compared to buying.",
+    "supporting_text": "Renting allows for negotiable lease terms and typically involves fewer upfront costs, making it a suitable option for those with uncertain futures. This flexibility can be advantageous for individuals who may not want to commit to a long-term investment.",
+    "conditions": [
+      "Uncertain future",
+      "Desire for flexibility"
+    ],
+    "caveats": [
+      "Renting may not build equity or provide long-term stability.",
+      "Rent prices can increase over time."
+    ],
+    "reason_types": [
+      "mobility",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 10,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q4_017_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_017",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/mortgages/calculators/rent-vs-buy-calculator",
+    "bm25_score": 7.86207441784904,
+    "retrieval_rank": 17,
+    "main_claim": "Renting can often come out ahead, especially in the early years of a home purchase.",
+    "supporting_text": "When comparing the two options, renting can often come out ahead, at least compared to the early years of a home purchase. But like the tortoise racing the hare, owning a home is more 'slow and steady,' a marathon instead of a sprint.",
+    "conditions": [
+      "Renters must invest their savings to match or exceed a home buyer's return on investment.",
+      "The virtues of buying grow when you stay in a home for a while."
+    ],
+    "caveats": [
+      "The direction of the housing market and interest rates can affect the decision.",
+      "Costs of owning a home include ongoing expenses like property taxes and maintenance."
+    ],
+    "reason_types": [
+      "cash_flow",
+      "time_horizon",
+      "housing_market"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 43
+  },
+  {
+    "id": "q4_008_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_008",
+    "source_type": "brand",
+    "source_name": "AmeriSave",
+    "url": "https://www.amerisave.com/learn/rent-vs-buy-a-house-calculator",
+    "bm25_score": 7.830400723700977,
+    "retrieval_rank": 18,
+    "main_claim": "Buying a home is likely to be the better financial choice if you plan to stay in one place for a long time.",
+    "supporting_text": "If you plan to stay in one place for a long time, buying is more likely to be the better financial choice. Homeownership could offer long-term benefits that you probably won't see right away.",
+    "conditions": [
+      "You expect to stay in the home for several years.",
+      "You have the financial stability to handle upfront costs."
+    ],
+    "caveats": [
+      "Market changes can impact home value and selling conditions.",
+      "Buying comes with higher upfront costs and maintenance responsibilities."
+    ],
+    "reason_types": [
+      "time_horizon",
+      "equity_building",
+      "cash_flow"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 23,
+    "supporting_word_count": 36
+  },
+  {
+    "id": "q4_008_a1",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_008",
+    "source_type": "brand",
+    "source_name": "AmeriSave",
+    "url": "https://www.amerisave.com/learn/rent-vs-buy-a-house-calculator",
+    "bm25_score": 7.830400723700977,
+    "retrieval_rank": 18,
+    "main_claim": "Renting may be the better short-term option if you want flexibility or aren't ready for the upfront costs of homeownership.",
+    "supporting_text": "Renting can offer short-term convenience and flexibility, but it may not support long-term financial goals like building equity. If you expect to move again within a few years, renting may offer more flexibility without the costs of buying and selling.",
+    "conditions": [
+      "You plan to move within a few years.",
+      "You prefer lower upfront costs."
+    ],
+    "caveats": [
+      "Monthly rent payments do not build equity.",
+      "Rent increases are common."
+    ],
+    "reason_types": [
+      "mobility",
+      "cash_flow",
+      "uncertainty"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 22,
+    "supporting_word_count": 42
+  },
+  {
+    "id": "q4_006_a0",
+    "query_id": "q4",
+    "query": "Is buying a home better than renting given current interest rates?",
+    "source_doc_id": "q4_006",
+    "source_type": "financial_media",
+    "source_name": "The Mortgage Reports",
+    "url": "https://themortgagereports.com/126300/cheaper-to-buy-than-rent-housing-markets-2026",
+    "bm25_score": 6.857603918349633,
+    "retrieval_rank": 20,
+    "main_claim": "It's cheaper to buy a home instead of rent in the majority of U.S. counties.",
+    "supporting_text": "According to a report from Attom, it's cheaper to buy a home than rent in 57.7% of U.S. counties in 2026. Homeownership expenses took up less of the average local wage than renting for 3-bedroom units in 210 of the 364 counties analyzed.",
+    "conditions": [
+      "Assuming a 20% down payment",
+      "Considering average mortgage rates, property taxes, and homeowner's insurance"
+    ],
+    "caveats": [
+      "The affordability varies by location, with the Midwest and South typically favoring home buying, while the West is almost exclusively cheaper for renters.",
+      "Not having enough saved for a down payment usually stands as the biggest obstacle."
+    ],
+    "reason_types": [
+      "housing_market",
+      "cash_flow",
+      "equity_building"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 47
+  }
+]

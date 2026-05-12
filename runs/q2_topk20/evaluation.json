@@ -1,0 +1,106 @@
+{
+  "EPIC_v4": {
+    "num_clusters": 3,
+    "purity_per_cluster": [
+      0.5562565326690674,
+      0.7647210359573364,
+      0.4842192828655243
+    ],
+    "purity_mean": 0.6017322838306427,
+    "inter_cluster_distance": 0.26398709416389465,
+    "ecs": 2.542955415092341,
+    "posture_coverage": 1.0,
+    "direction_coverage": 1.0,
+    "posture_balance": 0.895754137500101,
+    "direction_balance": 0.7559279292634754,
+    "coverage_adjusted_ecs": 2.542955415092341,
+    "balance_adjusted_ecs": 2.100076927843673
+  },
+  "Random": {
+    "num_clusters": 3,
+    "purity_per_cluster": [
+      0.531354546546936,
+      0.608776867389679,
+      0.41870760917663574
+    ],
+    "purity_mean": 0.5196130077044169,
+    "inter_cluster_distance": 0.09904295206069946,
+    "ecs": 1.8737806740781426,
+    "posture_coverage": 1.0,
+    "direction_coverage": 1.0,
+    "posture_balance": 0.895754137500101,
+    "direction_balance": 0.7559279292634754,
+    "coverage_adjusted_ecs": 1.8737806740781426,
+    "balance_adjusted_ecs": 1.5474449682115172
+  },
+  "RelevanceOrder": {
+    "num_clusters": 3,
+    "purity_per_cluster": [
+      0.5151995420455933,
+      0.5659673810005188,
+      0.4881976544857025
+    ],
+    "purity_mean": 0.5231215258439382,
+    "inter_cluster_distance": 0.10352549701929092,
+    "ecs": 1.8966733907178355,
+    "posture_coverage": 1.0,
+    "direction_coverage": 1.0,
+    "posture_balance": 0.895754137500101,
+    "direction_balance": 0.7559279292634754,
+    "coverage_adjusted_ecs": 1.8966733907178355,
+    "balance_adjusted_ecs": 1.5663507129781575
+  },
+  "SemanticOnlyGlobal": {
+    "num_clusters": 3,
+    "purity_per_cluster": [
+      0.6211654543876648,
+      0.6902822256088257,
+      0.5064541697502136
+    ],
+    "purity_mean": 0.6059672832489014,
+    "inter_cluster_distance": 0.28980574011802673,
+    "ecs": 2.6132419617786153,
+    "posture_coverage": 1.0,
+    "direction_coverage": 1.0,
+    "posture_balance": 0.8035842605086765,
+    "direction_balance": 0.5462947022805017,
+    "coverage_adjusted_ecs": 2.6132419617786153,
+    "balance_adjusted_ecs": 1.7637801744414372
+  },
+  "DirectionOnly": {
+    "num_clusters": 3,
+    "purity_per_cluster": [
+      0.572390079498291,
+      0.4842192828655243,
+      0.7616275548934937
+    ],
+    "purity_mean": 0.606078972419103,
+    "inter_cluster_distance": 0.23112435638904572,
+    "ecs": 2.4705866899661197,
+    "posture_coverage": 1.0,
+    "direction_coverage": 1.0,
+    "posture_balance": 0.895754137500101,
+    "direction_balance": 0.7559279292634754,
+    "coverage_adjusted_ecs": 2.4705866899661197,
+    "balance_adjusted_ecs": 2.0403118651009122
+  },
+  "NoUnclearHandling": {
+    "num_clusters": 5,
+    "purity_per_cluster": [
+      0.6348876953125,
+      0.47273555397987366,
+      0.6902822256088257,
+      0.7616275548934937,
+      0.4842192828655243
+    ],
+    "purity_mean": 0.6087504625320435,
+    "inter_cluster_distance": 0.2605166733264923,
+    "ecs": 5.814137555272001,
+    "posture_coverage": 1.0,
+    "direction_coverage": 1.0,
+    "posture_balance": 0.895754137500101,
+    "direction_balance": 0.7559279292634754,
+    "coverage_adjusted_ecs": 5.814137555272001,
+    "balance_adjusted_ecs": 4.801553366869694
+  }
+}

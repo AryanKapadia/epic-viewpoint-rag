@@ -1,0 +1,1061 @@
+[
+  {
+    "id": "q1_008_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_008",
+    "source_type": "credentialed",
+    "source_name": "WhiteCoatInvestor",
+    "url": "https://www.whitecoatinvestor.com/student-loans-vs-investing/",
+    "bm25_score": 9.03958673436259,
+    "retrieval_rank": 2,
+    "main_claim": "You should prioritize paying off high-interest debt before investing.",
+    "supporting_text": "Paying off high-interest debt is a wonderful, guaranteed investment. If you have high-interest debt, chances are good that you're not going to find an investment that will make that much money.",
+    "conditions": [
+      "If your debt is at 8% or higher.",
+      "If you have credit card debt accumulating interest."
+    ],
+    "caveats": [
+      "Not all debts are equal; consider the interest rates.",
+      "Ensure you are not sacrificing necessary investments."
+    ],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 10,
+    "supporting_word_count": 34
+  },
+  {
+    "id": "q1_008_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_008",
+    "source_type": "credentialed",
+    "source_name": "WhiteCoatInvestor",
+    "url": "https://www.whitecoatinvestor.com/student-loans-vs-investing/",
+    "bm25_score": 9.03958673436259,
+    "retrieval_rank": 2,
+    "main_claim": "Investing in tax-protected accounts should be prioritized over paying down low-interest loans.",
+    "supporting_text": "The more tax breaks available to you as an investor, the more you should lean toward investing instead of paying down loans. A 401(k) is a lot more valuable than most people think it is, especially for high-income professionals.",
+    "conditions": [
+      "If you have access to tax-sheltered accounts like a 401(k) or IRA.",
+      "If your loans have low interest rates."
+    ],
+    "caveats": [
+      "Consider the long-term benefits of both options.",
+      "Be aware of your current tax situation."
+    ],
+    "reason_types": [
+      "tax"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 41
+  },
+  {
+    "id": "q1_008_a2",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_008",
+    "source_type": "credentialed",
+    "source_name": "WhiteCoatInvestor",
+    "url": "https://www.whitecoatinvestor.com/student-loans-vs-investing/",
+    "bm25_score": 9.03958673436259,
+    "retrieval_rank": 2,
+    "main_claim": "You should consider your personal risk profile when deciding between paying off loans and investing.",
+    "supporting_text": "If you are a relatively conservative investor, close to retirement, or simply don't need to take on much risk, you should pay off loans before investing. The less risky your portfolio, the less sense it makes to carry loans while investing.",
+    "conditions": [
+      "If you are close to retirement.",
+      "If you have a low risk tolerance."
+    ],
+    "caveats": [
+      "Your financial situation may change over time.",
+      "Consider the potential for higher returns from investments."
+    ],
+    "reason_types": [
+      "risk_tolerance"
+    ],
+    "coarse_direction": "unclear",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 42
+  },
+  {
+    "id": "q1_008_a3",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_008",
+    "source_type": "credentialed",
+    "source_name": "WhiteCoatInvestor",
+    "url": "https://www.whitecoatinvestor.com/student-loans-vs-investing/",
+    "bm25_score": 9.03958673436259,
+    "retrieval_rank": 2,
+    "main_claim": "You should aim to pay off your student loans within 2-5 years of completing your training.",
+    "supporting_text": "Personally, I think you ought to have your education paid for within 2-5 years of completing your training. If you go much beyond five years, it will feel like a noose around your neck.",
+    "conditions": [
+      "If you have a significant amount of student loans.",
+      "If you want to achieve financial independence sooner."
+    ],
+    "caveats": [
+      "This may require lifestyle adjustments.",
+      "Consider the impact on your ability to invest."
+    ],
+    "reason_types": [
+      "liquidity"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 35
+  },
+  {
+    "id": "q1_008_a4",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_008",
+    "source_type": "credentialed",
+    "source_name": "WhiteCoatInvestor",
+    "url": "https://www.whitecoatinvestor.com/student-loans-vs-investing/",
+    "bm25_score": 9.03958673436259,
+    "retrieval_rank": 2,
+    "main_claim": "You can do both paying off loans and investing by living frugally.",
+    "supporting_text": "The most financially successful people I see are not choosing between their student loans and investing. They are doing both. A little sacrifice during the early career will allow incredible financial freedom.",
+    "conditions": [
+      "If you can minimize your spending.",
+      "If you have a high income."
+    ],
+    "caveats": [
+      "This approach requires discipline and planning.",
+      "You may need to prioritize certain financial goals."
+    ],
+    "reason_types": [
+      "psychology"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 32
+  },
+  {
+    "id": "q1_009_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_009",
+    "source_type": "brand",
+    "source_name": "RamseySolutions",
+    "url": "https://www.ramseysolutions.com/debt/pay-off-debt-before-retirement",
+    "bm25_score": 8.895282060165835,
+    "retrieval_rank": 3,
+    "main_claim": "You should pay off your student loans before you start investing.",
+    "supporting_text": "The best thing you can do for your financial future is ditch your debt so you can free up your income and start building wealth faster. If you pay off your debt first, you can invest more of your income later, leading to greater wealth accumulation.",
+    "conditions": [
+      "You have debt other than your mortgage.",
+      "You are willing to budget and possibly make sacrifices to pay off your debt."
+    ],
+    "caveats": [
+      "It may take time to pay off your debt.",
+      "You might feel like you're falling behind on other financial goals while focusing on debt repayment."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 11,
+    "supporting_word_count": 46
+  },
+  {
+    "id": "q1_009_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_009",
+    "source_type": "brand",
+    "source_name": "RamseySolutions",
+    "url": "https://www.ramseysolutions.com/debt/pay-off-debt-before-retirement",
+    "bm25_score": 8.895282060165835,
+    "retrieval_rank": 3,
+    "main_claim": "Paying off debt first can lead to significantly higher retirement savings.",
+    "supporting_text": "By paying off your student loans before investing, you can save on interest payments and invest more effectively later. For example, paying off a $38,792 loan in two years instead of dragging it out for 30 years can result in almost a million dollars more in retirement savings.",
+    "conditions": [
+      "You can afford to increase your monthly payments to pay off debt faster.",
+      "You are starting with a significant amount of student loan debt."
+    ],
+    "caveats": [
+      "This approach requires discipline and may involve temporary sacrifices.",
+      "The calculations are based on specific assumptions about income and investment returns."
+    ],
+    "reason_types": [
+      "investment_return",
+      "liquidity"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 11,
+    "supporting_word_count": 49
+  },
+  {
+    "id": "q1_bogle_reddit_001_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_bogle_reddit_001",
+    "source_type": "community",
+    "source_name": "reddit_bogleheads",
+    "url": "https://www.reddit.com/r/Bogleheads/comments/14wtkdf/pay_down_student_loan_debt_or_invest/",
+    "bm25_score": 8.86374841978999,
+    "retrieval_rank": 4,
+    "main_claim": "Invest the rest of your spare cash instead of paying down student loans faster than necessary.",
+    "supporting_text": "Keep 6 months expenses as an emergency fund. Invest the rest in tax-advantaged retirement accounts. I'd not pay down those student loans faster than I had to, those are fantastic interest rates.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "interest_rate",
+      "tax"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 34
+  },
+  {
+    "id": "q1_bogle_reddit_001_a2",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_bogle_reddit_001",
+    "source_type": "community",
+    "source_name": "reddit_bogleheads",
+    "url": "https://www.reddit.com/r/Bogleheads/comments/14wtkdf/pay_down_student_loan_debt_or_invest/",
+    "bm25_score": 8.86374841978999,
+    "retrieval_rank": 4,
+    "main_claim": "Pay off a portion of your student loans to reduce monthly payments.",
+    "supporting_text": "Pay off the smaller student loan, pay off 25% of the bigger student loan. Max out a Roth IRA if you're income eligibility is there.",
+    "conditions": [],
+    "caveats": [
+      "If you're earning a high salary, and can afford it."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "retirement_match"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 26
+  },
+  {
+    "id": "q1_bogle_reddit_001_a3",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_bogle_reddit_001",
+    "source_type": "community",
+    "source_name": "reddit_bogleheads",
+    "url": "https://www.reddit.com/r/Bogleheads/comments/14wtkdf/pay_down_student_loan_debt_or_invest/",
+    "bm25_score": 8.86374841978999,
+    "retrieval_rank": 4,
+    "main_claim": "Hold on to your low interest student loans and invest instead.",
+    "supporting_text": "The financially sound decision will be to hold on to your low interest student loans and not pay them off. You can make 5% or more just investing in CDs and treasuries in the current interest rate environment.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "interest_rate",
+      "investment_return"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 11,
+    "supporting_word_count": 38
+  },
+  {
+    "id": "q1_reddit_002_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_reddit_002",
+    "source_type": "community",
+    "source_name": "reddit",
+    "url": "https://www.reddit.com/r/personalfinance/comments/1qa8iqy/aggressively_payoff_student_loans_or_saveinvest/",
+    "bm25_score": 8.760002401646771,
+    "retrieval_rank": 5,
+    "main_claim": "From a purely financial point of view, you can just keep making the minimum payments on your student loans and get much better returns from the market long-term.",
+    "supporting_text": "3.1% and 3.6% are low enough rates that you can just keep making the minimum payments and get much better returns from the market long-term. Psychologically, I think not having to worry about debt anymore is huge and absolutely worth it.",
+    "conditions": [
+      "If you are not struggling for cash flow."
+    ],
+    "caveats": [
+      "Paying off debt has a nice personal feel-good mental bonus, which is intangible."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 29,
+    "supporting_word_count": 44
+  },
+  {
+    "id": "q1_reddit_002_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_reddit_002",
+    "source_type": "community",
+    "source_name": "reddit",
+    "url": "https://www.reddit.com/r/personalfinance/comments/1qa8iqy/aggressively_payoff_student_loans_or_saveinvest/",
+    "bm25_score": 8.760002401646771,
+    "retrieval_rank": 5,
+    "main_claim": "You should pay off the lowest balance debt to reduce monthly minimums if you are struggling for cash flow.",
+    "supporting_text": "If yes: Pay lowest balance debt to reduce monthly minimums. If no: Continue.",
+    "conditions": [
+      "If you are struggling for cash flow."
+    ],
+    "caveats": [
+      "The decision can vary based on personal circumstances and preferences."
+    ],
+    "reason_types": [
+      "liquidity"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 19,
+    "supporting_word_count": 13
+  },
+  {
+    "id": "q1_reddit_002_a2",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_reddit_002",
+    "source_type": "community",
+    "source_name": "reddit",
+    "url": "https://www.reddit.com/r/personalfinance/comments/1qa8iqy/aggressively_payoff_student_loans_or_saveinvest/",
+    "bm25_score": 8.760002401646771,
+    "retrieval_rank": 5,
+    "main_claim": "Paying off your debt tomorrow would be beneficial for peace of mind.",
+    "supporting_text": "Being debt free is lighter. It's a different state of being when you are no longer carrying that ball and chain.",
+    "conditions": [],
+    "caveats": [
+      "This is more of an emotional argument rather than a financial one."
+    ],
+    "reason_types": [
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 12,
+    "supporting_word_count": 22
+  },
+  {
+    "id": "q1_bogle_reddit_002_a3",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_bogle_reddit_002",
+    "source_type": "community",
+    "source_name": "reddit_bogleheads",
+    "url": "https://www.reddit.com/r/Bogleheads/comments/1rwfc5w/should_i_invest_or_pay_off_my_student_loans/",
+    "bm25_score": 8.65099890538277,
+    "retrieval_rank": 6,
+    "main_claim": "Establish an emergency fund before paying off loans.",
+    "supporting_text": "If something happens to you and you need money, you can't go to those student loan companies for help. Investing will on average outperform the rate of interest.",
+    "conditions": [
+      "If you don't have an emergency fund."
+    ],
+    "caveats": [
+      "Debt can be a psychological burden.",
+      "Wealthier individuals may be more comfortable with debt."
+    ],
+    "reason_types": [
+      "liquidity",
+      "psychology"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 29
+  },
+  {
+    "id": "q1_004_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_004",
+    "source_type": "brand",
+    "source_name": "Truist",
+    "url": "https://www.truist.com/money-mindset/principles/outsmarting-debt/pay-off-student-loans-or-invest",
+    "bm25_score": 8.427474462286783,
+    "retrieval_rank": 7,
+    "main_claim": "You can pay off student loans while also investing and saving for retirement.",
+    "supporting_text": "The good news is you don’t need to pick just one or the other. If you understand how your student loan payments can impact your ability to save or invest, you can find a way to do both.",
+    "conditions": [
+      "You have a solid financial foundation with money left over each month.",
+      "You are not living paycheck to paycheck."
+    ],
+    "caveats": [
+      "Paying off student loans shouldn't outweigh your goal of saving for retirement.",
+      "If your student loan interest rate is higher than your investment returns, prioritize paying off loans."
+    ],
+    "reason_types": [
+      "retirement_match",
+      "investment_return"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 39
+  },
+  {
+    "id": "q1_004_a2",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_004",
+    "source_type": "brand",
+    "source_name": "Truist",
+    "url": "https://www.truist.com/money-mindset/principles/outsmarting-debt/pay-off-student-loans-or-invest",
+    "bm25_score": 8.427474462286783,
+    "retrieval_rank": 7,
+    "main_claim": "You should consider maximizing your retirement savings to take advantage of employer matches.",
+    "supporting_text": "For each dollar you save in your 401(k), your employer may match your contribution, up to a certain percentage of your salary. If you’re not investing enough in your retirement account to get your full employer match, it can be like leaving 'free money' on the table.",
+    "conditions": [
+      "Your employer offers a 401(k) match."
+    ],
+    "caveats": [
+      "Not all employers provide this benefit."
+    ],
+    "reason_types": [
+      "retirement_match"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 13,
+    "supporting_word_count": 49
+  },
+  {
+    "id": "q1_005_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_005",
+    "source_type": "credentialed",
+    "source_name": "WhiteCoatInvestor",
+    "url": "https://www.whitecoatinvestor.com/pay-off-debt-or-invest/",
+    "bm25_score": 8.39977182468335,
+    "retrieval_rank": 8,
+    "main_claim": "Paying off debt is a good thing to do as it builds your net worth.",
+    "supporting_text": "Paying off debt is a good thing to do. It builds your net worth. Investing is also a good thing to do. In general, it also builds your net worth.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 30
+  },
+  {
+    "id": "q1_005_a4",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_005",
+    "source_type": "credentialed",
+    "source_name": "WhiteCoatInvestor",
+    "url": "https://www.whitecoatinvestor.com/pay-off-debt-or-invest/",
+    "bm25_score": 8.39977182468335,
+    "retrieval_rank": 8,
+    "main_claim": "If you can't tell which one is better for you, it probably doesn't matter much.",
+    "supporting_text": "If you can't tell which one is better for you, it probably doesn't matter much. If you're really paralyzed from doing either of them, just split the difference and put half of your extra money toward debt and half toward your investments.",
+    "conditions": [
+      "indecision between options"
+    ],
+    "caveats": [],
+    "reason_types": [],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 17,
+    "supporting_word_count": 45
+  },
+  {
+    "id": "q1_019_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_019",
+    "source_type": "financial_media",
+    "source_name": "CNBC",
+    "url": "https://www.cnbc.com/select/pay-off-student-loans-or-invest/",
+    "bm25_score": 8.375399125930095,
+    "retrieval_rank": 9,
+    "main_claim": "It can be more beneficial to focus on investing for the future rather than paying off student loans quickly.",
+    "supporting_text": "While many people want to pay off their student loans as quickly as possible, throwing every extra dollar toward their debt might not always be the best approach. For some, it doesn’t make financial sense to pile every last dollar into student loans, but rather focus on saving and investing for the future.",
+    "conditions": [
+      "If your student loan interest rate is below 5%.",
+      "If you have a fully-funded emergency fund."
+    ],
+    "caveats": [
+      "If you are paying more than 10% interest on your student loans, then you should definitely make repayment a priority.",
+      "Having debt can be a burden and may cause financial stress."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology",
+      "liquidity"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 19,
+    "supporting_word_count": 54
+  },
+  {
+    "id": "q1_012_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_012",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/finance/learn/pay-off-loans-or-save",
+    "bm25_score": 8.12386164955276,
+    "retrieval_rank": 10,
+    "main_claim": "Respondents largely urged the poster to put the money into savings or investments, where they are likely to earn a return greater than the cost of interest on the student loans.",
+    "supporting_text": "The student loan interest rates in question ranged from 3% to 4.5%, while interest rates for a 30-year mortgage currently hover just above 6%. Meanwhile, the average annual stock market return is around 10% (not accounting for inflation), as measured by the S&P 500 index.",
+    "conditions": [],
+    "caveats": [
+      "The decision is largely a personal one and can vary based on the specific situation and available rates."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "investment_return"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 31,
+    "supporting_word_count": 48
+  },
+  {
+    "id": "q1_012_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_012",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/finance/learn/pay-off-loans-or-save",
+    "bm25_score": 8.12386164955276,
+    "retrieval_rank": 10,
+    "main_claim": "Experts suggest focusing on building up at least several months’ worth of expenses before paying off debt or considering long-term savings goals.",
+    "supporting_text": "Creating an emergency fund for unexpected expenses is one of the most important parts of financial planning. You’ll want to be able to cover the big expenses, like mortgage or rent, car payments, utilities and other non-negotiables.",
+    "conditions": [
+      "A couple with only one earner or a single person might even want to strive for up to six months’ worth of expenses."
+    ],
+    "caveats": [],
+    "reason_types": [
+      "liquidity"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 23,
+    "supporting_word_count": 39
+  },
+  {
+    "id": "q1_014_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_014",
+    "source_type": "financial_media",
+    "source_name": "HatchEditorial",
+    "url": "https://hatch-books.com/blog/money-monday-reader-question-student-loan-debt-versus-investing",
+    "bm25_score": 8.042219996019604,
+    "retrieval_rank": 11,
+    "main_claim": "Your first priority should be paying down debt.",
+    "supporting_text": "This is an undeniably stronger argument than the argument for focusing on investing. Paying down student debt is obviously a requirement.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 21
+  },
+  {
+    "id": "q1_013_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_013",
+    "source_type": "financial_media",
+    "source_name": "BankRate",
+    "url": "https://www.bankrate.com/retirement/paying-off-debt-before-saving-for-retirement/",
+    "bm25_score": 8.005093605490142,
+    "retrieval_rank": 12,
+    "main_claim": "You should prioritize paying off student loans before focusing on investing.",
+    "supporting_text": "By pausing all investing while I focused on student loans, I also shifted my perspective on money: Debt is a short-term issue, and investing is a lifelong skill. Freeing yourself from the weight of debt before focusing on other financial priorities can relieve some of that burden.",
+    "conditions": [
+      "If you are feeling overwhelmed by trying to juggle paying off debt and saving for retirement.",
+      "If your student loan interest is compounding at a high rate."
+    ],
+    "caveats": [
+      "Be sure to check with a financial advisor or tax professional to understand the best option for your financial situation.",
+      "Your unique tax liability, employer match benefit and student debt details may impact your decision."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 11,
+    "supporting_word_count": 48
+  },
+  {
+    "id": "q1_015_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_015",
+    "source_type": "financial_media",
+    "source_name": "Finstart",
+    "url": "https://finstart.evergreen3c.com/blogs/should-you-invest-or-pay-off-student-loan-debt",
+    "bm25_score": 8.002844358774952,
+    "retrieval_rank": 13,
+    "main_claim": "If your student loan interest rate is high, paying off the loan might save you more money in the long run.",
+    "supporting_text": "The interest rate on your student loans plays a crucial role in this decision. Federal student loans typically have lower interest rates compared to private loans.",
+    "conditions": [
+      "If your loan interest rate is high"
+    ],
+    "caveats": [
+      "It depends on your individual financial situation, goals, and the specifics of your loans and investment opportunities."
+    ],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 21,
+    "supporting_word_count": 26
+  },
+  {
+    "id": "q1_002_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_002",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/student-loans/learn/save-invest-pay-off-student-loans",
+    "bm25_score": 7.991699372723453,
+    "retrieval_rank": 14,
+    "main_claim": "If your student loan interest rate is higher than 6%, it may be better to pay off your student loans rather than invest.",
+    "supporting_text": "As a general rule of thumb, it’s reasonable to expect a 6% average annual return on a stock market portfolio. An interest rate higher than 6% on your student loan could mean you may not make extra money by investing. Instead, your money might do more for you by paying down your student loan and reducing interest charges.",
+    "conditions": [
+      "Your student loan interest rate is higher than 6%."
+    ],
+    "caveats": [
+      "Investing comes with the risk of losing money.",
+      "This is not a guarantee of better financial outcomes."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "investment_return"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 23,
+    "supporting_word_count": 59
+  },
+  {
+    "id": "q1_002_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_002",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/student-loans/learn/save-invest-pay-off-student-loans",
+    "bm25_score": 7.991699372723453,
+    "retrieval_rank": 14,
+    "main_claim": "If your student loan interest rate is lower than 6%, you might earn more by investing than by paying down your student loans.",
+    "supporting_text": "An interest rate lower than 6% on your student loan means you might earn more with an investment than you could save by paying more on your student debt. However, this isn’t a guarantee, which means choosing to invest instead of paying toward student loans comes with the risk of losing money.",
+    "conditions": [
+      "Your student loan interest rate is lower than 6%."
+    ],
+    "caveats": [
+      "Investing carries risks and is not guaranteed to yield higher returns.",
+      "You could potentially lose money."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "investment_return",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 23,
+    "supporting_word_count": 53
+  },
+  {
+    "id": "q1_002_a2",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_002",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/student-loans/learn/save-invest-pay-off-student-loans",
+    "bm25_score": 7.991699372723453,
+    "retrieval_rank": 14,
+    "main_claim": "If you have federal student loans and qualify for a forgiveness program, investing is likely the best move.",
+    "supporting_text": "Federal loans generally have lower interest rates than private loans and come with more benefits. Programs such as Public Service Loan Forgiveness can reduce or erase your student debt, and paying extra on your federal student loans will only reduce the total amount that might qualify for forgiveness later.",
+    "conditions": [
+      "You have federal student loans.",
+      "You qualify for a forgiveness program."
+    ],
+    "caveats": [
+      "Paying extra on federal loans may reduce potential forgiveness benefits."
+    ],
+    "reason_types": [
+      "forgiveness"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 18,
+    "supporting_word_count": 49
+  },
+  {
+    "id": "q1_002_a3",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_002",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/student-loans/learn/save-invest-pay-off-student-loans",
+    "bm25_score": 7.991699372723453,
+    "retrieval_rank": 14,
+    "main_claim": "If you have private student loans, it’s probably better to prioritize repaying the loans.",
+    "supporting_text": "Private loans often have higher interest rates than federal loans and rarely have the same repayment or forgiveness programs. If you have private student loans, it’s probably better to prioritize repaying the loans and possibly refinancing.",
+    "conditions": [
+      "You have private student loans."
+    ],
+    "caveats": [
+      "Refinancing can be risky and may not be suitable for everyone."
+    ],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 37
+  },
+  {
+    "id": "q1_002_a4",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_002",
+    "source_type": "financial_media",
+    "source_name": "NerdWallet",
+    "url": "https://www.nerdwallet.com/student-loans/learn/save-invest-pay-off-student-loans",
+    "bm25_score": 7.991699372723453,
+    "retrieval_rank": 14,
+    "main_claim": "You don’t necessarily have to choose between paying down debt and investing; aim to do both if possible.",
+    "supporting_text": "If you can, aim to at least invest in a retirement fund, through a 401(k), IRA or both. Then put any extra cash toward your student loans. This way, you’re reducing debt while still building long-term savings.",
+    "conditions": [
+      "You have the financial capacity to do both."
+    ],
+    "caveats": [
+      "This may not be feasible for everyone depending on their financial situation."
+    ],
+    "reason_types": [
+      "liquidity",
+      "retirement_match"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 19,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q1_006_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_006",
+    "source_type": "brand",
+    "source_name": "HuntingtonBank",
+    "url": "https://www.huntington.com/learn/credit-debt/pay-off-student-loans-vs-invest",
+    "bm25_score": 7.881613364297783,
+    "retrieval_rank": 15,
+    "main_claim": "Paying off student loans early might feel like the best decision because it’s likely the largest amount of debt you have.",
+    "supporting_text": "As you examine your finances, think about the pros and cons of doubling down on student debt. Paying your student loans early can reduce the amount of interest you accrue, saving you money, and improve your debt-to-income ratio, which may help improve your credit score.",
+    "conditions": [
+      "You have a secure emergency fund with at least three to six months of living expenses.",
+      "Your student loans are primarily private with higher interest rates."
+    ],
+    "caveats": [
+      "Higher monthly payments may strain your budget.",
+      "You may miss out on student loan forgiveness programs if you pay off loans early."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "forgiveness",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 22,
+    "supporting_word_count": 47
+  },
+  {
+    "id": "q1_006_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_006",
+    "source_type": "brand",
+    "source_name": "HuntingtonBank",
+    "url": "https://www.huntington.com/learn/credit-debt/pay-off-student-loans-vs-invest",
+    "bm25_score": 7.881613364297783,
+    "retrieval_rank": 15,
+    "main_claim": "If your long-term financial goals include building your savings or retiring early, you may want to consider paying the minimum toward your student debt each month and prioritizing extra income for investments.",
+    "supporting_text": "Investing in a 401(k) or the stock market could help you earn a passive income over time. If your student loan interest rates are less than 6%, that could be a good reason to put some extra cash toward retirement or investments.",
+    "conditions": [
+      "Your student loan interest rates are lower than 6%.",
+      "Your employer offers a 401(k) matching program."
+    ],
+    "caveats": [
+      "Investing in the stock market involves risk and is not guaranteed to earn more than paying off loans.",
+      "You should do your research and consult a financial advisor before investing."
+    ],
+    "reason_types": [
+      "investment_return",
+      "retirement_match",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 33,
+    "supporting_word_count": 43
+  },
+  {
+    "id": "q1_003_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_003",
+    "source_type": "brand",
+    "source_name": "JohnHancock",
+    "url": "https://www.johnhancock.com/ideas-insights/how-to-invest-while-paying-off-student-debt.html",
+    "bm25_score": 7.85766922636973,
+    "retrieval_rank": 16,
+    "main_claim": "If your loans have an interest rate below 6%, it may make sense to put more of your money towards investing.",
+    "supporting_text": "That’s because over the long term, you will likely earn more from those returns than you’ll save by paying off your loans faster. For example, if you invest $20,000 instead of paying off a loan with a 3% interest rate, you could earn an estimated $5,817 on that investment.",
+    "conditions": [
+      "Loans have an interest rate below 6%",
+      "You have the ability to invest while managing loan payments"
+    ],
+    "caveats": [
+      "If your interest rates are higher and you can’t refinance to get lower rates, it’s probably a good idea to focus more on paying off your loans."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "investment_return"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 21,
+    "supporting_word_count": 53
+  },
+  {
+    "id": "q1_003_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_003",
+    "source_type": "brand",
+    "source_name": "JohnHancock",
+    "url": "https://www.johnhancock.com/ideas-insights/how-to-invest-while-paying-off-student-debt.html",
+    "bm25_score": 7.85766922636973,
+    "retrieval_rank": 16,
+    "main_claim": "You don’t have to wait until your student debt is paid off to start investing.",
+    "supporting_text": "Fortunately, there are plenty of ways to successfully balance investment opportunities while paying off your loans. With the right strategy, it’s very possible to pay off your loans and start investing at the same time.",
+    "conditions": [
+      "You have a strategy to balance both paying off loans and investing"
+    ],
+    "caveats": [
+      "Managing your financial priorities is a balancing act."
+    ],
+    "reason_types": [
+      "liquidity"
+    ],
+    "coarse_direction": "hybrid",
+    "main_claim_word_count": 16,
+    "supporting_word_count": 36
+  },
+  {
+    "id": "q1_001_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_001",
+    "source_type": "financial_media",
+    "source_name": "Investopedia",
+    "url": "https://www.investopedia.com/paying-off-student-loans-vs-investing-8609172",
+    "bm25_score": 7.750706327484448,
+    "retrieval_rank": 17,
+    "main_claim": "Paying off student loans can provide financial certainty despite potential higher returns from stocks.",
+    "supporting_text": "Although it's often good to get out of debt earlier, sometimes it pays off more in the long run to put more of your funds toward building up your investments. However, you have to weigh any interest savings against potential investment returns.",
+    "conditions": [
+      "If you have high student loan interest rates compared to potential investment returns.",
+      "If your primary goal is to become debt-free."
+    ],
+    "caveats": [
+      "You may miss out on potential higher returns from investments.",
+      "You could lose potential forgiveness benefits with federal loans."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "forgiveness",
+      "psychology"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 14,
+    "supporting_word_count": 43
+  },
+  {
+    "id": "q1_001_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_001",
+    "source_type": "financial_media",
+    "source_name": "Investopedia",
+    "url": "https://www.investopedia.com/paying-off-student-loans-vs-investing-8609172",
+    "bm25_score": 7.750706327484448,
+    "retrieval_rank": 17,
+    "main_claim": "Investing can have higher return potential compared to the guaranteed return of repaying student loans.",
+    "supporting_text": "Investments often have a higher return potential compared to the 'guaranteed return' of repaying student loans. This is especially true if you have access to benefits like an employer match on retirement contributions.",
+    "conditions": [
+      "If you have a high risk tolerance and a long time horizon for investments.",
+      "If you are eligible for debt forgiveness in the future."
+    ],
+    "caveats": [
+      "There is a risk of losses with investments.",
+      "Investing may lead to remaining in debt longer, which could be mentally taxing."
+    ],
+    "reason_types": [
+      "risk_tolerance",
+      "investment_return",
+      "retirement_match"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 15,
+    "supporting_word_count": 33
+  },
+  {
+    "id": "q1_011_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_011",
+    "source_type": "credentialed",
+    "source_name": "DonovanBrooks",
+    "url": "https://www.donovanbrooks.com/blog/11-things-dave-ramsey-has-wrong",
+    "bm25_score": 7.403629185298006,
+    "retrieval_rank": 19,
+    "main_claim": "You should pay off all debt before investing.",
+    "supporting_text": "Dave has always recommended pausing all investing before your non-mortgage debt is paid off. This is very problematic. By this reasoning it could be 10, 20, or 30 years before someone with student loans could invest for the future.",
+    "conditions": [],
+    "caveats": [
+      "This could lead to missing out on employer matching contributions and compounded growth from investments.",
+      "Not all individuals may be disciplined enough to focus solely on debt repayment."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "retirement_match"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 8,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q1_017_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_017",
+    "source_type": "financial_media",
+    "source_name": "CollegeFinance",
+    "url": "https://collegefinance.com/student-loans/is-it-better-to-pay-student-loan-debt-or-save-or-invest",
+    "bm25_score": 7.351208866226376,
+    "retrieval_rank": 20,
+    "main_claim": "If the interest rates on your debts are high, then it makes sense to pay more than the minimum payments until that debt is gone before you invest.",
+    "supporting_text": "Debts are the most burdensome in a long-term financial sense when they have very high interest rates. This is more relevant than the principal balance to a degree. If you had a very high debt balance, but it didn’t accrue interest, then taking longer to pay it off can benefit you because, due to inflation, future dollars are worth less than today’s dollars.",
+    "conditions": [
+      "Your student loan interest rate is higher than the rate of inflation.",
+      "You have an income surplus."
+    ],
+    "caveats": [
+      "If you have other debts with even higher interest rates, those should be paid off first.",
+      "If your student loan interest rate is comparable to current inflation rates, there is little financial benefit to paying it off sooner."
+    ],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 28,
+    "supporting_word_count": 66
+  },
+  {
+    "id": "q1_017_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_017",
+    "source_type": "financial_media",
+    "source_name": "CollegeFinance",
+    "url": "https://collegefinance.com/student-loans/is-it-better-to-pay-student-loan-debt-or-save-or-invest",
+    "bm25_score": 7.351208866226376,
+    "retrieval_rank": 20,
+    "main_claim": "If you expect investments to earn a higher interest rate than your debt is gaining, then it almost always makes sense to invest instead of paying off the debt first.",
+    "supporting_text": "Given that federal student loans often have lower interest rates than stock market averages, it is likely in your favor to invest extra money rather than pay down these loans sooner. Debt with low interest rates, however, may not benefit from being paid sooner.",
+    "conditions": [
+      "Your student loan interest rate is lower than the expected return on investments.",
+      "You do not have other debts with higher interest rates."
+    ],
+    "caveats": [
+      "Invested money cannot usually be easily accessed as needed.",
+      "You may end up having to pay penalties for accessing invested funds earlier."
+    ],
+    "reason_types": [
+      "investment_return",
+      "liquidity"
+    ],
+    "coarse_direction": "option_b",
+    "main_claim_word_count": 30,
+    "supporting_word_count": 44
+  },
+  {
+    "id": "q1_010_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_010",
+    "source_type": "financial_media",
+    "source_name": "TheStreet",
+    "url": "https://www.thestreet.com/personal-finance/dave-ramseys-most-controversial-pieces-of-financial-advice",
+    "bm25_score": 7.169676910802691,
+    "retrieval_rank": 21,
+    "main_claim": "Paying off all debt before investing is a recommended strategy.",
+    "supporting_text": "Dave Ramsey advises to refrain from investing until you’ve paid off all of your non-mortgage debt. The logic of this advice is fairly sound, in that paying down debt is an investment with a guaranteed rate of return.",
+    "conditions": [
+      "If the debt has a high interest rate.",
+      "If there is no employer-sponsored, tax-advantaged investment account available."
+    ],
+    "caveats": [
+      "This advice may not be suitable for those with lower-interest debt, such as student loans.",
+      "Delaying investment can lead to missed opportunities for growth."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "retirement_match"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 10,
+    "supporting_word_count": 40
+  },
+  {
+    "id": "q1_reddit_001_a0",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_reddit_001",
+    "source_type": "community",
+    "source_name": "reddit",
+    "url": "https://www.reddit.com/r/personalfinance/comments/1stmd78/investing_hsa_funds_or_paying_off_loans/",
+    "bm25_score": 7.076134626018505,
+    "retrieval_rank": 22,
+    "main_claim": "Paying off the student loan is the obvious answer.",
+    "supporting_text": "Loans are the obvious answer. I just paid off an unsub loan (still in college). You would be lucky to get 8.33% say if that went into a Roth IRA. Paying off the loan or to lower the principle to a minimal amount seems like the move.",
+    "conditions": [],
+    "caveats": [],
+    "reason_types": [
+      "interest_rate"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 9,
+    "supporting_word_count": 48
+  },
+  {
+    "id": "q1_reddit_001_a1",
+    "query_id": "q1",
+    "query": "Should I pay off student loans or start investing?",
+    "source_doc_id": "q1_reddit_001",
+    "source_type": "community",
+    "source_name": "reddit",
+    "url": "https://www.reddit.com/r/personalfinance/comments/1stmd78/investing_hsa_funds_or_paying_off_loans/",
+    "bm25_score": 7.076134626018505,
+    "retrieval_rank": 22,
+    "main_claim": "Prioritize extra payments on the 8.83% loan first.",
+    "supporting_text": "An 8.83% debt is relatively expensive. A common approach would be to prioritize extra payments on the 8.83% loan first, while still contributing to the HSA for the tax benefits.",
+    "conditions": [],
+    "caveats": [
+      "Investing HSA funds in something like FXAIX can average higher long term, but it’s not guaranteed and comes with market risk."
+    ],
+    "reason_types": [
+      "interest_rate",
+      "tax",
+      "risk_tolerance"
+    ],
+    "coarse_direction": "option_a",
+    "main_claim_word_count": 9,
+    "supporting_word_count": 32
+  }
+]

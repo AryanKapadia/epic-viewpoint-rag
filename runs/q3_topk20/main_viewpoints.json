@@ -1,0 +1,117 @@
+[
+  {
+    "main_viewpoint_rank": 1,
+    "cluster_id": "c3",
+    "label": "Emergency Fund Before Debt",
+    "confidence": "Confident",
+    "mean_confidence": 0.6110599096872358,
+    "size": 9,
+    "dominant_direction": "option_a",
+    "source_types": [
+      "brand",
+      "credentialed"
+    ],
+    "source_names": [
+      "Alliant Credit Union",
+      "Chase",
+      "Consumer Financial Protection Bureau",
+      "Discover",
+      "Donovanbrooks",
+      "Northwestern Mutual",
+      "PNC",
+      "SoFi",
+      "UMB Blog"
+    ],
+    "source_count": 9,
+    "summary": "The central perspective advocates for building an emergency fund before aggressively paying down credit card debt. This approach ensures financial stability and provides a safety net against unexpected expenses, which can prevent further debt accumulation. Establishing even a modest emergency fund can offer psychological relief and better cash flow management.",
+    "key_reasons": [
+      "liquidity",
+      "risk_tolerance",
+      "psychology"
+    ],
+    "conditions": [
+      "You have no emergency fund set aside.",
+      "You have a stable income that allows for saving."
+    ],
+    "caveats": [
+      "Building an emergency fund may take time, during which credit card debt could accrue interest.",
+      "If you have high-interest debt, you may need to balance your approach."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 2,
+    "cluster_id": "c1",
+    "label": "High-Interest Debt First",
+    "confidence": "Confident",
+    "mean_confidence": 0.6808041740382867,
+    "size": 9,
+    "dominant_direction": "option_b",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Ally",
+      "Centier Bank",
+      "Chase",
+      "Discover",
+      "Donovanbrooks",
+      "Nerdwallet",
+      "Ramseysolutions",
+      "Suze Orman",
+      "UMB Blog"
+    ],
+    "source_count": 9,
+    "summary": "The central perspective advocates for prioritizing the repayment of high-interest credit card debt before building an emergency fund. This approach is supported by the potential to save money on interest and improve financial health. However, it acknowledges the risk of having limited savings for unexpected expenses.",
+    "key_reasons": [
+      "interest_rate",
+      "cash_flow",
+      "psychology"
+    ],
+    "conditions": [
+      "You have high-interest credit card debt.",
+      "You can make larger payments towards your debt."
+    ],
+    "caveats": [
+      "Focusing solely on debt repayment may deplete your savings.",
+      "This approach may lead to a lack of savings for unexpected expenses."
+    ]
+  },
+  {
+    "main_viewpoint_rank": 3,
+    "cluster_id": "c2",
+    "label": "Balance Savings and Debt Repayment",
+    "confidence": "Conditional",
+    "mean_confidence": 0.6471828733639254,
+    "size": 6,
+    "dominant_direction": "hybrid",
+    "source_types": [
+      "brand",
+      "financial_media"
+    ],
+    "source_names": [
+      "Ally",
+      "Bankrate",
+      "Centier Bank",
+      "LendingTree",
+      "Nerdwallet",
+      "PNC"
+    ],
+    "source_count": 6,
+    "summary": "The central perspective advocates for simultaneously building a small emergency fund while paying down high-interest credit card debt. This approach helps manage risk and interest costs, ensuring liquidity for emergencies while reducing debt. It is not an either-or decision but a balanced strategy to achieve both financial goals.",
+    "key_reasons": [
+      "liquidity",
+      "cash_flow",
+      "interest_rate"
+    ],
+    "conditions": [
+      "You have no emergency fund yet.",
+      "You carry high-interest credit card debt."
+    ],
+    "caveats": [
+      "This may not always be the right solution.",
+      "Balancing both may require careful budgeting and financial discipline."
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "perspective_id": "p1",
+    "perspective_number": 1,
+    "cluster_id": "c0",
+    "label": "Mortgage Freedom First",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed"
+    ],
+    "source_names": [
+      "John Hancock",
+      "One Day in July"
+    ],
+    "source_count": 2,
+    "summary": "The central claim is that paying off your mortgage early can provide peace of mind and is traditionally a safer financial move. This approach is particularly beneficial for those who are debt averse or have high interest rates on their mortgage. However, it's important to ensure you maintain sufficient liquid assets to cover unexpected expenses.",
+    "key_reasons": [
+      "psychology",
+      "liquidity",
+      "risk_tolerance"
+    ],
+    "conditions": [
+      "Individuals are debt averse.",
+      "If you have a high interest rate, you'll want to make paying that off a priority."
+    ],
+    "caveats": [
+      "If most of your money is tied up in your home and an emergency arises, you might need to apply for a new loan or line of credit."
+    ]
+  },
+  {
+    "perspective_id": "p2",
+    "perspective_number": 2,
+    "cluster_id": "c1",
+    "label": "Invest Over Low-Rate Mortgage",
+    "confidence": "Confident",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "A Wealth of Common Sense",
+      "Bankrate",
+      "Benzinga",
+      "Charles Schwab",
+      "Homestead Financial",
+      "John Hancock",
+      "One Day in July",
+      "Rocket Mortgage",
+      "Wealthfront"
+    ],
+    "source_count": 9,
+    "summary": "The central perspective argues that investing in index funds is generally more financially beneficial than paying off a low-interest mortgage early. This is because the historical returns from the stock market typically exceed mortgage interest rates, allowing for greater wealth accumulation over time.",
+    "key_reasons": [
+      "investment_return",
+      "interest_rate",
+      "risk_tolerance"
+    ],
+    "conditions": [
+      "Your mortgage interest rate is lower than the potential investment returns.",
+      "You have a stable source of income that allows you to invest in a long-term strategy."
+    ],
+    "caveats": [
+      "Investing is subject to market volatility and risk.",
+      "Personal financial situations and goals should be considered."
+    ]
+  },
+  {
+    "perspective_id": "p3",
+    "perspective_number": 3,
+    "cluster_id": "c2",
+    "label": "Mortgage Payoff Priority",
+    "confidence": "Conditional",
+    "source_types": [
+      "brand",
+      "credentialed",
+      "financial_media"
+    ],
+    "source_names": [
+      "Bankrate",
+      "Benzinga",
+      "Charles Schwab",
+      "Heartland Credit Union",
+      "Homestead Financial",
+      "One Day in July",
+      "Wealthfront"
+    ],
+    "source_count": 7,
+    "summary": "The central claim is that paying off your mortgage early can provide significant interest savings and a guaranteed return equal to the loan's interest rate, which is particularly appealing if the mortgage rate is high. This approach offers peace of mind and reduces financial risk. However, it may yield lower returns compared to investing and limit liquidity.",
+    "key_reasons": [
+      "interest_rate",
+      "psychology",
+      "liquidity"
+    ],
+    "conditions": [
+      "You may prefer the emotional satisfaction of being debt-free.",
+      "Mortgage interest rate is high, making the guaranteed return more attractive."
+    ],
+    "caveats": [
+      "This approach may yield lower financial returns compared to investing in the stock market.",
+      "Putting all your excess cash into your mortgage means tying it up in an illiquid asset."
+    ]
+  }
+]

@@ -1,4 +1,4 @@
-# EPIC Viewpoint RAG
+# Beyond Single-Answer RAG: Viewpoint Coverage Retrieval for Financial Decision Support
 
 EPIC is a deliberation-oriented retrieval and interface pipeline for financial decision support. Instead of retrieving evidence and collapsing it into a single answer, EPIC retrieves candidate documents, decomposes them into structured argument units, discovers grounded perspective families, and presents viewpoint panels with source grounding, conditions, and caveats.
 

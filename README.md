@@ -6,6 +6,8 @@ EPIC is a deliberation-oriented retrieval and interface pipeline for financial d
 
 - Streamlit demo: [epic-viewpoint-rag.streamlit.app](https://epic-viewpoint-rag-hagp5mrp6k2nkamogx83wn.streamlit.app/)
 - Final report: [AdvancedIR_Spring26_ResearchProj.pdf](report/AdvancedIR_Spring26_ResearchProj.pdf)
+- Presentation: [Beyond_Single-Answer_RAG_Viewpoint_Coverage_Retrieval_for_Financial_Decision_Support.pdf](presentation/Beyond_Single-Answer_RAG_Viewpoint_Coverage_Retrieval_for_Financial_Decision_Support.pdf)
+- Video walkthrough: [Google Drive recording](https://drive.google.com/file/d/1kxEyJrw3G_rZ6FlGFm0y3rfLKynMcvVM/view?usp=drive_link)
 
 ## Pipeline overview
 
